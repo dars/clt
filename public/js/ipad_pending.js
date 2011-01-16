@@ -37,7 +37,9 @@ var pending_ds = new Ext.data.JsonStore({
 	proxy:{
 		type:'ajax',
 		url:'pending',
+		actionMethods:'post',
 		reader:{
+			totalProperty:'totalProperty',
 			root:'root'
 		}
 	},
@@ -47,6 +49,7 @@ var pending_ds = new Ext.data.JsonStore({
 	}
 });
 pending_ds.on('load',function(){
+	task_a.delay(100);
 });
 var card1_tpl = new Ext.XTemplate(
 	'<div class="thumb-wrap">',
@@ -67,7 +70,7 @@ var card1_tpl = new Ext.XTemplate(
 		'</div>',
 		'<div style="clear:both"></div>',
 	'</div>');
-//var card1 = new Ext.List({
+
 var card1 = new Ext.List({
 	indexBar: new Ext.IndexBar({
 		overlay:true,
@@ -207,7 +210,8 @@ var card1_panel = new Ext.Panel({
 		},{xtype:'spacer'},search_field,{
 			iconCls:'search',
 			handler:function(){
-				Ext.Msg.alert('訊息',search_field.getValue());
+				var keyword = search_field.getValue();
+				pending_ds.load({params:{'keyword':keyword}});
 			}
 		}]
 	}],

@@ -6,9 +6,24 @@ class Pending extends Controller{
 		$this->db->join('products as b','a.product_id = b.id','left');
 		$this->db->join('customers as c','a.customer_id = c.id','left');
 		$this->db->join('units as d','a.unit_id = d.id','left');
-		$this->db->where('(a.num+a.bad_num-a.ok_num-a.batch_num)>0');
+		
+		if($this->input->post('keyword')){
+			$keyword = $this->input->post('keyword');
+			$where = '((a.num+a.bad_num-a.ok_num-a.batch_num)>0) and (';
+			$where.= "b.name LIKE '%".$keyword."%' or ";
+			$where.= "a.x1 = '".$keyword."' or ";
+			$where.= "a.x2 = '".$keyword."' or ";
+			$where.= "a.y1 = '".$keyword."' or ";
+			$where.= "a.y2 = '".$keyword."' or ";
+			$where.= "a.num = '".$keyword."' or ";
+			$where.= "c.name LIKE '%".$keyword."%')";
+			$this->db->where($where);
+		}else{
+			$this->db->where('(a.num+a.bad_num-a.ok_num-a.batch_num)>0');
+		}
 		$this->db->order_by('a.id','DESC');
 		$query = $this->db->get('orders as a');
+		//echo $this->db->last_query();
 		$res = new stdClass();
 		$res->root = $query->result();
 		$res->totalProperty = $this->db->count_all_results('orders');

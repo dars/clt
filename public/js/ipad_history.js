@@ -39,6 +39,7 @@ var history_ds = new Ext.data.JsonStore({
 	proxy:{
 		type:'ajax',
 		url:'history',
+		actionMethods:'post',
 		reader:{
 			root:'root'
 		}
@@ -196,7 +197,8 @@ var card4_panel = new Ext.Panel({
 		},{xtype:'spacer'},hsearch_field,{
 			iconCls:'search',
 			handler:function(){
-				Ext.Msg.alert('訊息',hsearch_field.getValue());
+				var keyword = hsearch_field.getValue();
+				history_ds.load({params:{'keyword':keyword}});
 			}
 		}]
 	}],

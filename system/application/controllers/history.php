@@ -8,10 +8,25 @@ class History extends Controller{
 		$this->db->join('units as d','b.unit_id = d.id','left');
 		$this->db->join('bad as e','e.batch_id = a.id','left');
 		$this->db->join('customers as f','b.customer_id = f.id','left');
-		$this->db->where('a.status',1);
+		if($this->input->post('keyword')){
+			$keyword = $this->input->post('keyword');
+			$where = '(a.status=1) and (';
+			$where.= "c.name LIKE '%".$keyword."%' or ";
+			$where.= "b.x1 = '".$keyword."' or ";
+			$where.= "b.x2 = '".$keyword."' or ";
+			$where.= "b.y1 = '".$keyword."' or ";
+			$where.= "b.y2 = '".$keyword."' or ";
+			$where.= "a.num = '".$keyword."' or ";
+			$where.= "a.batch_num = '".$keyword."' or ";
+			$where.= "f.name LIKE '%".$keyword."%')";
+			$this->db->where($where);
+		}else{
+			$this->db->where('a.status',1);
+		}
 		$this->db->order_by('a.modified','DESC');
 		$this->db->limit($this->input->post('limit'),$this->input->post('start'));
 		$query = $this->db->get('batches as a');
+		//echo $this->db->last_query();
 		$res = new stdClass();
 		$res->root = $query->result();
 		$res->totalProperty = $this->db->count_all_results('batches');

@@ -13,6 +13,11 @@
 <script src="<?=site_url('public/js/ipad_bad.js')?>"></script>
 <script src="<?=site_url('public/js/ipad_history.js')?>"></script>
 <script src="<?=site_url('public/js/ipad.js')?>"></script>
+<script>
+var task_a;
+var task_b;
+var chk_order_id;
+</script>
 </head>
 <body></body>
 </html>

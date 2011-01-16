@@ -117,7 +117,7 @@ var order = new Ext.grid.GridPanel({
 					}
 				});
 			}
-		},'-',{
+		}/*,'-',{
 			id:'order_filter',
 			text:'搜尋',
 			iconCls:'ss_sprite ss_zoom',
@@ -125,7 +125,7 @@ var order = new Ext.grid.GridPanel({
 			handler:function(){
 				order_fwin.show();
 			}
-		}
+		}*/
 	])
 });
 order.on('render',function(){
