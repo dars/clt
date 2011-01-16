@@ -1,0 +1,21 @@
+var property = new Ext.grid.PropertyGrid({
+	title:'系統設定',
+	id:'prop_grid',
+	propertyNames:{
+		refreshTime:'更新時間(分)'
+	},
+	source:{
+		refreshTime:15
+	},
+	viewConfig:{
+		forceFit:true
+	}
+});
+property.on('afteredit',function(e){
+	alert(e.value);
+	Ext.Ajax.request({
+		url:'property/save',
+		success:function(){},
+		params:'time='+e.value
+	});
+});

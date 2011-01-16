@@ -1,0 +1,362 @@
+var old_prod;
+var old_cust;
+var old_unit;
+var order_ds = new Ext.data.JsonStore({
+	proxy:new Ext.data.HttpProxy({method:'post',url:'orders/read'}),
+	root:'root',
+	fields:[
+		{name:'id',type:'int'},
+		{name:'product_id',type:'int'},
+		{name:'customer_id',type:'int'},
+		{name:'unit_id',type:'int'},
+		{name:'x1',type:'string'},
+		{name:'y1',type:'string'},
+		{name:'x2',type:'string'},
+		{name:'y2',type:'string'},
+		{name:'num',type:'int'},
+		{name:'content',type:'string'},
+		{name:'created',type:'string'},
+		{name:'modified',type:'string'},
+		{name:'spec1_l',type:'string'},
+		{name:'spec1_s',type:'string'},
+		{name:'spec2_num',type:'string'},
+		{name:'spec2_l',type:'string'},
+		{name:'spec2_s',type:'string'},
+		{name:'spec3_l',type:'string'},
+		{name:'spec3_s',type:'string'},
+		{name:'spec4_l',type:'string'},
+		{name:'spec4_s',type:'string'},
+		{name:'spec5_num',type:'string'},
+		{name:'spec5_l',type:'string'},
+		{name:'spec5_s',type:'string'},
+		{name:'spec6',type:'string'},
+		{name:'img',type:'string'}
+	]
+});
+function setEditOrderData(){
+	order_form.buttons[0].setText('修改');
+	setTimeout(function(){
+		order_form.getForm().loadRecord(order_ds.getAt(0));
+		order_form.getForm().findField('img').setValue('');
+		order_form.getForm().findField('img_name').setValue(img_render(order_ds.getAt(0).data.img));
+	},500);
+	order_win.show();
+	order_ds.un('load',setEditOrderData);
+}
+var prod_list_ds = new Ext.data.JsonStore({
+	proxy:new Ext.data.HttpProxy({method:'post',url:'products/combo_list'}),
+	root:'root',
+	fields:[
+		{name:'id'},
+		{name:'name'}
+	]
+});
+var prod_combo = new Ext.form.ComboBox({
+	fieldLabel:'產品名稱',
+	id:'prod_combo',
+	store:prod_list_ds,
+	mode:'local',
+	hiddenName:'product_id',
+	displayField:'name',
+	valueField:'id',
+	width:140,
+	emptyText:'請選擇',
+	allowBlank:false
+});
+var cust_list_ds = new Ext.data.JsonStore({
+	proxy:new Ext.data.HttpProxy({method:'post',url:'customers/combo_list'}),
+	root:'root',
+	fields:[
+		{name:'id'},
+		{name:'name'}
+	]
+});
+var cust_combo = new Ext.form.ComboBox({
+	fieldLabel:'客戶名稱',
+	id:'cust_combo',
+	store:cust_list_ds,
+	mode:'local',
+	hiddenName:'customer_id',
+	displayField:'name',
+	valueField:'id',
+	width:140,
+	emptyText:'請選擇',
+	allowBlank:false
+});
+var unit_list_ds = new Ext.data.JsonStore({
+	proxy:new Ext.data.HttpProxy({method:'post',url:'units/combo_list'}),
+	root:'root',
+	fields:[
+		{name:'id'},
+		{name:'name'}
+	]
+});
+var unit_combo = new Ext.form.ComboBox({
+	fieldLabel:'尺寸單位',
+	id:'unit_combo',
+	store:unit_list_ds,
+	mode:'local',
+	hiddenName:'unit_id',
+	displayField:'name',
+	valueField:'id',
+	width:140,
+	editable:false,
+	emptyText:'請選擇',
+	allowBlank:false,
+	triggerAction:'all'
+});
+
+var order_form = new Ext.form.FormPanel({
+	id:'order_form',
+	labelAlign:'right',
+	labelWidth:'100',
+	autoScroll:true,
+	frame:true,
+	fileUpload:true,
+	defaults:{
+		anchor:'95%',
+		magTarget:'side'
+	},
+	items:[{
+		layout:'column',
+		items:[{
+			columnWidth:0.5,
+			layout:'form',
+			border:false,
+			xtype:'fieldset',
+			title:'訂單內容',
+			autoHeight:true,
+			items:[prod_combo,cust_combo,unit_combo,{
+				xtype:'compositefield',
+				fieldLabel:'X1Y1',
+				items:[{
+					name:'x1',
+					xtype:'textfield',
+					emptyText:'X1',
+					width:68
+				},{
+					name:'y1',
+					xtype:'textfield',
+					emptyText:'Y1',
+					width:68
+				}]
+			},{
+				xtype:'compositefield',
+				fieldLabel:'X2Y2',
+				items:[{
+					name:'x2',
+					xtype:'numberfield',
+					emptyText:'X2',
+					width:68
+				},{
+					name:'y2',
+					xtype:'numberfield',
+					emptyText:'Y2',
+					width:68
+				}]
+			},{
+				name:'num',
+				fieldLabel:'數量',
+				xtype:'numberfield',
+				allowBlank:false
+			}]
+		},{
+			columnWidth:0.5,
+			style:'margin-left:5px',
+			layout:'form',
+			xtype:'fieldset',
+			border:false,
+			title:'加工細項',
+			autoHeight:true,
+			items:[{
+				xtype:'compositefield',
+				fieldLabel:'光邊',
+				items:[{
+					id:'order_spec1_l',
+					name:'spec1_l',
+					xtype:'textfield',
+					emptyText:'長',
+					width:68
+				},{
+					id:'order_spec1_s',
+					name:'spec1_s',
+					xtype:'textfield',
+					emptyText:'短',
+					width:68
+				}]
+			},{
+				xtype:'compositefield',
+				fieldLabel:'面取',
+				items:[{
+					id:'order_spec2_num',
+					name:'spec2_num',
+					xtype:'textfield',
+					width:40,
+					emptyText:'分'
+				},{
+					xtype:'displayfield',
+					value:'/',
+					cls:'form-txt'
+				},{
+					id:'order_spec2_l',
+					name:'spec2_l',
+					xtype:'textfield',
+					emptyText:'長',
+					width:40
+				},{	
+					id:'order_spec2_s',
+					name:'spec2_s',
+					xtype:'textfield',
+					emptyText:'短',
+					width:40
+				}]
+			},{
+				xtype:'compositefield',
+				fieldLabel:'合口',
+				items:[{
+					id:'order_spec3_l',
+					name:'spec3_l',
+					xtype:'textfield',
+					emptyText:'長',
+					width:68
+				},{
+					id:'order_spec3_s',
+					name:'spec3_s',
+					xtype:'textfield',
+					emptyText:'短',
+					width:68
+				}]
+			},{
+				xtype:'compositefield',
+				fieldLabel:'異形光邊',
+				items:[{
+					id:'order_spec4_l',
+					name:'spec4_l',
+					xtype:'textfield',
+					emptyText:'長',
+					width:68
+				},{
+					id:'order_spec4_s',
+					name:'spec4_s',
+					xtype:'textfield',
+					emptyText:'短',
+					width:68
+				}]
+			},{
+				xtype:'compositefield',
+				fieldLabel:'異形面取',
+				items:[{
+					id:'order_spec5_num',
+					name:'spec5_num',
+					xtype:'textfield',
+					width:40,
+					emptyText:'分'
+				},{
+					xtype:'displayfield',
+					value:'/',
+					cls:'form-txt'
+				},{
+					id:'order_spec5_l',
+					name:'spec5_l',
+					xtype:'textfield',
+					emptyText:'長',
+					width:40
+				},{
+					id:'order_spec5_s',
+					name:'spec5_s',
+					xtype:'textfield',
+					emptyText:'短',
+					width:40
+				}]
+			},{
+				xtype:'checkbox',
+				fieldLabel:'打洞',
+				name:'spec6',
+				inputValue:1
+			}]
+		},{
+			columnWidth:1,
+			layout:'form',
+			items:[{
+				fieldLabel:'備註',
+				xtype:'textarea',
+				width:393,
+				name:'content'
+			},{
+				xtype:'fileuploadfield',
+				name:'img',
+				fieldLabel:'圖檔上傳',
+				buttonText:'瀏覽',
+				width:390
+			},{
+				xtype:'displayfield',
+				name:'img_name',
+				id:'img_name',
+				width:390
+			},{
+				name:'id',
+				xtype:'hidden'
+			}]
+		}]
+	}],
+	buttons:[{
+		text:'儲存',
+		handler:function(){
+			if(order_form.getForm().isValid()){
+				old_prod = order_form.getForm().findField('product_id').getValue();
+				old_cust = order_form.getForm().findField('customer_id').getValue();
+				old_unit = order_form.getForm().findField('unit_id').getValue();
+				order_form.getForm().submit({
+					url:'orders/save',
+					success:function(data,res){
+						show_Growl(1,'訊息','資料已儲存');
+						order_form.getForm().reset();
+						order_win.hide();
+						order_store.reload();
+					}
+				});
+			}
+		}
+	},{
+		text:'取消',
+		handler:function(){
+			order_form.getForm().reset();
+			order_win.hide();
+		}
+	}]
+});
+prod_list_ds.on('load',function(){
+	if(old_prod){order_form.getForm().findField('product_id').setValue(old_prod);}
+	order_form.getForm().findField('product_id').focus(true,500);
+});
+cust_list_ds.on('load',function(){
+	if(old_cust){order_form.getForm().findField('customer_id').setValue(old_cust);}
+});
+unit_list_ds.on('load',function(){
+	if(old_unit){order_form.getForm().findField('unit_id').setValue(old_unit);}
+});
+var order_win = new Ext.Window({
+	renderTo:Ext.getBody(),
+	width:570,
+	title:'訂單表單',
+	layout:'fit',
+	modal:true,
+	height:380,
+	//autoHeight:true,
+	closeAction:'hide',
+	items:[order_form]
+});
+order_win.on('show',function(){
+	prod_list_ds.load();
+	cust_list_ds.load();
+	unit_list_ds.load();
+});
+/*
+var order_nav = new Ext.KeyMap('order_form',{
+	key:Ext.EventObject.ENTER,
+	fn:function(){
+		console.log('enter');
+		return Ext.EventObject.TAB;
+	}
+});
+*/

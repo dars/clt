@@ -1,0 +1,119 @@
+body{
+    background:#333;
+}
+sup{
+	border-bottom:1px solid;
+	font-size:9px;
+	font-style:italic;
+}
+.x-field-text .x-displayfield {
+	position: relative;
+	overflow: hidden;
+	min-height: 2.5em;
+	padding-top : 0.7em;
+	padding-left:0.5em;
+	background:#FFF;
+}
+.x-list-header{
+	color:#FFF !important;
+}
+.card1 .x-panel-body,.card2 .x-panel-body ,.card3 .x-panel-body ,.card4 .x-panel-body  {
+    background: url('../images/ipad_bg.jpg');
+}
+
+.thumb-wrap{
+	font-size:22px;
+}
+.pname{
+	color:#333;
+}
+.cname{
+	margin-left:20px;
+	font-size:14px;
+	color:#3A5A2B;
+}
+.batch_id{
+	float:left;
+	width:35px;
+	color:#49597A;
+	padding:3px;
+	background:#E9ECF1;
+	border:1px #CCC solid;
+	margin-right:5px;
+}
+.orders{
+	float:left;
+	width:180px;
+}
+.size_tb{
+	float:left;
+	text-align:right;
+	width:150px;
+}
+.size_tb td{
+	padding:2px;
+	border:1px #EEE solid;
+	font-size: 14px;
+	font-family: verdana;
+}
+.xsize{
+	padding-left:5px;
+	color:#4F5377;
+	background:#F1F1F1;
+}
+.ysize{
+	padding-left:5px;
+	color:#774F4F;
+	background:#FFECEC;
+}
+.size_tb td.uname{
+	border:none;
+	width:25px;
+}
+.spec{
+	margin-left:20px;
+	float:left;
+	font-size: 18px;
+	font-style: italic;
+	font-weight: bold;
+	color:#586770; 
+}
+.nums{
+	float:right;
+}
+.nums div{
+	min-width:50px;
+	border:1px #FEFEFE solid;
+	float:left;
+	margin-left:-1px;
+	padding:3px 5px;
+	text-align:right;
+}
+.vnum{
+	font-size: 18px;
+	padding:3px 5px;
+}
+.num{
+	background:#EEE;
+	color:#333;
+}
+.num2{
+	background:#F0F0FF;
+	color:#00F;
+}
+.ok_num{
+	background:#F0FFF0;
+	color:#3A5A2B;
+}
+.bad_num{
+	background:#FFF0F0;
+	color:#F00;
+}
+.batch_num{
+	font-size:12px !important;
+	color:#AAA;
+}
+.content{
+	font-size: 12px;
+	color:#666;
+}
