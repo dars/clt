@@ -16,6 +16,7 @@ class History extends Controller{
 			$where.= "b.x2 = '".$keyword."' or ";
 			$where.= "b.y1 = '".$keyword."' or ";
 			$where.= "b.y2 = '".$keyword."' or ";
+			$where.= "b.content LIKE '%".$keyword."%' or ";
 			$where.= "a.num = '".$keyword."' or ";
 			$where.= "a.batch_num = '".$keyword."' or ";
 			$where.= "f.name LIKE '%".$keyword."%')";

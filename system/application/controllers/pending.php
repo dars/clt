@@ -16,6 +16,7 @@ class Pending extends Controller{
 			$where.= "a.y1 = '".$keyword."' or ";
 			$where.= "a.y2 = '".$keyword."' or ";
 			$where.= "a.num = '".$keyword."' or ";
+			$where.= "a.content LIKE '%".$keyword."%' or ";
 			$where.= "c.name LIKE '%".$keyword."%')";
 			$this->db->where($where);
 		}else{
