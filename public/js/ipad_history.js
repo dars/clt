@@ -135,7 +135,13 @@ var history_form = new Ext.form.FormPanel({
 			xtype:'textfield'
 		},{
 			xtype:'hiddenfield',
+			name:'id',
+			id:'id',
+			disabled:false
+		},{
+			xtype:'hiddenfield',
 			name:'batch_id',
+			id:'batch_id',
 			disabled:false
 		},{
 			xtype:'displayfield',
@@ -153,13 +159,36 @@ var history_form = new Ext.form.FormPanel({
 			text:'送出',
 			ui:'confirm',
 			handler:function(){
-				history_form.hide();	
+				history_form.submit({
+					url:'history/save',
+					success:function(){
+						history_form.hide();
+						history_ds.load();
+						bad_ds.load();
+						pending_ds.load();
+						batch_ds.load();
+					},
+					failure:function(){
+						Ext.Msg.alert('訊息','資料送出異常');
+					}
+				});
 			}
 		},{
 			text:'刪除',
 			ui:'decline',
 			handler:function(){
-				history_form.hide();	
+				Ext.Ajax.request({
+					url:'history/destory',
+					method:'post',
+					params:{
+						'foo[]':history_form.getComponent('block4').getComponent('id').value
+					},
+					success:function(res){
+						Ext.Msg.alert('訊息','資料已刪除');
+						history_ds.load();
+						history_form.hide();
+					}
+				});
 			}
 		},{xtype:'spacer'},{
 			text:'取消',

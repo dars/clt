@@ -169,6 +169,7 @@ var pending_form = new Ext.form.FormPanel({
 					success:function(){
 						pending_form.hide();
 						pending_ds.load();
+						batch_load();
 					},
 					failure:function(){
 						Ext.Msg.alert('訊息','資料送出異常');

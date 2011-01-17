@@ -20,7 +20,9 @@ class Batches extends Controller{
 		$this->db->where('status',0);
 		$query = $this->db->get('batches');
 		$res = $query->result();
+		$tmp_orders=array();
 		foreach($res as $r){
+			array_push($tmp_orders,$r->order_id);
 			$this->db->query("UPDATE orders SET ok_num=ok_num+".$r->num." WHERE id=".$r->order_id);
 		}
 		$this->db->select_max('batch_num');
@@ -34,7 +36,10 @@ class Batches extends Controller{
 			$tmp_num = 1;
 		}
 		$this->db->query("UPDATE batches SET status=1,batch_num=".$tmp_num.",modified='".date('Y-m-d H:i:s')."' WHERE status=0");
-		echo '{success:true}';
+		$this->db->where_in('id',$tmp_orders);
+		$this->db->set('batch_num',0);
+		$this->db->update("orders");
+		echo '{"success":true}';
 	}
 	function destory(){
 		$i=0;

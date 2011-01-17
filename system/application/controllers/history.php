@@ -42,7 +42,7 @@ class History extends Controller{
 		$query = $this->db->get('batches');
 		$res = $query->row();
 		$this->db->query("UPDATE orders SET bad_num=bad_num+".$this->input->post('bad_num')." WHERE id=".$res->order_id);
-		echo '{success:true}';
+		echo '{"success":true}';
 	}
 	function destory(){
 		$i=0;
