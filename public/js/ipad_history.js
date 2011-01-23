@@ -38,7 +38,7 @@ var history_ds = new Ext.data.JsonStore({
 	model:'History',
 	proxy:{
 		type:'ajax',
-		url:'history',
+		url:base_url+'history',
 		actionMethods:'post',
 		reader:{
 			root:'root'
@@ -47,6 +47,9 @@ var history_ds = new Ext.data.JsonStore({
 	sorters:[{
 		property:'modified',
 		direction:'DESC'
+	},{
+		property:'pname',
+		direction:'ASC'
 	}],
 	getGroupString : function(record) {
 		return record.get('modified');
@@ -87,7 +90,7 @@ card4.on('itemTap',function(obj,index){
 });
 var history_form = new Ext.form.FormPanel({
 	scroll:'vertical',
-	url:'history/save',
+	url:base_url+'history/save',
 	standardSubmit:false,
 	autoRender:true,
 	floating:true,
@@ -160,7 +163,7 @@ var history_form = new Ext.form.FormPanel({
 			ui:'confirm',
 			handler:function(){
 				history_form.submit({
-					url:'history/save',
+					url:base_url+'history/save',
 					success:function(){
 						history_form.hide();
 						history_ds.load();
@@ -178,7 +181,7 @@ var history_form = new Ext.form.FormPanel({
 			ui:'decline',
 			handler:function(){
 				Ext.Ajax.request({
-					url:'history/destory',
+					url:base_url+'history/destory',
 					method:'post',
 					params:{
 						'foo[]':history_form.getComponent('block4').getComponent('id').value

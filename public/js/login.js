@@ -28,7 +28,7 @@ var login_form = new Ext.form.FormPanel({
 var validate_login = function(){
 	if(login_form.getForm().isValid()){
 		login_form.getForm().submit({
-	    	url:'users/login',
+	    	url:base_url+'users/login',
 	    	waitMsg:'登入驗證中...',
 	    	success:function(fp,o){
 	    		refresh_time = o.result.refresh_time*60*1000;
@@ -38,6 +38,7 @@ var validate_login = function(){
 	    	},
 	    	failure:function(fp,o){
 	    		show_Growl(2,'警告','登入失敗');
+	    		login_form.getForm().findField('username').focus(true,500);
 	    	}
 	    });
 	}
@@ -53,5 +54,5 @@ var login_win = new Ext.Window({
 	items:[login_form]
 });
 login_win.on('show',function(){
-	//login_form.getForm().findField('username').focus(false,500);
+	login_form.getForm().findField('username').focus(true,500);
 });

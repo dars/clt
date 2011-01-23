@@ -45,8 +45,16 @@ class Batches extends Controller{
 		$i=0;
 		$sWhere=array();
 		$foo = $this->input->post('foo');
-		$len=count($foo);
+		$len = count($foo);
+		
 		while($i<$len){
+			$this->db->where('id',$foo[$i]);
+			$query = $this->db->get('batches');
+			$res = $query->row();
+			$this->db->set('batch_num','batch_num-'.$res->num,true);
+			$this->db->where('id',$res->order_id);
+			$this->db->update('orders');
+			
 			$this->db->where('id',$foo[$i]);
 			$this->db->delete('batches');
 			$i++;

@@ -36,12 +36,18 @@ var batch_ds = new Ext.data.JsonStore({
 	model:'Batch',
 	proxy:{
 		type:'ajax',
-		url:'batches',
+		url:base_url+'batches',
 		reader:{
 			root:'root'
 		}
 	},
-	sorters: 'pname',
+	sorters:[{
+		property:'pname',
+		direction:'ASC'
+	},{
+		property:'cname',
+		direction:'ASC'
+	}],
 	getGroupString : function(record) {
 		return record.get('pname');
 	}
@@ -88,13 +94,32 @@ var card2_panel = new Ext.Panel({
 				batch_ds.load();
 			}
 		},{xtype:'spacer'},{
+			text:'刪除',
+			ui:'decline',
+			handler:function(){
+				var tmp = card2.getSelectedRecords();
+				if(tmp.length>0){
+					var tmp_id = tmp[0].get('id');
+					Ext.Ajax.request({
+						url:base_url+'batches/destory',
+						params:'foo[]='+tmp_id,
+						success:function(res){
+							Ext.Msg.alert('資料已刪除');
+							batch_ds.load();
+							pending_ds.load();
+							history_ds.load();
+						}
+					});
+				}
+			}
+		},{
     		text:'確認送出',
     		ui:'forward',
     		handler:function(){
     			Ext.Msg.confirm('確認','確定送出批號？',function(btn){
     				if(btn === 'yes'){
     					Ext.Ajax.request({
-							url:'batches/save',
+							url:base_url+'batches/save',
 							success:function(res){
 								Ext.Msg.alert('資料已送出');
 								batch_ds.load();

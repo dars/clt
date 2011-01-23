@@ -120,7 +120,7 @@ var pending_form = new Ext.form.FormPanel({
 		text:'儲存',
 		handler:function(){
 			pending_form.getForm().submit({
-				url:'pending/save',
+				url:base_url+'pending/save',
 				success:function(data){
 					show_Growl(1,'訊息','資料已儲存');
 					pending_form.getForm().reset();

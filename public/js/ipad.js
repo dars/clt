@@ -48,7 +48,7 @@ Ext.setup({
 		var real_ms = Number(set_minute*60*1000);
 		task_b = new Ext.util.DelayedTask(function(){
 			Ext.Ajax.request({
-				url:'orders/order_sensor',
+				url:base_url+'orders/order_sensor',
 				success:function(res){
 					if(chk_order_id < res.responseText){
 						Ext.Msg.alert('提醒','有新未處理訂單,請更新確認');
@@ -60,7 +60,7 @@ Ext.setup({
 		task_a = new Ext.util.DelayedTask(function(){
 			task_b.cancel();
 			Ext.Ajax.request({
-				url:'orders/order_sensor',
+				url:base_url+'orders/order_sensor',
 				success:function(res){
 					chk_order_id = res.responseText;
 					task_b.delay(real_ms);

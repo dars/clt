@@ -26,7 +26,12 @@
 		<script type="text/javascript" src="<?=site_url('public/js/ext/RowEditor.js')?>"></script>
 		<script type="text/javascript" src="<?=site_url('public/js/ext/lightbox.js')?>"></script>
 		<script type="text/javascript" src="<?=site_url('public/js/Growl.js')?>"></script>
-		
+		<script type="text/javascript">
+			var base_url="<?=site_url();?>";
+			var last_bad_id;
+			var last_order_id;
+			Ext.BLANK_IMAGE_URL="<?=site_url('public/resources/images/default/s.gif')?>";
+		</script>
 		<script type="text/javascript" src="<?=site_url('public/js/render.js')?>"></script>
 		<script type="text/javascript" src="<?=site_url('public/js/login.js')?>"></script>
 		<script type="text/javascript" src="<?=site_url('public/js/prod_grid.js')?>"></script>
@@ -43,9 +48,6 @@
 		<script type="text/javascript" src="<?=site_url('public/js/users.js')?>"></script>
 		<script type="text/javascript" src="<?=site_url('public/js/order_filter.js')?>"></script>
 		<script type="text/javascript" src="<?=site_url('public/js/script.js')?>"></script>
-		<script type="text/javascript">
-		Ext.BLANK_IMAGE_URL="<?=site_url('public/resources/images/default/s.gif')?>";
-		</script>
 	</head>
 	<body>
 	</body>

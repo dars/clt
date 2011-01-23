@@ -156,7 +156,7 @@ var user_record = Ext.data.Record.create([
 	{name:'modified',type:'string'}
 ]);
 var user_ds = new Ext.data.JsonStore({
-	proxy:new Ext.data.HttpProxy({url:'users',method:'post'}),
+	proxy:new Ext.data.HttpProxy({url:base_url+'users',method:'post'}),
 	root:'root',
 	totalProperty:'totalProperty',
 	fields:user_record
@@ -264,7 +264,7 @@ var del_user = function(){
 			i++;
 		}
 		Ext.Ajax.request({
-			url: 'users/destory',
+			url: base_url+'users/destory',
 			success: function(res){
 				show_Growl(1,'訊息','資料已成功刪除');
 				user_ds.reload();
@@ -282,7 +282,7 @@ user_editor.on({
 	afteredit:function(roweditor,values,record,rowIndex){
 		values['id']=record.get('id');
 		Ext.Ajax.request({
-			url:'users/save',
+			url:base_url+'users/save',
 			params:values,
 			success:function(res){
 				show_Growl(1,'訊息','資料儲存完成');

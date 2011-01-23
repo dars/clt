@@ -5,10 +5,10 @@ var cust_writer = new Ext.data.JsonWriter({
 var cust_store = new Ext.data.JsonStore({
 	proxy:new Ext.data.HttpProxy({
 		api:{
-			read:'customers/read',
-			create:'customers/create',
-			update:'customers/update',
-			destroy:'customers/destroy'
+			read:base_url+'customers/read',
+			create:base_url+'customers/create',
+			update:base_url+'customers/update',
+			destroy:base_url+'customers/destroy'
 		}
 	}),
 	writer:cust_writer,

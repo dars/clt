@@ -1,5 +1,5 @@
 var pending_ds = new Ext.data.JsonStore({
-	proxy:new Ext.data.HttpProxy({url:'pending',method:'post'}),
+	proxy:new Ext.data.HttpProxy({url:base_url+'pending',method:'post'}),
 	root:'root',
 	ac_num:'ac_num',
 	acb_num:'acb_num',
@@ -72,6 +72,21 @@ var pending = new Ext.grid.GridPanel({
 			}
 		}
 	},
+	tbar:new Ext.Toolbar({
+		buttonAlign:'right',
+		items:[{xtype:'tbspacer'},{
+			xtype:'textfield',
+			name:'pending_filter',
+			id:'pending_filter'
+		},{
+			xtype:'button',
+			text:'搜尋',
+			handler:function(){
+				var keyword = Ext.get('pending_filter').getValue();
+				pending_ds.load({params:{keyword:keyword}});
+			}		
+		}]
+	}),
 	bbar:new Ext.Toolbar([{
 		id:'pending_total',
 		iconCls:'ss_sprite ss_tag_green ',
@@ -89,7 +104,7 @@ var pending = new Ext.grid.GridPanel({
 		tooltip:'將所有位處理訂單資料匯出成Excel',
 		handler:function(){
 			Ext.Ajax.request({
-				url:'pending/xls',
+				url:base_url+'pending/xls',
 				success:function(res){
 					Ext.Msg.show({
 						title:'下載',

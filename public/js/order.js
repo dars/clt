@@ -1,5 +1,5 @@
 var order_store = new Ext.data.JsonStore({
-	proxy:new Ext.data.HttpProxy({url:'orders',method:'post'}),
+	proxy:new Ext.data.HttpProxy({url:base_url+'orders',method:'post'}),
 	totalProperty:'totalProperty',
 	root:'root',
 	fields:[
@@ -34,11 +34,13 @@ var order_store = new Ext.data.JsonStore({
 	//remoteSort:true
 });
 order_store.on('load',function(){
+	/*
 	if(order_store.data.length>0){
 		last_order_id = order_store.getAt(0).data.id;
 	}else{
 		last_order_id = 0;
 	}
+	*/
 });
 
 var order_sm = new Ext.grid.CheckboxSelectionModel();
@@ -62,7 +64,24 @@ var order_cm = new Ext.grid.ColumnModel([
 	{header:'修改日期',dataIndex:'modified',sortable:true}
 ]);
 order_cm.defaultSortable = true;
-
+var order_status_combo = new Ext.form.ComboBox({
+	width:140,
+	id:'order_status_combo',
+	store:new Ext.data.SimpleStore({
+		fields:['id','text'],
+		data:order_status
+	}),
+	mode:'local',
+	hiddenName:'ostatus',
+	displayField:'text',
+	valueField:'id',
+	editable:false,
+	triggerAction:'all',
+	value:0
+});
+order_status_combo.on('select',function(){
+	order_store.load({params:{status:this.getValue()}});
+});
 var order = new Ext.grid.GridPanel({
 	id:'order_grid',
 	title:'訂單列表',
@@ -86,6 +105,21 @@ var order = new Ext.grid.GridPanel({
 			}
 		}
 	},
+	tbar:new Ext.Toolbar({
+		buttonAlign:'right',
+		items:[{xtype:'tbspacer'},{
+			xtype:'textfield',
+			name:'order_filter',
+			id:'order_filter'
+		},{
+			xtype:'button',
+			text:'搜尋',
+			handler:function(){
+				var keyword = Ext.get('order_filter').getValue();
+				order_store.load({params:{keyword:keyword}});
+			}		
+		}]
+	}),
 	bbar:new Ext.Toolbar(['-',{
 			id:'order_add',
 			text:'新增',
@@ -117,7 +151,27 @@ var order = new Ext.grid.GridPanel({
 					}
 				});
 			}
-		}/*,'-',{
+		},{
+			id:'order_reset',
+			text:'重新計算各數量數值',
+			iconCls:'ss_sprite ss_calculator_edit',
+			tooltip:'如果數量累計錯誤時，會重新統計完成、破片、未處理的數值。並且會將錯誤的單據刪除(無原始訂單的批號、破片資料)',
+			handler:function(){
+				Ext.Msg.confirm('確認','確定要重新統計各數量數值？需要花費一點時間做數量的重置計算',function(btn){
+					if(btn === 'yes'){
+						Ext.getBody().mask();
+						Ext.Ajax.request({
+							url:base_url+'orders/reset_num',
+							success:function(res){
+								Ext.getBody().unmask();
+								show_Growl(1,'訊息','數量已重新統計完畢');
+								order_store.load();
+							}
+						});
+					}
+				});
+			}
+		},order_status_combo/*,'-',{
 			id:'order_filter',
 			text:'搜尋',
 			iconCls:'ss_sprite ss_zoom',
@@ -161,7 +215,7 @@ var del_order = function(){
 			i++;
 		}
 		Ext.Ajax.request({
-			url: 'orders/destory',
+			url: base_url+'orders/destory',
 			success: function(res){
 				show_Growl(1,'訊息','資料已成功刪除');
 				order_store.reload();

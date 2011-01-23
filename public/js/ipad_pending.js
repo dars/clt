@@ -36,14 +36,20 @@ var pending_ds = new Ext.data.JsonStore({
 	model:'Order',
 	proxy:{
 		type:'ajax',
-		url:'pending',
+		url:base_url+'pending',
 		actionMethods:'post',
 		reader:{
 			totalProperty:'totalProperty',
 			root:'root'
 		}
 	},
-	sorters: 'pname',
+	sorters:[{
+		property:'pname',
+		direction:'ASC'
+	},{
+		property:'cname',
+		direction:'ASC'
+	}],
 	getGroupString : function(record) {
 		return record.get('pname');
 	}
@@ -98,7 +104,7 @@ card1.on('itemTap',function(obj,index){
 });
 var pending_form = new Ext.form.FormPanel({
 	scroll:'vertical',
-	url:'pending/save',
+	url:base_url+'pending/save',
 	standardSubmit:false,
 	autoRender:true,
 	floating:true,
@@ -165,11 +171,11 @@ var pending_form = new Ext.form.FormPanel({
 			ui:'confirm',
 			handler:function(){
 				pending_form.submit({
-					url:'pending/save',
+					url:base_url+'pending/save',
 					success:function(){
 						pending_form.hide();
 						pending_ds.load();
-						batch_load();
+						batch_ds.load();
 					},
 					failure:function(){
 						Ext.Msg.alert('訊息','資料送出異常');

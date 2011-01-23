@@ -122,7 +122,7 @@ var his_form = new Ext.form.FormPanel({
 		text:'儲存',
 		handler:function(){
 			his_form.getForm().submit({
-				url:'history/save',
+				url:base_url+'history/save',
 				success:function(data){
 					show_Growl(1,'訊息','資料已儲存');
 					his_form.getForm().reset();

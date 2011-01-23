@@ -1,5 +1,5 @@
 var batches_ds = new Ext.data.JsonStore({
-	proxy:new Ext.data.HttpProxy({url:'batches',method:'post'}),
+	proxy:new Ext.data.HttpProxy({url:base_url+'batches',method:'post'}),
 	root:'root',
 	totalProperty:'totalProperty',
 	fields:[
@@ -93,7 +93,7 @@ batches.on('render',function(){
 });
 var save_batch = function(){
 	Ext.Ajax.request({
-		url:'batches/save',
+		url:base_url+'batches/save',
 		success:function(res){
 			show_Growl(1,'訊息','資料已成功儲存');
 			batches_ds.reload();
@@ -117,7 +117,7 @@ var del_batch = function(){
 			i++;
 		}
 		Ext.Ajax.request({
-			url: 'batches/destory',
+			url: base_url+'batches/destory',
 			success: function(res){
 				show_Growl(1,'訊息','資料已成功刪除');
 				batches_ds.reload();

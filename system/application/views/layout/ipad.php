@@ -6,6 +6,12 @@
 <link rel="stylesheet" href="<?=site_url('public/resources_touch/css/sencha-touch.css')?>">
 <link rel="stylesheet" href="<?=site_url('public/css/ipad.css')?>">
 <script src="<?=site_url('public/js/ext/sencha-touch-debug.js')?>"></script>
+<script>
+var base_url='<?=site_url();?>';
+var task_a;
+var task_b;
+var chk_order_id;
+</script>
 <script src="<?=site_url('public/js/render.js')?>"></script>
 <script src="<?=site_url('public/js/displayfield.js')?>"></script>
 <script src="<?=site_url('public/js/ipad_pending.js')?>"></script>
@@ -13,11 +19,6 @@
 <script src="<?=site_url('public/js/ipad_bad.js')?>"></script>
 <script src="<?=site_url('public/js/ipad_history.js')?>"></script>
 <script src="<?=site_url('public/js/ipad.js')?>"></script>
-<script>
-var task_a;
-var task_b;
-var chk_order_id;
-</script>
 </head>
 <body></body>
 </html>

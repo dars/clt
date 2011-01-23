@@ -1,5 +1,5 @@
 var bad_ds = new Ext.data.JsonStore({
-	proxy:new Ext.data.HttpProxy({url:'bad',method:'post'}),
+	proxy:new Ext.data.HttpProxy({url:base_url+'bad',method:'post'}),
 	root:'root',
 	fields:[
 		{name:'id',type:'int'},
@@ -35,11 +35,13 @@ var bad_ds = new Ext.data.JsonStore({
 	]
 });
 bad_ds.on('load',function(){
+	/*
 	if(bad_ds.data.length>0){
 		last_bad_id = bad_ds.getAt(0).data.id;
 	}else{
 		last_bad_id = 0;
 	}
+	*/
 });
 
 var bad_cm = new Ext.grid.ColumnModel([
@@ -101,7 +103,7 @@ var bad = new Ext.grid.GridPanel({
 		tooltip:'將所有破片資料匯出成Excel',
 		handler:function(){
 			Ext.Ajax.request({
-				url:'bad/xls',
+				url:base_url+'bad/xls',
 				success:function(res){
 					Ext.Msg.show({
 						title:'下載',
@@ -146,7 +148,7 @@ var del_bad = function(){
 			i++;
 		}
 		Ext.Ajax.request({
-			url: 'bad/destory',
+			url:base_url+'bad/destory',
 			success: function(res){
 				show_Growl(1,'訊息','資料已成功刪除');
 				bad_ds.reload();

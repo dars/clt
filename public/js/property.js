@@ -14,7 +14,7 @@ var property = new Ext.grid.PropertyGrid({
 property.on('afteredit',function(e){
 	alert(e.value);
 	Ext.Ajax.request({
-		url:'property/save',
+		url:base_url+'property/save',
 		success:function(){},
 		params:'time='+e.value
 	});

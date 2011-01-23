@@ -6,110 +6,27 @@ class Orders extends Controller{
 		$this->db->join('products as b','a.product_id = b.id','left');
 		$this->db->join('customers as c','a.customer_id = c.id','left');
 		$this->db->join('units as d','a.unit_id = d.id','left');
-		/* 完成過濾 */
-		if($this->input->post('fstatus') == 1){
+		if($this->input->post('keyword')){
+			$keyword = $this->input->post('keyword');
+			$where = "(b.name LIKE '%".$keyword."%' or ";
+			$where.= "a.x1 = '".$keyword."' or ";
+			$where.= "a.x2 = '".$keyword."' or ";
+			$where.= "a.y1 = '".$keyword."' or ";
+			$where.= "a.y2 = '".$keyword."' or ";
+			$where.= "a.num = '".$keyword."' or ";
+			$where.= "a.content LIKE '%".$keyword."%' or ";
+			$where.= "c.name LIKE '%".$keyword."%')";
+			$this->db->where($where);
+		}
+		/* 狀態過濾 */
+		if($this->input->post('status') == 1){
 			$this->db->where('(a.num+a.bad_num-a.ok_num)=0');
 		}else if($this->input->post('fstatus') == 2){
 		}else{
 			$this->db->where('(a.num+a.bad_num-a.ok_num)>0');
-		}
-		/* 產品名稱過濾 */
-		if($this->input->post('prod_name') != ''){
-			$this->db->where("b.name LIKE '%".$this->input->post('prod_name')."%'");
-		}
-		/* 客戶名稱過濾 */
-		if($this->input->post('cust_name') != ''){
-			$this->db->where("c.name LIKE '%".$this->input->post('cust_name')."%'");
-		}
-		/* 尺寸過濾 */
-		if($this->input->post('x1') != '' || $this->input->post('x2') != ''){
-			if($this->input->post('x1') != '' && $this->input->post('x2') != ''){
-				$this->db->where("(a.x1 between ".$this->input->post('x1')." and ".$this->input->post('x2')." or a.x2 between ".$this->input->post('x1')." and ".$this->input->post('x2').")");
-			}else{
-				$tmp_num = ($this->input->post('x1') != '')?$this->input->post('x1'):$this->input->post('x2');
-				$this->db->where("(a.x1=".$tmp_num." or a.x2=".$tmp_num.")");
-			}
-			
-		}
-		if($this->input->post('y1') != '' || $this->input->post('y2') != ''){
-			if($this->input->post('y1') != '' && $this->input->post('y2') != ''){
-				$this->db->where("(a.y1 between ".$this->input->post('y1')." and ".$this->input->post('y2')." or a.y2 between ".$this->input->post('y1')." and ".$this->input->post('y2').")");
-			}else{
-				$tmp_num = ($this->input->post('y1') != '')?$this->input->post('y1'):$this->input->post('y2');
-				$this->db->where("(a.y1=".$tmp_num." or a.y2=".$tmp_num.")");
-			}
-		}
-		/* 數量 */
-		if($this->input->post('num1') != '' || $this->input->post('num2') != ''){
-			if($this->input->post('num1') != '' && $this->input->post('num2') != ''){
-				$this->db->where("a.num between ".$this->input->post('num1')." and ".$this->input->post('num2'));
-			}else{
-				$tmp_num = ($this->input->post('num1') != '')?$this->input->post('num1'):$this->input->post('num2');
-				$this->db->where('a.num='.$tmp_num);
-			}
-		}
-		/* 加工細項 */
-		if($this->input->post('spec1_l')){
-			$this->db->where('a.spec1_l',$this->input->post('spec1_l'));
-		}
-		if($this->input->post('spec1_s')){
-			$this->db->where('a.spec1_s',$this->input->post('spec1_s'));
-		}
-		if($this->input->post('spec2_l')){
-			$this->db->where('a.spec2_l',$this->input->post('spec2_l'));
-		}
-		if($this->input->post('spec2_s')){
-			$this->db->where('a.spec2_s',$this->input->post('spec2_s'));
-		}
-		if($this->input->post('spec3_l')){
-			$this->db->where('a.spec3_l',$this->input->post('spec3_l'));
-		}
-		if($this->input->post('spec3_s')){
-			$this->db->where('a.spec3_s',$this->input->post('spec3_s'));
-		}
-		if($this->input->post('spec4_l')){
-			$this->db->where('a.spec4_l',$this->input->post('spec4_l'));
-		}
-		if($this->input->post('spec4_s')){
-			$this->db->where('a.spec4_s',$this->input->post('spec4_s'));
-		}
-		if($this->input->post('spec5_l')){
-			$this->db->where('a.spec5_l',$this->input->post('spec5_l'));
-		}
-		if($this->input->post('spec5_s')){
-			$this->db->where('a.spec5_s',$this->input->post('spec5_s'));
-		}
-		if($this->input->post('spec2_num')){
-			$this->db->where('a.spec2_num',$this->input->post('spec2_num'));
-		}
-		if($this->input->post('spec5_num')){
-			$this->db->where('a.spec5_num',$this->input->post('spec5_num'));
-		}
+		}		
+		$this->db->order_by('a.id','DESC');
 		
-		if($this->input->post('spec6')){
-			$this->db->where('a.spec6',1);
-		}
-		/* 日期 */
-		if($this->input->post('start_date') != '' || $this->input->post('end_date') != ''){
-			if($this->input->post('start_date') != '' && $this->input->post('end_date') != ''){
-				$this->db->where("SUBSTR(a.created,1,10) between '".substr($this->input->post('start_date'),0,10)."' and '".substr($this->input->post('end_date'),0,10)."'");
-			}else{
-				$tmp_date = ($this->input->post('start_date') != '')?$this->input->post('start_date'):$this->input->post('end_date');
-				$this->db->where('SUBSTR(a.created,1,10)='.substr($tmp_date,0,10));
-			}
-		}
-		/* 備註 */
-		if($this->input->post('content') != ''){
-			$this->db->where("a.content LIKE '%".$this->input->post('content')."%'");
-		}
-		
-		$this->db->order_by('id','DESC');
-		
-		/* 頁面筆數
-		if($this->input->post('limit')){
-			$this->db->limit($this->input->post('limit'),$this->input->post('start'));
-		}
-		*/
 		$query = $this->db->get('orders as a');
 		$res = new stdClass();
 		$res->root = $query->result();
@@ -249,5 +166,43 @@ class Orders extends Controller{
 		$query = $this->db->get('orders');
 		$res = $query->row();
 		echo $res->id;
+	}
+	function reset_num(){
+		$this->db->query("DELETE FROM batches WHERE order_id NOT IN(SELECT id FROM orders)");
+		$this->db->query("DELETE FROM bad WHERE batch_id NOT IN(SELECT id FROM batches)");
+		$this->db->set('bad_num',0);
+		$this->db->set('ok_num',0);
+		$this->db->set('batch_num',0);
+		$this->db->update('orders');
+		$query = $this->db->get('orders');
+		$res = $query->result();
+		foreach($res as $r){
+			$this->db->where('order_id',$r->id);
+			$this->db->where('status',0);
+			$this->db->select_sum('num');
+			$query = $this->db->get('batches');
+			$batch_res = $query->row();
+			$batch_num = (int)$batch_res->num;
+
+			$this->db->where('order_id',$r->id);
+			$this->db->where('status',1);
+			$this->db->select_sum('num');
+			$query = $this->db->get('batches');
+			$ok_res = $query->row();
+			$ok_num = (int)$ok_res->num;
+			
+			$this->db->where("batch_id IN(SELECT id FROM batches WHERE order_id=".$r->id.")");
+			$this->db->select_sum('num');
+			$query = $this->db->get('bad');
+			$bad_res = $query->row();
+			$bad_num = (int)$bad_res->num;
+			
+			$this->db->set('bad_num',$bad_num);
+			$this->db->set('ok_num',$ok_num);
+			$this->db->set('batch_num',$batch_num);
+			$this->db->where('id',$r->id);
+			$this->db->update('orders');	
+		}
+		echo '{"subbess":true}';
 	}
 }

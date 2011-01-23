@@ -34,7 +34,7 @@ var bad_ds = new Ext.data.JsonStore({
 	model:'Bad',
 	proxy:{
 		type:'ajax',
-		url:'bad',
+		url:base_url+'bad',
 		reader:{
 			root:'root'
 		}
@@ -42,6 +42,9 @@ var bad_ds = new Ext.data.JsonStore({
 	sorters:[{
 		property:'bdate',
 		direction:'DESC'
+	},{
+		property:'pname',
+		direction:'ASC'
 	}],
 	getGroupString : function(record) {
 		return record.get('bdate');

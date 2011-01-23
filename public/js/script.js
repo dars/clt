@@ -74,6 +74,7 @@ Ext.onReady(function(){
 			}
 		}
 	});
+	
 	new Ext.KeyNav(document, {
 		enter: function(e){
 			var target = e.getTarget();
@@ -97,6 +98,7 @@ Ext.onReady(function(){
 			}
 		}
 	});
+	
 	Ext.ux.Lightbox.register('a[rel^=lightbox]');
 });
 function show_Growl(type,title,string){
@@ -118,8 +120,6 @@ function show_Growl(type,title,string){
 		});
 	}
 }
-var last_bad_id;
-var last_order_id;
 var setTabs = function(obj){
 	if(obj.permission1 != 1){
 		tp.remove('order_grid',true);
@@ -163,12 +163,11 @@ var order_sensor = function(){
 		run:function(){
 			Ext.Ajax.request({
 				method:'post',
-				url:'orders/order_sensor',
+				url:base_url+'orders/order_sensor',
 				success:function(res){
-					if(res.responseText>last_order_id){
-						if(typeof last_order_id == 'undefined'){
-							last_order_id = res.responseText;
-						}
+					if(typeof last_order_id == 'undefined' || last_order_id == ''){
+						last_order_id = res.responseText;
+					}else if(res.responseText > last_order_id){
 						orderRunner.stop(task);
 						sensor_alert('提醒','有新訂單，請重新整理頁面');
 					}
@@ -184,12 +183,11 @@ var bad_sensor = function(){
 		run:function(){
 			Ext.Ajax.request({
 				method:'post',
-				url:'bad/bad_sensor',
+				url:base_url+'bad/bad_sensor',
 				success:function(res){
-					if(typeof last_bad_id == 'undefined'){
+					if(typeof last_bad_id == 'undefined' || last_bad_id == ''){
 						last_bad_id = res.responseText;
-					}
-					if(res.responseText>last_bad_id){
+					}else if(res.responseText > last_bad_id){
 						badRunner.stop(task);
 						sensor_alert('提醒','有破片資料新增，請至破片清單確認');
 					}

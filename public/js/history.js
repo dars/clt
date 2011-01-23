@@ -1,5 +1,5 @@
 var his_ds = new Ext.data.JsonStore({
-	proxy:new Ext.data.HttpProxy({url:'history',method:'post'}),
+	proxy:new Ext.data.HttpProxy({url:base_url+'history',method:'post'}),
 	root:'root',
 	totalProperty:'totalProperty',
 	fields:[
@@ -113,7 +113,7 @@ var del_his = function(){
 			i++;
 		}
 		Ext.Ajax.request({
-			url: 'history/destory',
+			url: base_url+'history/destory',
 			success: function(res){
 				show_Growl(1,'訊息','資料已成功刪除');
 				bad_ds.reload();

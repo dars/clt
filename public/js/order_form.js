@@ -2,7 +2,7 @@ var old_prod;
 var old_cust;
 var old_unit;
 var order_ds = new Ext.data.JsonStore({
-	proxy:new Ext.data.HttpProxy({method:'post',url:'orders/read'}),
+	proxy:new Ext.data.HttpProxy({method:'post',url:base_url+'orders/read'}),
 	root:'root',
 	fields:[
 		{name:'id',type:'int'},
@@ -44,7 +44,7 @@ function setEditOrderData(){
 	order_ds.un('load',setEditOrderData);
 }
 var prod_list_ds = new Ext.data.JsonStore({
-	proxy:new Ext.data.HttpProxy({method:'post',url:'products/combo_list'}),
+	proxy:new Ext.data.HttpProxy({method:'post',url:base_url+'products/combo_list'}),
 	root:'root',
 	fields:[
 		{name:'id'},
@@ -61,10 +61,11 @@ var prod_combo = new Ext.form.ComboBox({
 	valueField:'id',
 	width:140,
 	emptyText:'請選擇',
-	allowBlank:false
+	allowBlank:false,
+	tabIndex:5
 });
 var cust_list_ds = new Ext.data.JsonStore({
-	proxy:new Ext.data.HttpProxy({method:'post',url:'customers/combo_list'}),
+	proxy:new Ext.data.HttpProxy({method:'post',url:base_url+'customers/combo_list'}),
 	root:'root',
 	fields:[
 		{name:'id'},
@@ -81,10 +82,11 @@ var cust_combo = new Ext.form.ComboBox({
 	valueField:'id',
 	width:140,
 	emptyText:'請選擇',
-	allowBlank:false
+	allowBlank:false,
+	tabIndex:10
 });
 var unit_list_ds = new Ext.data.JsonStore({
-	proxy:new Ext.data.HttpProxy({method:'post',url:'units/combo_list'}),
+	proxy:new Ext.data.HttpProxy({method:'post',url:base_url+'units/combo_list'}),
 	root:'root',
 	fields:[
 		{name:'id'},
@@ -103,7 +105,8 @@ var unit_combo = new Ext.form.ComboBox({
 	editable:false,
 	emptyText:'請選擇',
 	allowBlank:false,
-	triggerAction:'all'
+	triggerAction:'all',
+	tabIndex:15
 });
 
 var order_form = new Ext.form.FormPanel({
@@ -133,12 +136,14 @@ var order_form = new Ext.form.FormPanel({
 					name:'x1',
 					xtype:'textfield',
 					emptyText:'X1',
-					width:68
+					width:68,
+					tabIndex:20
 				},{
 					name:'y1',
 					xtype:'textfield',
 					emptyText:'Y1',
-					width:68
+					width:68,
+					tabIndex:25
 				}]
 			},{
 				xtype:'compositefield',
@@ -147,18 +152,21 @@ var order_form = new Ext.form.FormPanel({
 					name:'x2',
 					xtype:'numberfield',
 					emptyText:'X2',
-					width:68
+					width:68,
+					tabIndex:30
 				},{
 					name:'y2',
 					xtype:'numberfield',
 					emptyText:'Y2',
-					width:68
+					width:68,
+					tabIndex:35
 				}]
 			},{
 				name:'num',
 				fieldLabel:'數量',
 				xtype:'numberfield',
-				allowBlank:false
+				allowBlank:false,
+				tabIndex:40
 			}]
 		},{
 			columnWidth:0.5,
@@ -176,13 +184,15 @@ var order_form = new Ext.form.FormPanel({
 					name:'spec1_l',
 					xtype:'textfield',
 					emptyText:'長',
-					width:68
+					width:68,
+					tabIndex:45
 				},{
 					id:'order_spec1_s',
 					name:'spec1_s',
 					xtype:'textfield',
 					emptyText:'短',
-					width:68
+					width:68,
+					tabIndex:50
 				}]
 			},{
 				xtype:'compositefield',
@@ -192,7 +202,8 @@ var order_form = new Ext.form.FormPanel({
 					name:'spec2_num',
 					xtype:'textfield',
 					width:40,
-					emptyText:'分'
+					emptyText:'分',
+					tabIndex:55
 				},{
 					xtype:'displayfield',
 					value:'/',
@@ -202,13 +213,15 @@ var order_form = new Ext.form.FormPanel({
 					name:'spec2_l',
 					xtype:'textfield',
 					emptyText:'長',
-					width:40
+					width:40,
+					tabIndex:60
 				},{	
 					id:'order_spec2_s',
 					name:'spec2_s',
 					xtype:'textfield',
 					emptyText:'短',
-					width:40
+					width:40,
+					tabIndex:65
 				}]
 			},{
 				xtype:'compositefield',
@@ -307,7 +320,7 @@ var order_form = new Ext.form.FormPanel({
 				old_cust = order_form.getForm().findField('customer_id').getValue();
 				old_unit = order_form.getForm().findField('unit_id').getValue();
 				order_form.getForm().submit({
-					url:'orders/save',
+					url:base_url+'orders/save',
 					success:function(data,res){
 						show_Growl(1,'訊息','資料已儲存');
 						order_form.getForm().reset();
@@ -342,7 +355,6 @@ var order_win = new Ext.Window({
 	layout:'fit',
 	modal:true,
 	height:380,
-	//autoHeight:true,
 	closeAction:'hide',
 	items:[order_form]
 });
@@ -351,12 +363,3 @@ order_win.on('show',function(){
 	cust_list_ds.load();
 	unit_list_ds.load();
 });
-/*
-var order_nav = new Ext.KeyMap('order_form',{
-	key:Ext.EventObject.ENTER,
-	fn:function(){
-		console.log('enter');
-		return Ext.EventObject.TAB;
-	}
-});
-*/
