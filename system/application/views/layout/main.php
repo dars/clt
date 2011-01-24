@@ -38,6 +38,7 @@
 		<script type="text/javascript" src="<?=site_url('public/js/cust_grid.js')?>"></script>
 		<script type="text/javascript" src="<?=site_url('public/js/order.js')?>"></script>
 		<script type="text/javascript" src="<?=site_url('public/js/order_form.js')?>"></script>
+		
 		<script type="text/javascript" src="<?=site_url('public/js/pending.js')?>"></script>
 		<script type="text/javascript" src="<?=site_url('public/js/pending_form.js')?>"></script>
 		<script type="text/javascript" src="<?=site_url('public/js/batches.js')?>"></script>
@@ -46,9 +47,12 @@
 		<script type="text/javascript" src="<?=site_url('public/js/bad.js')?>"></script>
 		<script type="text/javascript" src="<?=site_url('public/js/property.js')?>"></script>
 		<script type="text/javascript" src="<?=site_url('public/js/users.js')?>"></script>
-		<script type="text/javascript" src="<?=site_url('public/js/order_filter.js')?>"></script>
+		
 		<script type="text/javascript" src="<?=site_url('public/js/script.js')?>"></script>
 	</head>
 	<body>
+		<div id="pending_win_dv"></div>
+		<div id="his_win_dv"></div>
+		<div id="order_win_dv"></div>
 	</body>
 </html>

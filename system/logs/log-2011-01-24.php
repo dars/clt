@@ -18488,3 +18488,5098 @@ DEBUG - 2011-01-24 06:13:20 --> Final output sent to browser
 DEBUG - 2011-01-24 06:13:20 --> Total execution time: 0.2376
 DEBUG - 2011-01-24 06:13:20 --> Final output sent to browser
 DEBUG - 2011-01-24 06:13:20 --> Total execution time: 0.2382
+DEBUG - 2011-01-24 06:13:48 --> Config Class Initialized
+DEBUG - 2011-01-24 06:13:48 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:13:48 --> URI Class Initialized
+DEBUG - 2011-01-24 06:13:48 --> Router Class Initialized
+DEBUG - 2011-01-24 06:13:48 --> Output Class Initialized
+DEBUG - 2011-01-24 06:13:48 --> Input Class Initialized
+DEBUG - 2011-01-24 06:13:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:13:48 --> Language Class Initialized
+DEBUG - 2011-01-24 06:13:48 --> Config Class Initialized
+DEBUG - 2011-01-24 06:13:48 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:13:48 --> URI Class Initialized
+DEBUG - 2011-01-24 06:13:48 --> Router Class Initialized
+DEBUG - 2011-01-24 06:13:48 --> Output Class Initialized
+DEBUG - 2011-01-24 06:13:48 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:13:48 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:13:48 --> Input Class Initialized
+DEBUG - 2011-01-24 06:13:48 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:13:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:13:48 --> Language Class Initialized
+DEBUG - 2011-01-24 06:13:48 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:13:48 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:13:48 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:13:48 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:13:48 --> Session Class Initialized
+DEBUG - 2011-01-24 06:13:48 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:13:48 --> Session routines successfully run
+DEBUG - 2011-01-24 06:13:48 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:13:48 --> Final output sent to browser
+DEBUG - 2011-01-24 06:13:48 --> Total execution time: 0.0293
+DEBUG - 2011-01-24 06:13:48 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:13:48 --> Session Class Initialized
+DEBUG - 2011-01-24 06:13:48 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:13:48 --> Session routines successfully run
+DEBUG - 2011-01-24 06:13:48 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:13:48 --> Final output sent to browser
+DEBUG - 2011-01-24 06:13:48 --> Total execution time: 0.0304
+DEBUG - 2011-01-24 06:14:20 --> Config Class Initialized
+DEBUG - 2011-01-24 06:14:20 --> Config Class Initialized
+DEBUG - 2011-01-24 06:14:20 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:14:20 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:14:20 --> URI Class Initialized
+DEBUG - 2011-01-24 06:14:20 --> URI Class Initialized
+DEBUG - 2011-01-24 06:14:20 --> Router Class Initialized
+DEBUG - 2011-01-24 06:14:20 --> Output Class Initialized
+DEBUG - 2011-01-24 06:14:20 --> Router Class Initialized
+DEBUG - 2011-01-24 06:14:20 --> Output Class Initialized
+DEBUG - 2011-01-24 06:14:20 --> Input Class Initialized
+DEBUG - 2011-01-24 06:14:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:14:20 --> Language Class Initialized
+DEBUG - 2011-01-24 06:14:20 --> Input Class Initialized
+DEBUG - 2011-01-24 06:14:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:14:20 --> Language Class Initialized
+DEBUG - 2011-01-24 06:14:20 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:14:20 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:14:20 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:14:20 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:14:20 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:14:20 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:14:20 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:14:20 --> Session Class Initialized
+DEBUG - 2011-01-24 06:14:20 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:14:20 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:14:20 --> Session routines successfully run
+DEBUG - 2011-01-24 06:14:20 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:14:20 --> Final output sent to browser
+DEBUG - 2011-01-24 06:14:20 --> Session Class Initialized
+DEBUG - 2011-01-24 06:14:20 --> Total execution time: 0.0310
+DEBUG - 2011-01-24 06:14:20 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:14:20 --> Session routines successfully run
+DEBUG - 2011-01-24 06:14:20 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:14:20 --> Final output sent to browser
+DEBUG - 2011-01-24 06:14:20 --> Total execution time: 0.0347
+DEBUG - 2011-01-24 06:14:49 --> Config Class Initialized
+DEBUG - 2011-01-24 06:14:49 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:14:49 --> URI Class Initialized
+DEBUG - 2011-01-24 06:14:49 --> Router Class Initialized
+DEBUG - 2011-01-24 06:14:49 --> Output Class Initialized
+DEBUG - 2011-01-24 06:14:49 --> Input Class Initialized
+DEBUG - 2011-01-24 06:14:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:14:49 --> Language Class Initialized
+DEBUG - 2011-01-24 06:14:49 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:14:49 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:14:49 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:14:49 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:14:49 --> Session Class Initialized
+DEBUG - 2011-01-24 06:14:49 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:14:49 --> Session routines successfully run
+DEBUG - 2011-01-24 06:14:49 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:14:49 --> Final output sent to browser
+DEBUG - 2011-01-24 06:14:49 --> Total execution time: 0.0293
+DEBUG - 2011-01-24 06:14:50 --> Config Class Initialized
+DEBUG - 2011-01-24 06:14:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:14:50 --> URI Class Initialized
+DEBUG - 2011-01-24 06:14:50 --> Router Class Initialized
+DEBUG - 2011-01-24 06:14:50 --> Output Class Initialized
+DEBUG - 2011-01-24 06:14:50 --> Input Class Initialized
+DEBUG - 2011-01-24 06:14:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:14:50 --> Language Class Initialized
+DEBUG - 2011-01-24 06:14:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:14:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:14:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:14:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:14:50 --> Session Class Initialized
+DEBUG - 2011-01-24 06:14:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:14:50 --> Session routines successfully run
+DEBUG - 2011-01-24 06:14:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:14:50 --> Final output sent to browser
+DEBUG - 2011-01-24 06:14:50 --> Total execution time: 0.0471
+DEBUG - 2011-01-24 06:15:20 --> Config Class Initialized
+DEBUG - 2011-01-24 06:15:20 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:15:20 --> URI Class Initialized
+DEBUG - 2011-01-24 06:15:20 --> Router Class Initialized
+DEBUG - 2011-01-24 06:15:20 --> Output Class Initialized
+DEBUG - 2011-01-24 06:15:20 --> Input Class Initialized
+DEBUG - 2011-01-24 06:15:20 --> Config Class Initialized
+DEBUG - 2011-01-24 06:15:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:15:20 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:15:20 --> Language Class Initialized
+DEBUG - 2011-01-24 06:15:20 --> URI Class Initialized
+DEBUG - 2011-01-24 06:15:20 --> Router Class Initialized
+DEBUG - 2011-01-24 06:15:20 --> Output Class Initialized
+DEBUG - 2011-01-24 06:15:20 --> Input Class Initialized
+DEBUG - 2011-01-24 06:15:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:15:20 --> Language Class Initialized
+DEBUG - 2011-01-24 06:15:20 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:15:20 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:15:20 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:15:20 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:15:20 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:15:20 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:15:20 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:15:20 --> Session Class Initialized
+DEBUG - 2011-01-24 06:15:20 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:15:20 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:15:20 --> Session routines successfully run
+DEBUG - 2011-01-24 06:15:20 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:15:20 --> Session Class Initialized
+DEBUG - 2011-01-24 06:15:20 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:15:20 --> Session routines successfully run
+DEBUG - 2011-01-24 06:15:20 --> Final output sent to browser
+DEBUG - 2011-01-24 06:15:20 --> Total execution time: 0.3726
+DEBUG - 2011-01-24 06:15:20 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:15:20 --> Final output sent to browser
+DEBUG - 2011-01-24 06:15:20 --> Total execution time: 0.3739
+DEBUG - 2011-01-24 06:15:48 --> Config Class Initialized
+DEBUG - 2011-01-24 06:15:48 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:15:48 --> Config Class Initialized
+DEBUG - 2011-01-24 06:15:48 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:15:48 --> URI Class Initialized
+DEBUG - 2011-01-24 06:15:48 --> URI Class Initialized
+DEBUG - 2011-01-24 06:15:48 --> Router Class Initialized
+DEBUG - 2011-01-24 06:15:48 --> Router Class Initialized
+DEBUG - 2011-01-24 06:15:48 --> Output Class Initialized
+DEBUG - 2011-01-24 06:15:48 --> Output Class Initialized
+DEBUG - 2011-01-24 06:15:48 --> Input Class Initialized
+DEBUG - 2011-01-24 06:15:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:15:48 --> Input Class Initialized
+DEBUG - 2011-01-24 06:15:48 --> Language Class Initialized
+DEBUG - 2011-01-24 06:15:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:15:48 --> Language Class Initialized
+DEBUG - 2011-01-24 06:15:48 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:15:48 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:15:48 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:15:48 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:15:48 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:15:48 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:15:48 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:15:48 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:15:48 --> Session Class Initialized
+DEBUG - 2011-01-24 06:15:48 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:15:48 --> Session routines successfully run
+DEBUG - 2011-01-24 06:15:48 --> Session Class Initialized
+DEBUG - 2011-01-24 06:15:48 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:15:48 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:15:48 --> Session routines successfully run
+DEBUG - 2011-01-24 06:15:48 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:15:48 --> Final output sent to browser
+DEBUG - 2011-01-24 06:15:48 --> Total execution time: 0.0311
+DEBUG - 2011-01-24 06:15:48 --> Final output sent to browser
+DEBUG - 2011-01-24 06:15:48 --> Total execution time: 0.0318
+DEBUG - 2011-01-24 06:16:20 --> Config Class Initialized
+DEBUG - 2011-01-24 06:16:20 --> Config Class Initialized
+DEBUG - 2011-01-24 06:16:20 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:16:20 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:16:20 --> URI Class Initialized
+DEBUG - 2011-01-24 06:16:20 --> URI Class Initialized
+DEBUG - 2011-01-24 06:16:20 --> Router Class Initialized
+DEBUG - 2011-01-24 06:16:20 --> Router Class Initialized
+DEBUG - 2011-01-24 06:16:20 --> Output Class Initialized
+DEBUG - 2011-01-24 06:16:20 --> Output Class Initialized
+DEBUG - 2011-01-24 06:16:20 --> Input Class Initialized
+DEBUG - 2011-01-24 06:16:20 --> Input Class Initialized
+DEBUG - 2011-01-24 06:16:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:16:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:16:20 --> Language Class Initialized
+DEBUG - 2011-01-24 06:16:20 --> Language Class Initialized
+DEBUG - 2011-01-24 06:16:20 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:16:20 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:16:20 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:16:20 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:16:20 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:16:20 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:16:20 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:16:20 --> Session Class Initialized
+DEBUG - 2011-01-24 06:16:20 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:16:20 --> Session routines successfully run
+DEBUG - 2011-01-24 06:16:20 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:16:20 --> Final output sent to browser
+DEBUG - 2011-01-24 06:16:20 --> Total execution time: 0.3399
+DEBUG - 2011-01-24 06:16:20 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:16:20 --> Session Class Initialized
+DEBUG - 2011-01-24 06:16:20 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:16:20 --> Session routines successfully run
+DEBUG - 2011-01-24 06:16:20 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:16:20 --> Final output sent to browser
+DEBUG - 2011-01-24 06:16:20 --> Total execution time: 0.3515
+DEBUG - 2011-01-24 06:16:48 --> Config Class Initialized
+DEBUG - 2011-01-24 06:16:48 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:16:48 --> Config Class Initialized
+DEBUG - 2011-01-24 06:16:48 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:16:48 --> URI Class Initialized
+DEBUG - 2011-01-24 06:16:48 --> URI Class Initialized
+DEBUG - 2011-01-24 06:16:48 --> Router Class Initialized
+DEBUG - 2011-01-24 06:16:48 --> Router Class Initialized
+DEBUG - 2011-01-24 06:16:48 --> Output Class Initialized
+DEBUG - 2011-01-24 06:16:48 --> Output Class Initialized
+DEBUG - 2011-01-24 06:16:48 --> Input Class Initialized
+DEBUG - 2011-01-24 06:16:48 --> Input Class Initialized
+DEBUG - 2011-01-24 06:16:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:16:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:16:48 --> Language Class Initialized
+DEBUG - 2011-01-24 06:16:48 --> Language Class Initialized
+DEBUG - 2011-01-24 06:16:48 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:16:48 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:16:48 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:16:48 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:16:48 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:16:48 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:16:48 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:16:48 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:16:48 --> Session Class Initialized
+DEBUG - 2011-01-24 06:16:48 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:16:48 --> Session routines successfully run
+DEBUG - 2011-01-24 06:16:48 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:16:48 --> Session Class Initialized
+DEBUG - 2011-01-24 06:16:48 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:16:48 --> Final output sent to browser
+DEBUG - 2011-01-24 06:16:48 --> Total execution time: 0.3476
+DEBUG - 2011-01-24 06:16:48 --> Session routines successfully run
+DEBUG - 2011-01-24 06:16:48 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:16:48 --> Final output sent to browser
+DEBUG - 2011-01-24 06:16:48 --> Total execution time: 0.3505
+DEBUG - 2011-01-24 06:17:20 --> Config Class Initialized
+DEBUG - 2011-01-24 06:17:20 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:17:20 --> URI Class Initialized
+DEBUG - 2011-01-24 06:17:20 --> Config Class Initialized
+DEBUG - 2011-01-24 06:17:20 --> Router Class Initialized
+DEBUG - 2011-01-24 06:17:20 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:17:20 --> Output Class Initialized
+DEBUG - 2011-01-24 06:17:20 --> URI Class Initialized
+DEBUG - 2011-01-24 06:17:20 --> Router Class Initialized
+DEBUG - 2011-01-24 06:17:20 --> Input Class Initialized
+DEBUG - 2011-01-24 06:17:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:17:20 --> Output Class Initialized
+DEBUG - 2011-01-24 06:17:20 --> Language Class Initialized
+DEBUG - 2011-01-24 06:17:20 --> Input Class Initialized
+DEBUG - 2011-01-24 06:17:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:17:20 --> Language Class Initialized
+DEBUG - 2011-01-24 06:17:20 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:17:20 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:17:20 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:17:20 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:17:20 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:17:20 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:17:20 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:17:20 --> Session Class Initialized
+DEBUG - 2011-01-24 06:17:20 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:17:20 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:17:20 --> Session routines successfully run
+DEBUG - 2011-01-24 06:17:20 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:17:20 --> Session Class Initialized
+DEBUG - 2011-01-24 06:17:20 --> Final output sent to browser
+DEBUG - 2011-01-24 06:17:20 --> Total execution time: 0.0556
+DEBUG - 2011-01-24 06:17:20 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:17:20 --> Session routines successfully run
+DEBUG - 2011-01-24 06:17:20 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:17:20 --> Final output sent to browser
+DEBUG - 2011-01-24 06:17:20 --> Total execution time: 0.0586
+DEBUG - 2011-01-24 06:17:48 --> Config Class Initialized
+DEBUG - 2011-01-24 06:17:48 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:17:48 --> Config Class Initialized
+DEBUG - 2011-01-24 06:17:48 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:17:48 --> URI Class Initialized
+DEBUG - 2011-01-24 06:17:48 --> URI Class Initialized
+DEBUG - 2011-01-24 06:17:48 --> Router Class Initialized
+DEBUG - 2011-01-24 06:17:48 --> Router Class Initialized
+DEBUG - 2011-01-24 06:17:48 --> Output Class Initialized
+DEBUG - 2011-01-24 06:17:48 --> Output Class Initialized
+DEBUG - 2011-01-24 06:17:48 --> Input Class Initialized
+DEBUG - 2011-01-24 06:17:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:17:48 --> Input Class Initialized
+DEBUG - 2011-01-24 06:17:48 --> Language Class Initialized
+DEBUG - 2011-01-24 06:17:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:17:48 --> Language Class Initialized
+DEBUG - 2011-01-24 06:17:48 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:17:48 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:17:48 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:17:48 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:17:48 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:17:48 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:17:48 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:17:48 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:17:48 --> Session Class Initialized
+DEBUG - 2011-01-24 06:17:48 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:17:48 --> Session routines successfully run
+DEBUG - 2011-01-24 06:17:48 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:17:48 --> Session Class Initialized
+DEBUG - 2011-01-24 06:17:48 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:17:48 --> Session routines successfully run
+DEBUG - 2011-01-24 06:17:48 --> Final output sent to browser
+DEBUG - 2011-01-24 06:17:48 --> Total execution time: 0.0301
+DEBUG - 2011-01-24 06:17:48 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:17:48 --> Final output sent to browser
+DEBUG - 2011-01-24 06:17:48 --> Total execution time: 0.0314
+DEBUG - 2011-01-24 06:18:20 --> Config Class Initialized
+DEBUG - 2011-01-24 06:18:20 --> Config Class Initialized
+DEBUG - 2011-01-24 06:18:20 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:18:20 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:18:20 --> URI Class Initialized
+DEBUG - 2011-01-24 06:18:20 --> URI Class Initialized
+DEBUG - 2011-01-24 06:18:20 --> Router Class Initialized
+DEBUG - 2011-01-24 06:18:20 --> Router Class Initialized
+DEBUG - 2011-01-24 06:18:20 --> Output Class Initialized
+DEBUG - 2011-01-24 06:18:20 --> Output Class Initialized
+DEBUG - 2011-01-24 06:18:20 --> Input Class Initialized
+DEBUG - 2011-01-24 06:18:20 --> Input Class Initialized
+DEBUG - 2011-01-24 06:18:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:18:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:18:20 --> Language Class Initialized
+DEBUG - 2011-01-24 06:18:20 --> Language Class Initialized
+DEBUG - 2011-01-24 06:18:20 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:18:20 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:18:20 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:18:20 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:18:20 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:18:20 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:18:20 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:18:20 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:18:20 --> Session Class Initialized
+DEBUG - 2011-01-24 06:18:20 --> Session Class Initialized
+DEBUG - 2011-01-24 06:18:20 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:18:20 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:18:20 --> Session routines successfully run
+DEBUG - 2011-01-24 06:18:20 --> Session routines successfully run
+DEBUG - 2011-01-24 06:18:20 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:18:20 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:18:20 --> Final output sent to browser
+DEBUG - 2011-01-24 06:18:20 --> Final output sent to browser
+DEBUG - 2011-01-24 06:18:20 --> Total execution time: 0.0303
+DEBUG - 2011-01-24 06:18:20 --> Total execution time: 0.0305
+DEBUG - 2011-01-24 06:18:48 --> Config Class Initialized
+DEBUG - 2011-01-24 06:18:48 --> Config Class Initialized
+DEBUG - 2011-01-24 06:18:48 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:18:48 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:18:48 --> URI Class Initialized
+DEBUG - 2011-01-24 06:18:48 --> URI Class Initialized
+DEBUG - 2011-01-24 06:18:48 --> Router Class Initialized
+DEBUG - 2011-01-24 06:18:48 --> Router Class Initialized
+DEBUG - 2011-01-24 06:18:48 --> Output Class Initialized
+DEBUG - 2011-01-24 06:18:48 --> Output Class Initialized
+DEBUG - 2011-01-24 06:18:48 --> Input Class Initialized
+DEBUG - 2011-01-24 06:18:48 --> Input Class Initialized
+DEBUG - 2011-01-24 06:18:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:18:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:18:48 --> Language Class Initialized
+DEBUG - 2011-01-24 06:18:48 --> Language Class Initialized
+DEBUG - 2011-01-24 06:18:48 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:18:48 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:18:48 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:18:48 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:18:48 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:18:48 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:18:48 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:18:48 --> Session Class Initialized
+DEBUG - 2011-01-24 06:18:48 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:18:48 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:18:48 --> Session routines successfully run
+DEBUG - 2011-01-24 06:18:48 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:18:48 --> Session Class Initialized
+DEBUG - 2011-01-24 06:18:48 --> Final output sent to browser
+DEBUG - 2011-01-24 06:18:48 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:18:48 --> Total execution time: 0.0308
+DEBUG - 2011-01-24 06:18:48 --> Session routines successfully run
+DEBUG - 2011-01-24 06:18:48 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:18:48 --> Final output sent to browser
+DEBUG - 2011-01-24 06:18:48 --> Total execution time: 0.0331
+DEBUG - 2011-01-24 06:19:21 --> Config Class Initialized
+DEBUG - 2011-01-24 06:19:21 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:19:21 --> Config Class Initialized
+DEBUG - 2011-01-24 06:19:21 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:19:21 --> URI Class Initialized
+DEBUG - 2011-01-24 06:19:21 --> URI Class Initialized
+DEBUG - 2011-01-24 06:19:21 --> Router Class Initialized
+DEBUG - 2011-01-24 06:19:21 --> Output Class Initialized
+DEBUG - 2011-01-24 06:19:21 --> Router Class Initialized
+DEBUG - 2011-01-24 06:19:21 --> Output Class Initialized
+DEBUG - 2011-01-24 06:19:21 --> Input Class Initialized
+DEBUG - 2011-01-24 06:19:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:19:21 --> Language Class Initialized
+DEBUG - 2011-01-24 06:19:21 --> Input Class Initialized
+DEBUG - 2011-01-24 06:19:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:19:21 --> Language Class Initialized
+DEBUG - 2011-01-24 06:19:21 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:19:21 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:19:21 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:19:21 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:19:21 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:19:21 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:19:21 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:19:21 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:19:21 --> Session Class Initialized
+DEBUG - 2011-01-24 06:19:21 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:19:21 --> Session routines successfully run
+DEBUG - 2011-01-24 06:19:21 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:19:21 --> Final output sent to browser
+DEBUG - 2011-01-24 06:19:21 --> Total execution time: 0.0581
+DEBUG - 2011-01-24 06:19:21 --> Session Class Initialized
+DEBUG - 2011-01-24 06:19:21 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:19:21 --> Session routines successfully run
+DEBUG - 2011-01-24 06:19:21 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:19:21 --> Final output sent to browser
+DEBUG - 2011-01-24 06:19:21 --> Total execution time: 0.0871
+DEBUG - 2011-01-24 06:19:48 --> Config Class Initialized
+DEBUG - 2011-01-24 06:19:48 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:19:48 --> Config Class Initialized
+DEBUG - 2011-01-24 06:19:48 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:19:48 --> URI Class Initialized
+DEBUG - 2011-01-24 06:19:48 --> URI Class Initialized
+DEBUG - 2011-01-24 06:19:48 --> Router Class Initialized
+DEBUG - 2011-01-24 06:19:48 --> Router Class Initialized
+DEBUG - 2011-01-24 06:19:48 --> Output Class Initialized
+DEBUG - 2011-01-24 06:19:49 --> Output Class Initialized
+DEBUG - 2011-01-24 06:19:49 --> Input Class Initialized
+DEBUG - 2011-01-24 06:19:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:19:49 --> Input Class Initialized
+DEBUG - 2011-01-24 06:19:49 --> Language Class Initialized
+DEBUG - 2011-01-24 06:19:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:19:49 --> Language Class Initialized
+DEBUG - 2011-01-24 06:19:49 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:19:49 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:19:49 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:19:49 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:19:49 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:19:49 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:19:49 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:19:49 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:19:49 --> Session Class Initialized
+DEBUG - 2011-01-24 06:19:49 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:19:49 --> Session Class Initialized
+DEBUG - 2011-01-24 06:19:49 --> Session routines successfully run
+DEBUG - 2011-01-24 06:19:49 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:19:49 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:19:49 --> Session routines successfully run
+DEBUG - 2011-01-24 06:19:49 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:19:49 --> Final output sent to browser
+DEBUG - 2011-01-24 06:19:49 --> Total execution time: 0.3534
+DEBUG - 2011-01-24 06:19:49 --> Final output sent to browser
+DEBUG - 2011-01-24 06:19:49 --> Total execution time: 0.3527
+DEBUG - 2011-01-24 06:20:20 --> Config Class Initialized
+DEBUG - 2011-01-24 06:20:20 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:20:20 --> Config Class Initialized
+DEBUG - 2011-01-24 06:20:20 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:20:20 --> URI Class Initialized
+DEBUG - 2011-01-24 06:20:20 --> Router Class Initialized
+DEBUG - 2011-01-24 06:20:20 --> URI Class Initialized
+DEBUG - 2011-01-24 06:20:20 --> Output Class Initialized
+DEBUG - 2011-01-24 06:20:20 --> Router Class Initialized
+DEBUG - 2011-01-24 06:20:20 --> Output Class Initialized
+DEBUG - 2011-01-24 06:20:20 --> Input Class Initialized
+DEBUG - 2011-01-24 06:20:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:20:20 --> Language Class Initialized
+DEBUG - 2011-01-24 06:20:20 --> Input Class Initialized
+DEBUG - 2011-01-24 06:20:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:20:20 --> Language Class Initialized
+DEBUG - 2011-01-24 06:20:20 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:20:20 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:20:20 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:20:20 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:20:20 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:20:20 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:20:20 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:20:20 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:20:20 --> Session Class Initialized
+DEBUG - 2011-01-24 06:20:20 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:20:20 --> Session routines successfully run
+DEBUG - 2011-01-24 06:20:20 --> Session Class Initialized
+DEBUG - 2011-01-24 06:20:20 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:20:20 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:20:20 --> Session routines successfully run
+DEBUG - 2011-01-24 06:20:20 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:20:20 --> Final output sent to browser
+DEBUG - 2011-01-24 06:20:20 --> Total execution time: 0.0362
+DEBUG - 2011-01-24 06:20:20 --> Final output sent to browser
+DEBUG - 2011-01-24 06:20:20 --> Total execution time: 0.0354
+DEBUG - 2011-01-24 06:20:48 --> Config Class Initialized
+DEBUG - 2011-01-24 06:20:48 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:20:48 --> Config Class Initialized
+DEBUG - 2011-01-24 06:20:48 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:20:48 --> URI Class Initialized
+DEBUG - 2011-01-24 06:20:48 --> URI Class Initialized
+DEBUG - 2011-01-24 06:20:48 --> Router Class Initialized
+DEBUG - 2011-01-24 06:20:48 --> Output Class Initialized
+DEBUG - 2011-01-24 06:20:48 --> Router Class Initialized
+DEBUG - 2011-01-24 06:20:48 --> Input Class Initialized
+DEBUG - 2011-01-24 06:20:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:20:49 --> Output Class Initialized
+DEBUG - 2011-01-24 06:20:49 --> Language Class Initialized
+DEBUG - 2011-01-24 06:20:49 --> Input Class Initialized
+DEBUG - 2011-01-24 06:20:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:20:49 --> Language Class Initialized
+DEBUG - 2011-01-24 06:20:49 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:20:49 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:20:49 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:20:49 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:20:49 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:20:49 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:20:49 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:20:49 --> Session Class Initialized
+DEBUG - 2011-01-24 06:20:49 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:20:49 --> Session routines successfully run
+DEBUG - 2011-01-24 06:20:49 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:20:49 --> Final output sent to browser
+DEBUG - 2011-01-24 06:20:49 --> Total execution time: 0.3534
+DEBUG - 2011-01-24 06:20:49 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:20:49 --> Session Class Initialized
+DEBUG - 2011-01-24 06:20:49 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:20:49 --> Session routines successfully run
+DEBUG - 2011-01-24 06:20:49 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:20:49 --> Final output sent to browser
+DEBUG - 2011-01-24 06:20:49 --> Total execution time: 0.3733
+DEBUG - 2011-01-24 06:21:20 --> Config Class Initialized
+DEBUG - 2011-01-24 06:21:20 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:21:20 --> URI Class Initialized
+DEBUG - 2011-01-24 06:21:20 --> Config Class Initialized
+DEBUG - 2011-01-24 06:21:20 --> Router Class Initialized
+DEBUG - 2011-01-24 06:21:20 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:21:20 --> Output Class Initialized
+DEBUG - 2011-01-24 06:21:20 --> URI Class Initialized
+DEBUG - 2011-01-24 06:21:20 --> Router Class Initialized
+DEBUG - 2011-01-24 06:21:20 --> Output Class Initialized
+DEBUG - 2011-01-24 06:21:20 --> Input Class Initialized
+DEBUG - 2011-01-24 06:21:20 --> Input Class Initialized
+DEBUG - 2011-01-24 06:21:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:21:20 --> Language Class Initialized
+DEBUG - 2011-01-24 06:21:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:21:20 --> Language Class Initialized
+DEBUG - 2011-01-24 06:21:20 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:21:20 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:21:20 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:21:20 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:21:20 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:21:20 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:21:20 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:21:20 --> Session Class Initialized
+DEBUG - 2011-01-24 06:21:20 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:21:20 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:21:20 --> Session routines successfully run
+DEBUG - 2011-01-24 06:21:20 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:21:20 --> Session Class Initialized
+DEBUG - 2011-01-24 06:21:20 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:21:20 --> Session routines successfully run
+DEBUG - 2011-01-24 06:21:20 --> Final output sent to browser
+DEBUG - 2011-01-24 06:21:20 --> Total execution time: 0.3343
+DEBUG - 2011-01-24 06:21:20 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:21:20 --> Final output sent to browser
+DEBUG - 2011-01-24 06:21:20 --> Total execution time: 0.3403
+DEBUG - 2011-01-24 06:21:48 --> Config Class Initialized
+DEBUG - 2011-01-24 06:21:48 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:21:48 --> Config Class Initialized
+DEBUG - 2011-01-24 06:21:48 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:21:48 --> URI Class Initialized
+DEBUG - 2011-01-24 06:21:49 --> URI Class Initialized
+DEBUG - 2011-01-24 06:21:49 --> Router Class Initialized
+DEBUG - 2011-01-24 06:21:49 --> Router Class Initialized
+DEBUG - 2011-01-24 06:21:49 --> Output Class Initialized
+DEBUG - 2011-01-24 06:21:49 --> Output Class Initialized
+DEBUG - 2011-01-24 06:21:49 --> Input Class Initialized
+DEBUG - 2011-01-24 06:21:49 --> Input Class Initialized
+DEBUG - 2011-01-24 06:21:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:21:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:21:49 --> Language Class Initialized
+DEBUG - 2011-01-24 06:21:49 --> Language Class Initialized
+DEBUG - 2011-01-24 06:21:49 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:21:49 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:21:49 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:21:49 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:21:49 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:21:49 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:21:49 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:21:49 --> Session Class Initialized
+DEBUG - 2011-01-24 06:21:49 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:21:49 --> Session routines successfully run
+DEBUG - 2011-01-24 06:21:49 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:21:49 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:21:49 --> Final output sent to browser
+DEBUG - 2011-01-24 06:21:49 --> Total execution time: 0.3381
+DEBUG - 2011-01-24 06:21:49 --> Session Class Initialized
+DEBUG - 2011-01-24 06:21:49 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:21:49 --> Session routines successfully run
+DEBUG - 2011-01-24 06:21:49 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:21:49 --> Final output sent to browser
+DEBUG - 2011-01-24 06:21:49 --> Total execution time: 0.3409
+DEBUG - 2011-01-24 06:22:20 --> Config Class Initialized
+DEBUG - 2011-01-24 06:22:20 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:22:20 --> Config Class Initialized
+DEBUG - 2011-01-24 06:22:20 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:22:20 --> URI Class Initialized
+DEBUG - 2011-01-24 06:22:20 --> URI Class Initialized
+DEBUG - 2011-01-24 06:22:20 --> Router Class Initialized
+DEBUG - 2011-01-24 06:22:20 --> Router Class Initialized
+DEBUG - 2011-01-24 06:22:20 --> Output Class Initialized
+DEBUG - 2011-01-24 06:22:20 --> Output Class Initialized
+DEBUG - 2011-01-24 06:22:20 --> Input Class Initialized
+DEBUG - 2011-01-24 06:22:20 --> Input Class Initialized
+DEBUG - 2011-01-24 06:22:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:22:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:22:20 --> Language Class Initialized
+DEBUG - 2011-01-24 06:22:20 --> Language Class Initialized
+DEBUG - 2011-01-24 06:22:20 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:22:20 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:22:20 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:22:20 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:22:20 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:22:20 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:22:20 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:22:20 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:22:20 --> Session Class Initialized
+DEBUG - 2011-01-24 06:22:20 --> Session Class Initialized
+DEBUG - 2011-01-24 06:22:20 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:22:20 --> Session routines successfully run
+DEBUG - 2011-01-24 06:22:20 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:22:20 --> Session routines successfully run
+DEBUG - 2011-01-24 06:22:20 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:22:20 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:22:20 --> Final output sent to browser
+DEBUG - 2011-01-24 06:22:20 --> Final output sent to browser
+DEBUG - 2011-01-24 06:22:20 --> Total execution time: 0.3319
+DEBUG - 2011-01-24 06:22:20 --> Total execution time: 0.3314
+DEBUG - 2011-01-24 06:31:36 --> Config Class Initialized
+DEBUG - 2011-01-24 06:31:36 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:31:37 --> URI Class Initialized
+DEBUG - 2011-01-24 06:31:37 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:31:37 --> Router Class Initialized
+DEBUG - 2011-01-24 06:31:37 --> Output Class Initialized
+DEBUG - 2011-01-24 06:31:37 --> Input Class Initialized
+DEBUG - 2011-01-24 06:31:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:31:37 --> Language Class Initialized
+DEBUG - 2011-01-24 06:31:37 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:31:37 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:31:37 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:31:37 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:31:37 --> Session Class Initialized
+DEBUG - 2011-01-24 06:31:37 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:31:37 --> Session routines successfully run
+DEBUG - 2011-01-24 06:31:37 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:31:37 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:31:37 --> Final output sent to browser
+DEBUG - 2011-01-24 06:31:37 --> Total execution time: 0.1124
+DEBUG - 2011-01-24 06:31:54 --> Config Class Initialized
+DEBUG - 2011-01-24 06:31:54 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:31:54 --> URI Class Initialized
+DEBUG - 2011-01-24 06:31:54 --> Router Class Initialized
+DEBUG - 2011-01-24 06:31:54 --> Output Class Initialized
+DEBUG - 2011-01-24 06:31:54 --> Input Class Initialized
+DEBUG - 2011-01-24 06:31:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:31:54 --> Language Class Initialized
+DEBUG - 2011-01-24 06:31:54 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:31:54 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:31:54 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:31:54 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:31:54 --> Session Class Initialized
+DEBUG - 2011-01-24 06:31:54 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:31:54 --> Session routines successfully run
+DEBUG - 2011-01-24 06:31:54 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:31:54 --> Final output sent to browser
+DEBUG - 2011-01-24 06:31:54 --> Total execution time: 0.0292
+DEBUG - 2011-01-24 06:31:54 --> Config Class Initialized
+DEBUG - 2011-01-24 06:31:54 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:31:54 --> URI Class Initialized
+DEBUG - 2011-01-24 06:31:54 --> Router Class Initialized
+DEBUG - 2011-01-24 06:31:54 --> Output Class Initialized
+DEBUG - 2011-01-24 06:31:54 --> Input Class Initialized
+DEBUG - 2011-01-24 06:31:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:31:54 --> Language Class Initialized
+DEBUG - 2011-01-24 06:31:54 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:31:54 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:31:54 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:31:54 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:31:54 --> Session Class Initialized
+DEBUG - 2011-01-24 06:31:54 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:31:54 --> Session routines successfully run
+DEBUG - 2011-01-24 06:31:54 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:31:54 --> Final output sent to browser
+DEBUG - 2011-01-24 06:31:54 --> Total execution time: 0.0337
+DEBUG - 2011-01-24 06:31:55 --> Config Class Initialized
+DEBUG - 2011-01-24 06:31:55 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:31:55 --> URI Class Initialized
+DEBUG - 2011-01-24 06:31:55 --> Router Class Initialized
+DEBUG - 2011-01-24 06:31:55 --> Output Class Initialized
+DEBUG - 2011-01-24 06:31:55 --> Input Class Initialized
+DEBUG - 2011-01-24 06:31:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:31:55 --> Language Class Initialized
+DEBUG - 2011-01-24 06:31:55 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:31:55 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:31:55 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:31:55 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:31:55 --> Session Class Initialized
+DEBUG - 2011-01-24 06:31:55 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:31:55 --> Session routines successfully run
+DEBUG - 2011-01-24 06:31:55 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:31:55 --> Final output sent to browser
+DEBUG - 2011-01-24 06:31:55 --> Total execution time: 0.0278
+DEBUG - 2011-01-24 06:31:56 --> Config Class Initialized
+DEBUG - 2011-01-24 06:31:56 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:31:56 --> URI Class Initialized
+DEBUG - 2011-01-24 06:31:56 --> Router Class Initialized
+DEBUG - 2011-01-24 06:31:56 --> Output Class Initialized
+DEBUG - 2011-01-24 06:31:56 --> Input Class Initialized
+DEBUG - 2011-01-24 06:31:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:31:56 --> Language Class Initialized
+DEBUG - 2011-01-24 06:31:56 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:31:56 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:31:56 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:31:56 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:31:56 --> Session Class Initialized
+DEBUG - 2011-01-24 06:31:56 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:31:56 --> Session routines successfully run
+DEBUG - 2011-01-24 06:31:56 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:31:56 --> Final output sent to browser
+DEBUG - 2011-01-24 06:31:56 --> Total execution time: 0.0268
+DEBUG - 2011-01-24 06:31:59 --> Config Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Config Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> URI Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> URI Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Router Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Router Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Output Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Output Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Input Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:31:59 --> Input Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Language Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:31:59 --> Language Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:31:59 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:31:59 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:31:59 --> Config Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> URI Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:31:59 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Router Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Output Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Input Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:31:59 --> Language Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Session Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:31:59 --> Session routines successfully run
+DEBUG - 2011-01-24 06:31:59 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:31:59 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:31:59 --> Final output sent to browser
+DEBUG - 2011-01-24 06:31:59 --> Total execution time: 0.0415
+DEBUG - 2011-01-24 06:31:59 --> Session Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:31:59 --> Session routines successfully run
+DEBUG - 2011-01-24 06:31:59 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Final output sent to browser
+DEBUG - 2011-01-24 06:31:59 --> Total execution time: 0.0513
+DEBUG - 2011-01-24 06:31:59 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Session Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:31:59 --> Session routines successfully run
+DEBUG - 2011-01-24 06:31:59 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:31:59 --> Final output sent to browser
+DEBUG - 2011-01-24 06:31:59 --> Total execution time: 0.0431
+DEBUG - 2011-01-24 06:32:03 --> Config Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> URI Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Router Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Output Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Config Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Input Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:32:03 --> Language Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> URI Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Router Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Output Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Config Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Input Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:32:03 --> URI Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Language Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Router Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Output Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Input Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:32:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:32:03 --> Language Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:32:03 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:32:03 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:32:03 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:32:03 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:32:03 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Session Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:32:03 --> Session routines successfully run
+DEBUG - 2011-01-24 06:32:03 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Session Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:32:03 --> Session routines successfully run
+DEBUG - 2011-01-24 06:32:03 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Final output sent to browser
+DEBUG - 2011-01-24 06:32:03 --> Total execution time: 0.0410
+DEBUG - 2011-01-24 06:32:03 --> Final output sent to browser
+DEBUG - 2011-01-24 06:32:03 --> Total execution time: 0.0462
+DEBUG - 2011-01-24 06:32:03 --> Session Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:32:03 --> Session routines successfully run
+DEBUG - 2011-01-24 06:32:03 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:32:03 --> Final output sent to browser
+DEBUG - 2011-01-24 06:32:03 --> Total execution time: 0.0550
+DEBUG - 2011-01-24 06:32:55 --> Config Class Initialized
+DEBUG - 2011-01-24 06:32:55 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:32:55 --> URI Class Initialized
+DEBUG - 2011-01-24 06:32:55 --> Router Class Initialized
+DEBUG - 2011-01-24 06:32:55 --> Config Class Initialized
+DEBUG - 2011-01-24 06:32:56 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:32:56 --> Output Class Initialized
+DEBUG - 2011-01-24 06:32:56 --> URI Class Initialized
+DEBUG - 2011-01-24 06:32:56 --> Router Class Initialized
+DEBUG - 2011-01-24 06:32:56 --> Input Class Initialized
+DEBUG - 2011-01-24 06:32:56 --> Output Class Initialized
+DEBUG - 2011-01-24 06:32:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:32:56 --> Language Class Initialized
+DEBUG - 2011-01-24 06:32:56 --> Input Class Initialized
+DEBUG - 2011-01-24 06:32:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:32:56 --> Language Class Initialized
+DEBUG - 2011-01-24 06:32:56 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:32:56 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:32:56 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:32:56 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:32:56 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:32:56 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:32:56 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:32:56 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:32:56 --> Session Class Initialized
+DEBUG - 2011-01-24 06:32:56 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:32:56 --> Session routines successfully run
+DEBUG - 2011-01-24 06:32:56 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:32:56 --> Session Class Initialized
+DEBUG - 2011-01-24 06:32:56 --> Final output sent to browser
+DEBUG - 2011-01-24 06:32:56 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:32:56 --> Total execution time: 0.3483
+DEBUG - 2011-01-24 06:32:56 --> Session routines successfully run
+DEBUG - 2011-01-24 06:32:56 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:32:56 --> Final output sent to browser
+DEBUG - 2011-01-24 06:32:56 --> Total execution time: 0.3563
+DEBUG - 2011-01-24 06:33:41 --> Config Class Initialized
+DEBUG - 2011-01-24 06:33:41 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:33:41 --> URI Class Initialized
+DEBUG - 2011-01-24 06:33:41 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:33:41 --> Router Class Initialized
+DEBUG - 2011-01-24 06:33:41 --> Output Class Initialized
+DEBUG - 2011-01-24 06:33:41 --> Input Class Initialized
+DEBUG - 2011-01-24 06:33:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:33:41 --> Language Class Initialized
+DEBUG - 2011-01-24 06:33:41 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:33:41 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:33:41 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:33:41 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:33:41 --> Session Class Initialized
+DEBUG - 2011-01-24 06:33:41 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:33:41 --> Session routines successfully run
+DEBUG - 2011-01-24 06:33:41 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:33:41 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:33:41 --> Final output sent to browser
+DEBUG - 2011-01-24 06:33:41 --> Total execution time: 0.0272
+DEBUG - 2011-01-24 06:33:54 --> Config Class Initialized
+DEBUG - 2011-01-24 06:33:54 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:33:54 --> URI Class Initialized
+DEBUG - 2011-01-24 06:33:54 --> Router Class Initialized
+DEBUG - 2011-01-24 06:33:54 --> Output Class Initialized
+DEBUG - 2011-01-24 06:33:54 --> Input Class Initialized
+DEBUG - 2011-01-24 06:33:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:33:54 --> Language Class Initialized
+DEBUG - 2011-01-24 06:33:54 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:33:54 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:33:54 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:33:54 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:33:54 --> Session Class Initialized
+DEBUG - 2011-01-24 06:33:54 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:33:54 --> Session routines successfully run
+DEBUG - 2011-01-24 06:33:54 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:33:54 --> Final output sent to browser
+DEBUG - 2011-01-24 06:33:54 --> Total execution time: 0.3572
+DEBUG - 2011-01-24 06:33:55 --> Config Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> URI Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Router Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Output Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Input Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:33:55 --> Language Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:33:55 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:33:55 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Session Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:33:55 --> Session routines successfully run
+DEBUG - 2011-01-24 06:33:55 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Final output sent to browser
+DEBUG - 2011-01-24 06:33:55 --> Total execution time: 0.0341
+DEBUG - 2011-01-24 06:33:55 --> Config Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> URI Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Router Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Output Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Config Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Input Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:33:55 --> Language Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> URI Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Router Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Output Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Input Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:33:55 --> Language Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:33:55 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:33:55 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:33:55 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:33:55 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Session Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Session Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:33:55 --> Session routines successfully run
+DEBUG - 2011-01-24 06:33:55 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:33:55 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Session routines successfully run
+DEBUG - 2011-01-24 06:33:55 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:33:55 --> Final output sent to browser
+DEBUG - 2011-01-24 06:33:55 --> Total execution time: 0.0316
+DEBUG - 2011-01-24 06:33:55 --> Final output sent to browser
+DEBUG - 2011-01-24 06:33:55 --> Total execution time: 0.0400
+DEBUG - 2011-01-24 06:33:59 --> Config Class Initialized
+DEBUG - 2011-01-24 06:33:59 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:33:59 --> URI Class Initialized
+DEBUG - 2011-01-24 06:33:59 --> Router Class Initialized
+DEBUG - 2011-01-24 06:33:59 --> Output Class Initialized
+DEBUG - 2011-01-24 06:33:59 --> Input Class Initialized
+DEBUG - 2011-01-24 06:33:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:33:59 --> Language Class Initialized
+DEBUG - 2011-01-24 06:33:59 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:33:59 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:33:59 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:33:59 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:33:59 --> Session Class Initialized
+DEBUG - 2011-01-24 06:33:59 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:33:59 --> Session routines successfully run
+DEBUG - 2011-01-24 06:33:59 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:33:59 --> Final output sent to browser
+DEBUG - 2011-01-24 06:33:59 --> Total execution time: 0.0306
+DEBUG - 2011-01-24 06:34:00 --> Config Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Config Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> URI Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> URI Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Router Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Router Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Output Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Output Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Input Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Input Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:34:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:34:00 --> Language Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Language Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:34:00 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:34:00 --> Config Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> URI Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Router Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Output Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Input Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:34:00 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:34:00 --> Language Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:34:00 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:34:00 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:34:00 --> Session Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:34:00 --> Session routines successfully run
+DEBUG - 2011-01-24 06:34:00 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Final output sent to browser
+DEBUG - 2011-01-24 06:34:00 --> Total execution time: 0.0391
+DEBUG - 2011-01-24 06:34:00 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Session Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:34:00 --> Session routines successfully run
+DEBUG - 2011-01-24 06:34:00 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Session Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:34:00 --> Session routines successfully run
+DEBUG - 2011-01-24 06:34:00 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:34:00 --> Final output sent to browser
+DEBUG - 2011-01-24 06:34:00 --> Total execution time: 0.0514
+DEBUG - 2011-01-24 06:34:00 --> Final output sent to browser
+DEBUG - 2011-01-24 06:34:00 --> Total execution time: 0.0364
+DEBUG - 2011-01-24 06:34:55 --> Config Class Initialized
+DEBUG - 2011-01-24 06:34:55 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:34:55 --> URI Class Initialized
+DEBUG - 2011-01-24 06:34:55 --> Router Class Initialized
+DEBUG - 2011-01-24 06:34:55 --> Output Class Initialized
+DEBUG - 2011-01-24 06:34:55 --> Config Class Initialized
+DEBUG - 2011-01-24 06:34:55 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:34:55 --> Input Class Initialized
+DEBUG - 2011-01-24 06:34:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:34:55 --> Language Class Initialized
+DEBUG - 2011-01-24 06:34:55 --> URI Class Initialized
+DEBUG - 2011-01-24 06:34:55 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:34:55 --> Router Class Initialized
+DEBUG - 2011-01-24 06:34:55 --> Output Class Initialized
+DEBUG - 2011-01-24 06:34:55 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:34:56 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:34:56 --> Input Class Initialized
+DEBUG - 2011-01-24 06:34:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:34:56 --> Language Class Initialized
+DEBUG - 2011-01-24 06:34:56 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:34:56 --> Session Class Initialized
+DEBUG - 2011-01-24 06:34:56 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:34:56 --> Session routines successfully run
+DEBUG - 2011-01-24 06:34:56 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:34:56 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:34:56 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:34:56 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:34:56 --> Final output sent to browser
+DEBUG - 2011-01-24 06:34:56 --> Total execution time: 0.3299
+DEBUG - 2011-01-24 06:34:56 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:34:56 --> Session Class Initialized
+DEBUG - 2011-01-24 06:34:56 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:34:56 --> Session routines successfully run
+DEBUG - 2011-01-24 06:34:56 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:34:56 --> Final output sent to browser
+DEBUG - 2011-01-24 06:34:56 --> Total execution time: 0.3438
+DEBUG - 2011-01-24 06:35:55 --> Config Class Initialized
+DEBUG - 2011-01-24 06:35:55 --> Config Class Initialized
+DEBUG - 2011-01-24 06:35:55 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:35:55 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:35:55 --> URI Class Initialized
+DEBUG - 2011-01-24 06:35:55 --> URI Class Initialized
+DEBUG - 2011-01-24 06:35:55 --> Router Class Initialized
+DEBUG - 2011-01-24 06:35:55 --> Router Class Initialized
+DEBUG - 2011-01-24 06:35:55 --> Output Class Initialized
+DEBUG - 2011-01-24 06:35:55 --> Output Class Initialized
+DEBUG - 2011-01-24 06:35:55 --> Input Class Initialized
+DEBUG - 2011-01-24 06:35:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:35:55 --> Input Class Initialized
+DEBUG - 2011-01-24 06:35:55 --> Language Class Initialized
+DEBUG - 2011-01-24 06:35:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:35:55 --> Language Class Initialized
+DEBUG - 2011-01-24 06:35:55 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:35:55 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:35:55 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:35:55 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:35:55 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:35:55 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:35:55 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:35:55 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:35:55 --> Session Class Initialized
+DEBUG - 2011-01-24 06:35:55 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:35:55 --> Session routines successfully run
+DEBUG - 2011-01-24 06:35:55 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:35:55 --> Session Class Initialized
+DEBUG - 2011-01-24 06:35:55 --> Final output sent to browser
+DEBUG - 2011-01-24 06:35:55 --> Total execution time: 0.0337
+DEBUG - 2011-01-24 06:35:55 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:35:55 --> Session routines successfully run
+DEBUG - 2011-01-24 06:35:55 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:35:55 --> Final output sent to browser
+DEBUG - 2011-01-24 06:35:55 --> Total execution time: 0.0394
+DEBUG - 2011-01-24 06:36:01 --> Config Class Initialized
+DEBUG - 2011-01-24 06:36:01 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:36:01 --> URI Class Initialized
+DEBUG - 2011-01-24 06:36:01 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:36:01 --> Router Class Initialized
+DEBUG - 2011-01-24 06:36:01 --> Output Class Initialized
+DEBUG - 2011-01-24 06:36:01 --> Input Class Initialized
+DEBUG - 2011-01-24 06:36:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:36:01 --> Language Class Initialized
+DEBUG - 2011-01-24 06:36:01 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:36:01 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:36:01 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:36:01 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:36:01 --> Session Class Initialized
+DEBUG - 2011-01-24 06:36:01 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:36:01 --> Session routines successfully run
+DEBUG - 2011-01-24 06:36:01 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:36:01 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:36:01 --> Final output sent to browser
+DEBUG - 2011-01-24 06:36:01 --> Total execution time: 0.0275
+DEBUG - 2011-01-24 06:36:15 --> Config Class Initialized
+DEBUG - 2011-01-24 06:36:15 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:36:15 --> URI Class Initialized
+DEBUG - 2011-01-24 06:36:15 --> Router Class Initialized
+DEBUG - 2011-01-24 06:36:15 --> Output Class Initialized
+DEBUG - 2011-01-24 06:36:15 --> Input Class Initialized
+DEBUG - 2011-01-24 06:36:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:36:15 --> Language Class Initialized
+DEBUG - 2011-01-24 06:36:15 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:36:15 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:36:15 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:36:15 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:36:15 --> Session Class Initialized
+DEBUG - 2011-01-24 06:36:15 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:36:15 --> Session routines successfully run
+DEBUG - 2011-01-24 06:36:15 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:36:15 --> Final output sent to browser
+DEBUG - 2011-01-24 06:36:15 --> Total execution time: 0.0300
+DEBUG - 2011-01-24 06:36:16 --> Config Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> URI Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Router Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Output Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Input Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:36:16 --> Language Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:36:16 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:36:16 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Session Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:36:16 --> Session routines successfully run
+DEBUG - 2011-01-24 06:36:16 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Final output sent to browser
+DEBUG - 2011-01-24 06:36:16 --> Total execution time: 0.0554
+DEBUG - 2011-01-24 06:36:16 --> Config Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> URI Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Router Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Output Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Input Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:36:16 --> Config Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Language Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> URI Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Router Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Output Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:36:16 --> Input Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:36:16 --> Language Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:36:16 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:36:16 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:36:16 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Session Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:36:16 --> Session routines successfully run
+DEBUG - 2011-01-24 06:36:16 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Session Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:36:16 --> Session routines successfully run
+DEBUG - 2011-01-24 06:36:16 --> Final output sent to browser
+DEBUG - 2011-01-24 06:36:16 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:36:16 --> Total execution time: 0.0341
+DEBUG - 2011-01-24 06:36:16 --> Final output sent to browser
+DEBUG - 2011-01-24 06:36:16 --> Total execution time: 0.0294
+DEBUG - 2011-01-24 06:36:39 --> Config Class Initialized
+DEBUG - 2011-01-24 06:36:39 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:36:39 --> URI Class Initialized
+DEBUG - 2011-01-24 06:36:39 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:36:39 --> Router Class Initialized
+DEBUG - 2011-01-24 06:36:39 --> Output Class Initialized
+DEBUG - 2011-01-24 06:36:39 --> Input Class Initialized
+DEBUG - 2011-01-24 06:36:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:36:39 --> Language Class Initialized
+DEBUG - 2011-01-24 06:36:39 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:36:39 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:36:39 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:36:39 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:36:39 --> Session Class Initialized
+DEBUG - 2011-01-24 06:36:39 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:36:39 --> Session routines successfully run
+DEBUG - 2011-01-24 06:36:39 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:36:39 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:36:39 --> Final output sent to browser
+DEBUG - 2011-01-24 06:36:39 --> Total execution time: 0.0285
+DEBUG - 2011-01-24 06:36:51 --> Config Class Initialized
+DEBUG - 2011-01-24 06:36:51 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:36:51 --> URI Class Initialized
+DEBUG - 2011-01-24 06:36:51 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:36:51 --> Router Class Initialized
+DEBUG - 2011-01-24 06:36:51 --> Output Class Initialized
+DEBUG - 2011-01-24 06:36:51 --> Input Class Initialized
+DEBUG - 2011-01-24 06:36:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:36:51 --> Language Class Initialized
+DEBUG - 2011-01-24 06:36:51 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:36:51 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:36:51 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:36:51 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:36:51 --> Session Class Initialized
+DEBUG - 2011-01-24 06:36:51 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:36:51 --> Session routines successfully run
+DEBUG - 2011-01-24 06:36:51 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:36:51 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:36:51 --> Final output sent to browser
+DEBUG - 2011-01-24 06:36:51 --> Total execution time: 0.0270
+DEBUG - 2011-01-24 06:37:17 --> Config Class Initialized
+DEBUG - 2011-01-24 06:37:17 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:37:17 --> URI Class Initialized
+DEBUG - 2011-01-24 06:37:17 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:37:17 --> Router Class Initialized
+DEBUG - 2011-01-24 06:37:17 --> Output Class Initialized
+DEBUG - 2011-01-24 06:37:17 --> Input Class Initialized
+DEBUG - 2011-01-24 06:37:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:37:17 --> Language Class Initialized
+DEBUG - 2011-01-24 06:37:17 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:37:17 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:37:17 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:37:17 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:37:17 --> Session Class Initialized
+DEBUG - 2011-01-24 06:37:17 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:37:17 --> Session routines successfully run
+DEBUG - 2011-01-24 06:37:17 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:37:17 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:37:17 --> Final output sent to browser
+DEBUG - 2011-01-24 06:37:17 --> Total execution time: 0.0269
+DEBUG - 2011-01-24 06:37:30 --> Config Class Initialized
+DEBUG - 2011-01-24 06:37:30 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:37:30 --> URI Class Initialized
+DEBUG - 2011-01-24 06:37:30 --> Router Class Initialized
+DEBUG - 2011-01-24 06:37:30 --> Output Class Initialized
+DEBUG - 2011-01-24 06:37:30 --> Input Class Initialized
+DEBUG - 2011-01-24 06:37:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:37:30 --> Language Class Initialized
+DEBUG - 2011-01-24 06:37:30 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:37:30 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:37:30 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:37:30 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:37:30 --> Session Class Initialized
+DEBUG - 2011-01-24 06:37:30 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:37:30 --> Session routines successfully run
+DEBUG - 2011-01-24 06:37:30 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:37:30 --> Final output sent to browser
+DEBUG - 2011-01-24 06:37:30 --> Total execution time: 0.0374
+DEBUG - 2011-01-24 06:37:30 --> Config Class Initialized
+DEBUG - 2011-01-24 06:37:30 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:37:30 --> URI Class Initialized
+DEBUG - 2011-01-24 06:37:30 --> Router Class Initialized
+DEBUG - 2011-01-24 06:37:30 --> Output Class Initialized
+DEBUG - 2011-01-24 06:37:30 --> Input Class Initialized
+DEBUG - 2011-01-24 06:37:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:37:30 --> Language Class Initialized
+DEBUG - 2011-01-24 06:37:30 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:37:30 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:37:30 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:37:30 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:37:30 --> Session Class Initialized
+DEBUG - 2011-01-24 06:37:30 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:37:30 --> Session routines successfully run
+DEBUG - 2011-01-24 06:37:30 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:37:30 --> Final output sent to browser
+DEBUG - 2011-01-24 06:37:30 --> Total execution time: 0.0331
+DEBUG - 2011-01-24 06:37:31 --> Config Class Initialized
+DEBUG - 2011-01-24 06:37:31 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:37:31 --> URI Class Initialized
+DEBUG - 2011-01-24 06:37:31 --> Router Class Initialized
+DEBUG - 2011-01-24 06:37:31 --> Output Class Initialized
+DEBUG - 2011-01-24 06:37:31 --> Config Class Initialized
+DEBUG - 2011-01-24 06:37:31 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:37:31 --> URI Class Initialized
+DEBUG - 2011-01-24 06:37:31 --> Input Class Initialized
+DEBUG - 2011-01-24 06:37:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:37:31 --> Router Class Initialized
+DEBUG - 2011-01-24 06:37:31 --> Language Class Initialized
+DEBUG - 2011-01-24 06:37:31 --> Output Class Initialized
+DEBUG - 2011-01-24 06:37:31 --> Input Class Initialized
+DEBUG - 2011-01-24 06:37:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:37:31 --> Language Class Initialized
+DEBUG - 2011-01-24 06:37:31 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:37:31 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:37:31 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:37:31 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:37:31 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:37:31 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:37:31 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:37:31 --> Session Class Initialized
+DEBUG - 2011-01-24 06:37:31 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:37:31 --> Session routines successfully run
+DEBUG - 2011-01-24 06:37:31 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:37:31 --> Final output sent to browser
+DEBUG - 2011-01-24 06:37:31 --> Total execution time: 0.0328
+DEBUG - 2011-01-24 06:37:31 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:37:31 --> Session Class Initialized
+DEBUG - 2011-01-24 06:37:31 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:37:31 --> Session routines successfully run
+DEBUG - 2011-01-24 06:37:31 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:37:31 --> Final output sent to browser
+DEBUG - 2011-01-24 06:37:31 --> Total execution time: 0.0352
+DEBUG - 2011-01-24 06:37:32 --> Config Class Initialized
+DEBUG - 2011-01-24 06:37:32 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:37:32 --> URI Class Initialized
+DEBUG - 2011-01-24 06:37:32 --> Router Class Initialized
+DEBUG - 2011-01-24 06:37:32 --> Output Class Initialized
+DEBUG - 2011-01-24 06:37:32 --> Input Class Initialized
+DEBUG - 2011-01-24 06:37:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:37:32 --> Language Class Initialized
+DEBUG - 2011-01-24 06:37:32 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:37:32 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:37:32 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:37:32 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:37:32 --> Session Class Initialized
+DEBUG - 2011-01-24 06:37:32 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:37:32 --> Session routines successfully run
+DEBUG - 2011-01-24 06:37:32 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:37:32 --> Final output sent to browser
+DEBUG - 2011-01-24 06:37:32 --> Total execution time: 0.0291
+DEBUG - 2011-01-24 06:37:33 --> Config Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> URI Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Config Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Router Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Output Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Input Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:37:33 --> Language Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Config Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> URI Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> URI Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:37:33 --> Router Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:37:33 --> Router Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Output Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Input Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Output Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Input Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:37:33 --> Language Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:37:33 --> Language Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:37:33 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:37:33 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:37:33 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:37:33 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Session Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Session Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:37:33 --> Session routines successfully run
+DEBUG - 2011-01-24 06:37:33 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:37:33 --> Session routines successfully run
+DEBUG - 2011-01-24 06:37:33 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Final output sent to browser
+DEBUG - 2011-01-24 06:37:33 --> Final output sent to browser
+DEBUG - 2011-01-24 06:37:33 --> Total execution time: 0.0484
+DEBUG - 2011-01-24 06:37:33 --> Session Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:37:33 --> Session routines successfully run
+DEBUG - 2011-01-24 06:37:33 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:37:33 --> Total execution time: 0.0399
+DEBUG - 2011-01-24 06:37:33 --> Final output sent to browser
+DEBUG - 2011-01-24 06:37:33 --> Total execution time: 0.0515
+DEBUG - 2011-01-24 06:37:53 --> Config Class Initialized
+DEBUG - 2011-01-24 06:37:53 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:37:53 --> URI Class Initialized
+DEBUG - 2011-01-24 06:37:53 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:37:53 --> Router Class Initialized
+DEBUG - 2011-01-24 06:37:53 --> Output Class Initialized
+DEBUG - 2011-01-24 06:37:53 --> Input Class Initialized
+DEBUG - 2011-01-24 06:37:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:37:53 --> Language Class Initialized
+DEBUG - 2011-01-24 06:37:53 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:37:53 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:37:53 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:37:53 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:37:53 --> Session Class Initialized
+DEBUG - 2011-01-24 06:37:53 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:37:53 --> Session routines successfully run
+DEBUG - 2011-01-24 06:37:53 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:37:53 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:37:53 --> Final output sent to browser
+DEBUG - 2011-01-24 06:37:53 --> Total execution time: 0.0266
+DEBUG - 2011-01-24 06:38:06 --> Config Class Initialized
+DEBUG - 2011-01-24 06:38:06 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:38:06 --> URI Class Initialized
+DEBUG - 2011-01-24 06:38:06 --> Router Class Initialized
+DEBUG - 2011-01-24 06:38:06 --> Output Class Initialized
+DEBUG - 2011-01-24 06:38:06 --> Input Class Initialized
+DEBUG - 2011-01-24 06:38:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:38:06 --> Language Class Initialized
+DEBUG - 2011-01-24 06:38:06 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:38:06 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:38:06 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:38:06 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:38:06 --> Session Class Initialized
+DEBUG - 2011-01-24 06:38:06 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:38:06 --> Session routines successfully run
+DEBUG - 2011-01-24 06:38:06 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:38:06 --> Final output sent to browser
+DEBUG - 2011-01-24 06:38:06 --> Total execution time: 0.3338
+DEBUG - 2011-01-24 06:38:07 --> Config Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> URI Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Router Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Output Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Input Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:38:07 --> Language Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:38:07 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:38:07 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Session Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:38:07 --> Session routines successfully run
+DEBUG - 2011-01-24 06:38:07 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Final output sent to browser
+DEBUG - 2011-01-24 06:38:07 --> Total execution time: 0.0326
+DEBUG - 2011-01-24 06:38:07 --> Config Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> URI Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Router Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Output Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Input Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Config Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:38:07 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Language Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> URI Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Router Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Output Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:38:07 --> Input Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:38:07 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:38:07 --> Language Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:38:07 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:38:07 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Session Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:38:07 --> Session routines successfully run
+DEBUG - 2011-01-24 06:38:07 --> Session Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:38:07 --> Session routines successfully run
+DEBUG - 2011-01-24 06:38:07 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:38:07 --> Final output sent to browser
+DEBUG - 2011-01-24 06:38:07 --> Total execution time: 0.0358
+DEBUG - 2011-01-24 06:38:07 --> Final output sent to browser
+DEBUG - 2011-01-24 06:38:07 --> Total execution time: 0.0336
+DEBUG - 2011-01-24 06:38:11 --> Config Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> URI Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Router Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Output Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Input Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:38:11 --> Language Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:38:11 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:38:11 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Session Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:38:11 --> Session routines successfully run
+DEBUG - 2011-01-24 06:38:11 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Final output sent to browser
+DEBUG - 2011-01-24 06:38:11 --> Total execution time: 0.0292
+DEBUG - 2011-01-24 06:38:11 --> Config Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> URI Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Config Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Router Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Output Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> URI Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Router Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Output Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Input Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:38:11 --> Config Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Input Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:38:11 --> Language Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> URI Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Router Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Output Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Input Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:38:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:38:11 --> Language Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Language Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:38:11 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:38:11 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:38:11 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:38:11 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:38:11 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Session Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:38:11 --> Session routines successfully run
+DEBUG - 2011-01-24 06:38:11 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Final output sent to browser
+DEBUG - 2011-01-24 06:38:11 --> Total execution time: 0.0508
+DEBUG - 2011-01-24 06:38:11 --> Session Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:38:11 --> Session routines successfully run
+DEBUG - 2011-01-24 06:38:11 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Session Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:38:11 --> Session routines successfully run
+DEBUG - 2011-01-24 06:38:11 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:38:11 --> Final output sent to browser
+DEBUG - 2011-01-24 06:38:11 --> Total execution time: 0.0702
+DEBUG - 2011-01-24 06:38:11 --> Final output sent to browser
+DEBUG - 2011-01-24 06:38:11 --> Total execution time: 0.0622
+DEBUG - 2011-01-24 06:38:27 --> Config Class Initialized
+DEBUG - 2011-01-24 06:38:27 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:38:27 --> URI Class Initialized
+DEBUG - 2011-01-24 06:38:27 --> Router Class Initialized
+DEBUG - 2011-01-24 06:38:27 --> Output Class Initialized
+DEBUG - 2011-01-24 06:38:27 --> Input Class Initialized
+DEBUG - 2011-01-24 06:38:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:38:27 --> Language Class Initialized
+DEBUG - 2011-01-24 06:38:27 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:38:27 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:38:27 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:38:27 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:38:27 --> Session Class Initialized
+DEBUG - 2011-01-24 06:38:27 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:38:27 --> Session routines successfully run
+DEBUG - 2011-01-24 06:38:27 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:38:27 --> Final output sent to browser
+DEBUG - 2011-01-24 06:38:27 --> Total execution time: 0.0278
+DEBUG - 2011-01-24 06:38:28 --> Config Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> URI Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Router Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Output Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Input Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:38:28 --> Language Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Config Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:38:28 --> URI Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:38:28 --> Router Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Output Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Input Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:38:28 --> Language Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Config Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> URI Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Router Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Output Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:38:28 --> Input Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:38:28 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:38:28 --> Language Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Session Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:38:28 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:38:28 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:38:28 --> Session routines successfully run
+DEBUG - 2011-01-24 06:38:28 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Session Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:38:28 --> Session routines successfully run
+DEBUG - 2011-01-24 06:38:28 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Final output sent to browser
+DEBUG - 2011-01-24 06:38:28 --> Total execution time: 0.0436
+DEBUG - 2011-01-24 06:38:28 --> Final output sent to browser
+DEBUG - 2011-01-24 06:38:28 --> Total execution time: 0.0651
+DEBUG - 2011-01-24 06:38:28 --> Session Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:38:28 --> Session routines successfully run
+DEBUG - 2011-01-24 06:38:28 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:38:28 --> Final output sent to browser
+DEBUG - 2011-01-24 06:38:28 --> Total execution time: 0.0434
+DEBUG - 2011-01-24 06:39:05 --> Config Class Initialized
+DEBUG - 2011-01-24 06:39:05 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:39:05 --> URI Class Initialized
+DEBUG - 2011-01-24 06:39:05 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:39:05 --> Router Class Initialized
+DEBUG - 2011-01-24 06:39:05 --> Output Class Initialized
+DEBUG - 2011-01-24 06:39:05 --> Input Class Initialized
+DEBUG - 2011-01-24 06:39:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:39:05 --> Language Class Initialized
+DEBUG - 2011-01-24 06:39:05 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:39:05 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:39:05 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:39:05 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:39:05 --> Session Class Initialized
+DEBUG - 2011-01-24 06:39:05 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:39:05 --> Session routines successfully run
+DEBUG - 2011-01-24 06:39:05 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:39:05 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:39:05 --> Final output sent to browser
+DEBUG - 2011-01-24 06:39:05 --> Total execution time: 0.0284
+DEBUG - 2011-01-24 06:39:43 --> Config Class Initialized
+DEBUG - 2011-01-24 06:39:43 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:39:43 --> URI Class Initialized
+DEBUG - 2011-01-24 06:39:43 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:39:43 --> Router Class Initialized
+DEBUG - 2011-01-24 06:39:43 --> Output Class Initialized
+DEBUG - 2011-01-24 06:39:43 --> Input Class Initialized
+DEBUG - 2011-01-24 06:39:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:39:43 --> Language Class Initialized
+DEBUG - 2011-01-24 06:39:43 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:39:43 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:39:43 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:39:43 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:39:43 --> Session Class Initialized
+DEBUG - 2011-01-24 06:39:43 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:39:43 --> Session routines successfully run
+DEBUG - 2011-01-24 06:39:43 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:39:43 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:39:43 --> Final output sent to browser
+DEBUG - 2011-01-24 06:39:43 --> Total execution time: 0.0262
+DEBUG - 2011-01-24 06:39:56 --> Config Class Initialized
+DEBUG - 2011-01-24 06:39:56 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:39:56 --> URI Class Initialized
+DEBUG - 2011-01-24 06:39:56 --> Router Class Initialized
+DEBUG - 2011-01-24 06:39:56 --> Output Class Initialized
+DEBUG - 2011-01-24 06:39:56 --> Input Class Initialized
+DEBUG - 2011-01-24 06:39:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:39:56 --> Language Class Initialized
+DEBUG - 2011-01-24 06:39:56 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:39:56 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:39:56 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:39:56 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:39:56 --> Session Class Initialized
+DEBUG - 2011-01-24 06:39:56 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:39:56 --> Session routines successfully run
+DEBUG - 2011-01-24 06:39:56 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:39:56 --> Final output sent to browser
+DEBUG - 2011-01-24 06:39:56 --> Total execution time: 0.3374
+DEBUG - 2011-01-24 06:39:57 --> Config Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> URI Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Router Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Output Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Input Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:39:57 --> Language Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:39:57 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:39:57 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Session Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:39:57 --> Session routines successfully run
+DEBUG - 2011-01-24 06:39:57 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Final output sent to browser
+DEBUG - 2011-01-24 06:39:57 --> Total execution time: 0.0333
+DEBUG - 2011-01-24 06:39:57 --> Config Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Config Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> URI Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> URI Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Router Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Router Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Output Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Output Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Input Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:39:57 --> Language Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Input Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:39:57 --> Language Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:39:57 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:39:57 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:39:57 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:39:57 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Session Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:39:57 --> Session routines successfully run
+DEBUG - 2011-01-24 06:39:57 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Final output sent to browser
+DEBUG - 2011-01-24 06:39:57 --> Total execution time: 0.0301
+DEBUG - 2011-01-24 06:39:57 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Session Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:39:57 --> Session routines successfully run
+DEBUG - 2011-01-24 06:39:57 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:39:57 --> Final output sent to browser
+DEBUG - 2011-01-24 06:39:57 --> Total execution time: 0.0376
+DEBUG - 2011-01-24 06:40:00 --> Config Class Initialized
+DEBUG - 2011-01-24 06:40:00 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:40:00 --> URI Class Initialized
+DEBUG - 2011-01-24 06:40:00 --> Router Class Initialized
+DEBUG - 2011-01-24 06:40:00 --> Output Class Initialized
+DEBUG - 2011-01-24 06:40:00 --> Input Class Initialized
+DEBUG - 2011-01-24 06:40:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:40:00 --> Language Class Initialized
+DEBUG - 2011-01-24 06:40:00 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:40:00 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:40:00 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:40:00 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:40:00 --> Session Class Initialized
+DEBUG - 2011-01-24 06:40:00 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:40:00 --> Session routines successfully run
+DEBUG - 2011-01-24 06:40:00 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:40:00 --> Final output sent to browser
+DEBUG - 2011-01-24 06:40:00 --> Total execution time: 0.0285
+DEBUG - 2011-01-24 06:40:01 --> Config Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> URI Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Config Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Router Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> URI Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Output Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Router Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Output Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Input Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:40:01 --> Language Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Input Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:40:01 --> Language Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:40:01 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:40:01 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:40:01 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:40:01 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Session Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:40:01 --> Session routines successfully run
+DEBUG - 2011-01-24 06:40:01 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Session Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:40:01 --> Session routines successfully run
+DEBUG - 2011-01-24 06:40:01 --> Final output sent to browser
+DEBUG - 2011-01-24 06:40:01 --> Total execution time: 0.0306
+DEBUG - 2011-01-24 06:40:01 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Final output sent to browser
+DEBUG - 2011-01-24 06:40:01 --> Total execution time: 0.0379
+DEBUG - 2011-01-24 06:40:01 --> Config Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> URI Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Router Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Output Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Input Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:40:01 --> Language Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:40:01 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:40:01 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Session Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:40:01 --> Session routines successfully run
+DEBUG - 2011-01-24 06:40:01 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:40:01 --> Final output sent to browser
+DEBUG - 2011-01-24 06:40:01 --> Total execution time: 0.0353
+DEBUG - 2011-01-24 06:40:58 --> Config Class Initialized
+DEBUG - 2011-01-24 06:40:58 --> Config Class Initialized
+DEBUG - 2011-01-24 06:40:58 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:40:58 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:40:58 --> URI Class Initialized
+DEBUG - 2011-01-24 06:40:58 --> URI Class Initialized
+DEBUG - 2011-01-24 06:40:58 --> Router Class Initialized
+DEBUG - 2011-01-24 06:40:58 --> Router Class Initialized
+DEBUG - 2011-01-24 06:40:58 --> Output Class Initialized
+DEBUG - 2011-01-24 06:40:58 --> Output Class Initialized
+DEBUG - 2011-01-24 06:40:58 --> Input Class Initialized
+DEBUG - 2011-01-24 06:40:58 --> Input Class Initialized
+DEBUG - 2011-01-24 06:40:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:40:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:40:58 --> Language Class Initialized
+DEBUG - 2011-01-24 06:40:58 --> Language Class Initialized
+DEBUG - 2011-01-24 06:40:58 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:40:58 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:40:58 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:40:58 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:40:58 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:40:58 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:40:58 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:40:58 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:40:58 --> Session Class Initialized
+DEBUG - 2011-01-24 06:40:58 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:40:58 --> Session routines successfully run
+DEBUG - 2011-01-24 06:40:58 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:40:58 --> Session Class Initialized
+DEBUG - 2011-01-24 06:40:58 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:40:58 --> Session routines successfully run
+DEBUG - 2011-01-24 06:40:58 --> Final output sent to browser
+DEBUG - 2011-01-24 06:40:58 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:40:58 --> Total execution time: 0.3377
+DEBUG - 2011-01-24 06:40:58 --> Final output sent to browser
+DEBUG - 2011-01-24 06:40:58 --> Total execution time: 0.3452
+DEBUG - 2011-01-24 06:41:09 --> Config Class Initialized
+DEBUG - 2011-01-24 06:41:09 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:41:09 --> URI Class Initialized
+DEBUG - 2011-01-24 06:41:09 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:41:09 --> Router Class Initialized
+DEBUG - 2011-01-24 06:41:09 --> Output Class Initialized
+DEBUG - 2011-01-24 06:41:09 --> Input Class Initialized
+DEBUG - 2011-01-24 06:41:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:41:09 --> Language Class Initialized
+DEBUG - 2011-01-24 06:41:09 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:41:09 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:41:09 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:41:09 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:41:09 --> Session Class Initialized
+DEBUG - 2011-01-24 06:41:09 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:41:09 --> Session routines successfully run
+DEBUG - 2011-01-24 06:41:09 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:41:09 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:41:09 --> Final output sent to browser
+DEBUG - 2011-01-24 06:41:09 --> Total execution time: 0.0328
+DEBUG - 2011-01-24 06:41:18 --> Config Class Initialized
+DEBUG - 2011-01-24 06:41:18 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:41:18 --> URI Class Initialized
+DEBUG - 2011-01-24 06:41:18 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:41:18 --> Router Class Initialized
+DEBUG - 2011-01-24 06:41:18 --> Output Class Initialized
+DEBUG - 2011-01-24 06:41:18 --> Input Class Initialized
+DEBUG - 2011-01-24 06:41:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:41:18 --> Language Class Initialized
+DEBUG - 2011-01-24 06:41:18 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:41:18 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:41:18 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:41:18 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:41:18 --> Session Class Initialized
+DEBUG - 2011-01-24 06:41:18 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:41:18 --> Session routines successfully run
+DEBUG - 2011-01-24 06:41:18 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:41:18 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:41:18 --> Final output sent to browser
+DEBUG - 2011-01-24 06:41:18 --> Total execution time: 0.0264
+DEBUG - 2011-01-24 06:41:29 --> Config Class Initialized
+DEBUG - 2011-01-24 06:41:29 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:41:29 --> URI Class Initialized
+DEBUG - 2011-01-24 06:41:29 --> Router Class Initialized
+DEBUG - 2011-01-24 06:41:29 --> Output Class Initialized
+DEBUG - 2011-01-24 06:41:29 --> Input Class Initialized
+DEBUG - 2011-01-24 06:41:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:41:29 --> Language Class Initialized
+DEBUG - 2011-01-24 06:41:29 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:41:29 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:41:29 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:41:29 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:41:29 --> Session Class Initialized
+DEBUG - 2011-01-24 06:41:29 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:41:29 --> Session routines successfully run
+DEBUG - 2011-01-24 06:41:29 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:41:29 --> Final output sent to browser
+DEBUG - 2011-01-24 06:41:29 --> Total execution time: 0.0292
+DEBUG - 2011-01-24 06:41:30 --> Config Class Initialized
+DEBUG - 2011-01-24 06:41:30 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:41:30 --> URI Class Initialized
+DEBUG - 2011-01-24 06:41:30 --> Router Class Initialized
+DEBUG - 2011-01-24 06:41:30 --> Output Class Initialized
+DEBUG - 2011-01-24 06:41:30 --> Input Class Initialized
+DEBUG - 2011-01-24 06:41:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:41:30 --> Language Class Initialized
+DEBUG - 2011-01-24 06:41:30 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:41:30 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:41:30 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:41:30 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:41:30 --> Session Class Initialized
+DEBUG - 2011-01-24 06:41:30 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:41:30 --> Session routines successfully run
+DEBUG - 2011-01-24 06:41:30 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:41:30 --> Final output sent to browser
+DEBUG - 2011-01-24 06:41:30 --> Total execution time: 0.0352
+DEBUG - 2011-01-24 06:41:31 --> Config Class Initialized
+DEBUG - 2011-01-24 06:41:31 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:41:31 --> Config Class Initialized
+DEBUG - 2011-01-24 06:41:31 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:41:31 --> URI Class Initialized
+DEBUG - 2011-01-24 06:41:31 --> URI Class Initialized
+DEBUG - 2011-01-24 06:41:31 --> Router Class Initialized
+DEBUG - 2011-01-24 06:41:31 --> Output Class Initialized
+DEBUG - 2011-01-24 06:41:31 --> Router Class Initialized
+DEBUG - 2011-01-24 06:41:31 --> Input Class Initialized
+DEBUG - 2011-01-24 06:41:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:41:31 --> Language Class Initialized
+DEBUG - 2011-01-24 06:41:31 --> Output Class Initialized
+DEBUG - 2011-01-24 06:41:31 --> Input Class Initialized
+DEBUG - 2011-01-24 06:41:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:41:31 --> Language Class Initialized
+DEBUG - 2011-01-24 06:41:31 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:41:31 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:41:31 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:41:31 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:41:31 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:41:31 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:41:31 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:41:31 --> Session Class Initialized
+DEBUG - 2011-01-24 06:41:31 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:41:31 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:41:31 --> Session routines successfully run
+DEBUG - 2011-01-24 06:41:31 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:41:31 --> Final output sent to browser
+DEBUG - 2011-01-24 06:41:31 --> Total execution time: 0.0454
+DEBUG - 2011-01-24 06:41:31 --> Session Class Initialized
+DEBUG - 2011-01-24 06:41:31 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:41:31 --> Session routines successfully run
+DEBUG - 2011-01-24 06:41:31 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:41:31 --> Final output sent to browser
+DEBUG - 2011-01-24 06:41:31 --> Total execution time: 0.0516
+DEBUG - 2011-01-24 06:41:33 --> Config Class Initialized
+DEBUG - 2011-01-24 06:41:33 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:41:33 --> URI Class Initialized
+DEBUG - 2011-01-24 06:41:33 --> Router Class Initialized
+DEBUG - 2011-01-24 06:41:33 --> Output Class Initialized
+DEBUG - 2011-01-24 06:41:33 --> Input Class Initialized
+DEBUG - 2011-01-24 06:41:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:41:33 --> Language Class Initialized
+DEBUG - 2011-01-24 06:41:33 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:41:33 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:41:33 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:41:33 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:41:33 --> Session Class Initialized
+DEBUG - 2011-01-24 06:41:33 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:41:33 --> Session routines successfully run
+DEBUG - 2011-01-24 06:41:33 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:41:33 --> Final output sent to browser
+DEBUG - 2011-01-24 06:41:33 --> Total execution time: 0.0291
+DEBUG - 2011-01-24 06:41:34 --> Config Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> URI Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Router Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Config Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Output Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> URI Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Input Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Router Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:41:34 --> Language Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Config Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:41:34 --> URI Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:41:34 --> Router Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Output Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Input Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:41:34 --> Language Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Output Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Input Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:41:34 --> Language Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Session Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:41:34 --> Session routines successfully run
+DEBUG - 2011-01-24 06:41:34 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:41:34 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:41:34 --> Final output sent to browser
+DEBUG - 2011-01-24 06:41:34 --> Total execution time: 0.0316
+DEBUG - 2011-01-24 06:41:34 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:41:34 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:41:34 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Session Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:41:34 --> Session routines successfully run
+DEBUG - 2011-01-24 06:41:34 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Final output sent to browser
+DEBUG - 2011-01-24 06:41:34 --> Total execution time: 0.0440
+DEBUG - 2011-01-24 06:41:34 --> Session Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:41:34 --> Session routines successfully run
+DEBUG - 2011-01-24 06:41:34 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:41:34 --> Final output sent to browser
+DEBUG - 2011-01-24 06:41:34 --> Total execution time: 0.0414
+DEBUG - 2011-01-24 06:41:41 --> Config Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> URI Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Router Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Output Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Input Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:41:41 --> Language Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:41:41 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:41:41 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Session Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:41:41 --> Session routines successfully run
+DEBUG - 2011-01-24 06:41:41 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Final output sent to browser
+DEBUG - 2011-01-24 06:41:41 --> Total execution time: 0.0345
+DEBUG - 2011-01-24 06:41:41 --> Config Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> URI Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Router Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Output Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Config Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> URI Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Input Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:41:41 --> Router Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Language Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Output Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Input Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:41:41 --> Language Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:41:41 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:41:41 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Config Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> URI Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:41:41 --> Router Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:41:41 --> Output Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Input Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:41:41 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Language Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Session Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:41:41 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:41:41 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:41:41 --> Session routines successfully run
+DEBUG - 2011-01-24 06:41:41 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Session Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:41:41 --> Session routines successfully run
+DEBUG - 2011-01-24 06:41:41 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Final output sent to browser
+DEBUG - 2011-01-24 06:41:41 --> Total execution time: 0.0559
+DEBUG - 2011-01-24 06:41:41 --> Final output sent to browser
+DEBUG - 2011-01-24 06:41:41 --> Total execution time: 0.0481
+DEBUG - 2011-01-24 06:41:41 --> Session Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:41:41 --> Session routines successfully run
+DEBUG - 2011-01-24 06:41:41 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:41:41 --> Final output sent to browser
+DEBUG - 2011-01-24 06:41:41 --> Total execution time: 0.0641
+DEBUG - 2011-01-24 06:41:43 --> Config Class Initialized
+DEBUG - 2011-01-24 06:41:43 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:41:43 --> URI Class Initialized
+DEBUG - 2011-01-24 06:41:43 --> Router Class Initialized
+DEBUG - 2011-01-24 06:41:43 --> Output Class Initialized
+DEBUG - 2011-01-24 06:41:43 --> Input Class Initialized
+DEBUG - 2011-01-24 06:41:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:41:43 --> Language Class Initialized
+DEBUG - 2011-01-24 06:41:43 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:41:43 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:41:43 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:41:43 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:41:43 --> Session Class Initialized
+DEBUG - 2011-01-24 06:41:43 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:41:43 --> Session routines successfully run
+DEBUG - 2011-01-24 06:41:43 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:41:43 --> Final output sent to browser
+DEBUG - 2011-01-24 06:41:43 --> Total execution time: 0.0299
+DEBUG - 2011-01-24 06:41:44 --> Config Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> URI Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Router Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Output Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Config Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Input Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:41:44 --> Language Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> URI Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Router Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Output Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Input Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:41:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:41:44 --> Language Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:41:44 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:41:44 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:41:44 --> Session Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:41:44 --> Session routines successfully run
+DEBUG - 2011-01-24 06:41:44 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Final output sent to browser
+DEBUG - 2011-01-24 06:41:44 --> Total execution time: 0.0301
+DEBUG - 2011-01-24 06:41:44 --> Config Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> URI Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Router Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Session Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Output Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:41:44 --> Session routines successfully run
+DEBUG - 2011-01-24 06:41:44 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Input Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:41:44 --> Language Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Final output sent to browser
+DEBUG - 2011-01-24 06:41:44 --> Total execution time: 0.0363
+DEBUG - 2011-01-24 06:41:44 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:41:44 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:41:44 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Session Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:41:44 --> Session routines successfully run
+DEBUG - 2011-01-24 06:41:44 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:41:44 --> Final output sent to browser
+DEBUG - 2011-01-24 06:41:44 --> Total execution time: 0.0362
+DEBUG - 2011-01-24 06:41:56 --> Config Class Initialized
+DEBUG - 2011-01-24 06:41:56 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:41:56 --> URI Class Initialized
+DEBUG - 2011-01-24 06:41:56 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:41:56 --> Router Class Initialized
+DEBUG - 2011-01-24 06:41:56 --> Output Class Initialized
+DEBUG - 2011-01-24 06:41:56 --> Input Class Initialized
+DEBUG - 2011-01-24 06:41:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:41:56 --> Language Class Initialized
+DEBUG - 2011-01-24 06:41:56 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:41:56 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:41:56 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:41:56 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:41:56 --> Session Class Initialized
+DEBUG - 2011-01-24 06:41:56 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:41:56 --> Session routines successfully run
+DEBUG - 2011-01-24 06:41:56 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:41:56 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:41:56 --> Final output sent to browser
+DEBUG - 2011-01-24 06:41:56 --> Total execution time: 0.0266
+DEBUG - 2011-01-24 06:42:09 --> Config Class Initialized
+DEBUG - 2011-01-24 06:42:09 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:42:09 --> URI Class Initialized
+DEBUG - 2011-01-24 06:42:09 --> Router Class Initialized
+DEBUG - 2011-01-24 06:42:09 --> Output Class Initialized
+DEBUG - 2011-01-24 06:42:09 --> Input Class Initialized
+DEBUG - 2011-01-24 06:42:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:42:09 --> Language Class Initialized
+DEBUG - 2011-01-24 06:42:09 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:42:09 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:42:09 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:42:09 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:42:09 --> Session Class Initialized
+DEBUG - 2011-01-24 06:42:09 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:42:09 --> Session routines successfully run
+DEBUG - 2011-01-24 06:42:09 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:42:09 --> Final output sent to browser
+DEBUG - 2011-01-24 06:42:09 --> Total execution time: 0.1067
+DEBUG - 2011-01-24 06:42:10 --> Config Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> URI Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Router Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Output Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Input Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:42:10 --> Language Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:42:10 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:42:10 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Session Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:42:10 --> Session routines successfully run
+DEBUG - 2011-01-24 06:42:10 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Final output sent to browser
+DEBUG - 2011-01-24 06:42:10 --> Total execution time: 0.1751
+DEBUG - 2011-01-24 06:42:10 --> Config Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Config Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> URI Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> URI Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Router Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Router Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Output Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Output Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Input Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Input Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:42:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:42:10 --> Language Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Language Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:42:10 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:42:10 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:42:10 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:42:10 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Session Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:42:10 --> Session routines successfully run
+DEBUG - 2011-01-24 06:42:10 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Session Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Final output sent to browser
+DEBUG - 2011-01-24 06:42:10 --> Total execution time: 0.0843
+DEBUG - 2011-01-24 06:42:10 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:42:10 --> Session routines successfully run
+DEBUG - 2011-01-24 06:42:10 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:42:10 --> Final output sent to browser
+DEBUG - 2011-01-24 06:42:10 --> Total execution time: 0.0963
+DEBUG - 2011-01-24 06:42:13 --> Config Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> URI Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Router Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Output Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Input Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:42:13 --> Language Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:42:13 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:42:13 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Session Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:42:13 --> Session routines successfully run
+DEBUG - 2011-01-24 06:42:13 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Final output sent to browser
+DEBUG - 2011-01-24 06:42:13 --> Total execution time: 0.0505
+DEBUG - 2011-01-24 06:42:13 --> Config Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> URI Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Router Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Output Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Config Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> URI Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Input Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:42:13 --> Router Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Language Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Output Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Input Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:42:13 --> Language Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:42:13 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:42:13 --> Config Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> URI Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Router Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Output Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Input Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:42:13 --> Language Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:42:13 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:42:13 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:42:13 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:42:13 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Session Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:42:13 --> Session Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Session routines successfully run
+DEBUG - 2011-01-24 06:42:13 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:42:13 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Session routines successfully run
+DEBUG - 2011-01-24 06:42:13 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Session Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:42:13 --> Session routines successfully run
+DEBUG - 2011-01-24 06:42:13 --> Final output sent to browser
+DEBUG - 2011-01-24 06:42:13 --> Total execution time: 0.0428
+DEBUG - 2011-01-24 06:42:13 --> Final output sent to browser
+DEBUG - 2011-01-24 06:42:13 --> Total execution time: 0.0287
+DEBUG - 2011-01-24 06:42:13 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:42:13 --> Final output sent to browser
+DEBUG - 2011-01-24 06:42:13 --> Total execution time: 0.0519
+DEBUG - 2011-01-24 06:42:44 --> Config Class Initialized
+DEBUG - 2011-01-24 06:42:44 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:42:44 --> URI Class Initialized
+DEBUG - 2011-01-24 06:42:44 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:42:44 --> Router Class Initialized
+DEBUG - 2011-01-24 06:42:44 --> Output Class Initialized
+DEBUG - 2011-01-24 06:42:44 --> Input Class Initialized
+DEBUG - 2011-01-24 06:42:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:42:44 --> Language Class Initialized
+DEBUG - 2011-01-24 06:42:44 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:42:44 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:42:44 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:42:44 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:42:44 --> Session Class Initialized
+DEBUG - 2011-01-24 06:42:44 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:42:44 --> Session routines successfully run
+DEBUG - 2011-01-24 06:42:44 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:42:44 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:42:44 --> Final output sent to browser
+DEBUG - 2011-01-24 06:42:44 --> Total execution time: 0.0340
+DEBUG - 2011-01-24 06:42:57 --> Config Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> URI Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Router Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Output Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Input Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:42:57 --> Language Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:42:57 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:42:57 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Session Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:42:57 --> Session routines successfully run
+DEBUG - 2011-01-24 06:42:57 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Final output sent to browser
+DEBUG - 2011-01-24 06:42:57 --> Total execution time: 0.3791
+DEBUG - 2011-01-24 06:42:57 --> Config Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> URI Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Router Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Output Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Input Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:42:57 --> Language Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:42:57 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:42:57 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Session Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:42:57 --> Session routines successfully run
+DEBUG - 2011-01-24 06:42:57 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Final output sent to browser
+DEBUG - 2011-01-24 06:42:57 --> Total execution time: 0.0364
+DEBUG - 2011-01-24 06:42:57 --> Config Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> URI Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Config Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Router Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Output Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> URI Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Router Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Input Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Output Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:42:57 --> Language Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Input Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:42:57 --> Language Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:42:57 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:42:57 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:42:57 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:42:57 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Session Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:42:57 --> Session Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Session routines successfully run
+DEBUG - 2011-01-24 06:42:57 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:42:57 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Session routines successfully run
+DEBUG - 2011-01-24 06:42:57 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:42:57 --> Final output sent to browser
+DEBUG - 2011-01-24 06:42:57 --> Total execution time: 0.0324
+DEBUG - 2011-01-24 06:42:57 --> Final output sent to browser
+DEBUG - 2011-01-24 06:42:57 --> Total execution time: 0.0304
+DEBUG - 2011-01-24 06:42:59 --> Config Class Initialized
+DEBUG - 2011-01-24 06:42:59 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> URI Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Router Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Output Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Input Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:43:00 --> Language Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:43:00 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:43:00 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Session Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:43:00 --> Session routines successfully run
+DEBUG - 2011-01-24 06:43:00 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Final output sent to browser
+DEBUG - 2011-01-24 06:43:00 --> Total execution time: 0.0291
+DEBUG - 2011-01-24 06:43:00 --> Config Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> URI Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Router Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Config Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Output Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> URI Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Input Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:43:00 --> Router Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Language Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Output Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Input Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:43:00 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Language Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Config Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:43:00 --> URI Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:43:00 --> Router Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Output Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Input Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:43:00 --> Language Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:43:00 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:43:00 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:43:00 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:43:00 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Session Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:43:00 --> Session routines successfully run
+DEBUG - 2011-01-24 06:43:00 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Session Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:43:00 --> Session routines successfully run
+DEBUG - 2011-01-24 06:43:00 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Final output sent to browser
+DEBUG - 2011-01-24 06:43:00 --> Total execution time: 0.0456
+DEBUG - 2011-01-24 06:43:00 --> Final output sent to browser
+DEBUG - 2011-01-24 06:43:00 --> Total execution time: 0.0294
+DEBUG - 2011-01-24 06:43:00 --> Session Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:43:00 --> Session routines successfully run
+DEBUG - 2011-01-24 06:43:00 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:43:00 --> Final output sent to browser
+DEBUG - 2011-01-24 06:43:00 --> Total execution time: 0.0501
+DEBUG - 2011-01-24 06:43:07 --> Config Class Initialized
+DEBUG - 2011-01-24 06:43:07 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:43:07 --> URI Class Initialized
+DEBUG - 2011-01-24 06:43:07 --> Router Class Initialized
+DEBUG - 2011-01-24 06:43:07 --> Output Class Initialized
+DEBUG - 2011-01-24 06:43:07 --> Input Class Initialized
+DEBUG - 2011-01-24 06:43:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:43:07 --> Language Class Initialized
+DEBUG - 2011-01-24 06:43:07 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:43:07 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:43:07 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:43:07 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:43:07 --> Session Class Initialized
+DEBUG - 2011-01-24 06:43:07 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:43:07 --> Session routines successfully run
+DEBUG - 2011-01-24 06:43:07 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:43:07 --> Final output sent to browser
+DEBUG - 2011-01-24 06:43:07 --> Total execution time: 0.0281
+DEBUG - 2011-01-24 06:43:08 --> Config Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> URI Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Router Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Output Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Input Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:43:08 --> Language Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Config Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Config Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:43:08 --> URI Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Router Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:43:08 --> URI Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Router Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Output Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Output Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Input Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:43:08 --> Language Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Session Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:43:08 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Session routines successfully run
+DEBUG - 2011-01-24 06:43:08 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:43:08 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:43:08 --> Input Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:43:08 --> Language Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:43:08 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:43:08 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Final output sent to browser
+DEBUG - 2011-01-24 06:43:08 --> Total execution time: 0.0662
+DEBUG - 2011-01-24 06:43:08 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Session Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:43:08 --> Session Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Session routines successfully run
+DEBUG - 2011-01-24 06:43:08 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:43:08 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Session routines successfully run
+DEBUG - 2011-01-24 06:43:08 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:43:08 --> Final output sent to browser
+DEBUG - 2011-01-24 06:43:08 --> Total execution time: 0.0629
+DEBUG - 2011-01-24 06:43:08 --> Final output sent to browser
+DEBUG - 2011-01-24 06:43:08 --> Total execution time: 0.0693
+DEBUG - 2011-01-24 06:43:20 --> Config Class Initialized
+DEBUG - 2011-01-24 06:43:20 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:43:20 --> URI Class Initialized
+DEBUG - 2011-01-24 06:43:20 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:43:20 --> Router Class Initialized
+DEBUG - 2011-01-24 06:43:20 --> Output Class Initialized
+DEBUG - 2011-01-24 06:43:20 --> Input Class Initialized
+DEBUG - 2011-01-24 06:43:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:43:20 --> Language Class Initialized
+DEBUG - 2011-01-24 06:43:20 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:43:20 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:43:20 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:43:20 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:43:20 --> Session Class Initialized
+DEBUG - 2011-01-24 06:43:20 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:43:20 --> Session routines successfully run
+DEBUG - 2011-01-24 06:43:20 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:43:20 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:43:20 --> Final output sent to browser
+DEBUG - 2011-01-24 06:43:20 --> Total execution time: 0.0291
+DEBUG - 2011-01-24 06:43:36 --> Config Class Initialized
+DEBUG - 2011-01-24 06:43:36 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:43:36 --> URI Class Initialized
+DEBUG - 2011-01-24 06:43:36 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:43:36 --> Router Class Initialized
+DEBUG - 2011-01-24 06:43:36 --> Output Class Initialized
+DEBUG - 2011-01-24 06:43:36 --> Input Class Initialized
+DEBUG - 2011-01-24 06:43:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:43:36 --> Language Class Initialized
+DEBUG - 2011-01-24 06:43:36 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:43:36 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:43:36 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:43:36 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:43:36 --> Session Class Initialized
+DEBUG - 2011-01-24 06:43:36 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:43:36 --> Session routines successfully run
+DEBUG - 2011-01-24 06:43:36 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:43:36 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:43:36 --> Final output sent to browser
+DEBUG - 2011-01-24 06:43:36 --> Total execution time: 0.0275
+DEBUG - 2011-01-24 06:43:50 --> Config Class Initialized
+DEBUG - 2011-01-24 06:43:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:43:50 --> URI Class Initialized
+DEBUG - 2011-01-24 06:43:50 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:43:50 --> Router Class Initialized
+DEBUG - 2011-01-24 06:43:50 --> Output Class Initialized
+DEBUG - 2011-01-24 06:43:50 --> Input Class Initialized
+DEBUG - 2011-01-24 06:43:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:43:50 --> Language Class Initialized
+DEBUG - 2011-01-24 06:43:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:43:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:43:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:43:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:43:50 --> Session Class Initialized
+DEBUG - 2011-01-24 06:43:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:43:50 --> Session routines successfully run
+DEBUG - 2011-01-24 06:43:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:43:50 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:43:50 --> Final output sent to browser
+DEBUG - 2011-01-24 06:43:50 --> Total execution time: 0.0282
+DEBUG - 2011-01-24 06:44:01 --> Config Class Initialized
+DEBUG - 2011-01-24 06:44:01 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:44:01 --> URI Class Initialized
+DEBUG - 2011-01-24 06:44:01 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:44:01 --> Router Class Initialized
+DEBUG - 2011-01-24 06:44:01 --> Output Class Initialized
+DEBUG - 2011-01-24 06:44:01 --> Input Class Initialized
+DEBUG - 2011-01-24 06:44:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:44:01 --> Language Class Initialized
+DEBUG - 2011-01-24 06:44:01 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:44:01 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:44:01 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:44:01 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:44:01 --> Session Class Initialized
+DEBUG - 2011-01-24 06:44:01 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:44:01 --> Session routines successfully run
+DEBUG - 2011-01-24 06:44:01 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:44:01 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:44:01 --> Final output sent to browser
+DEBUG - 2011-01-24 06:44:01 --> Total execution time: 0.0283
+DEBUG - 2011-01-24 06:44:12 --> Config Class Initialized
+DEBUG - 2011-01-24 06:44:12 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:44:12 --> URI Class Initialized
+DEBUG - 2011-01-24 06:44:12 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:44:12 --> Router Class Initialized
+DEBUG - 2011-01-24 06:44:12 --> Output Class Initialized
+DEBUG - 2011-01-24 06:44:12 --> Input Class Initialized
+DEBUG - 2011-01-24 06:44:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:44:12 --> Language Class Initialized
+DEBUG - 2011-01-24 06:44:12 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:44:12 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:44:12 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:44:12 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:44:12 --> Session Class Initialized
+DEBUG - 2011-01-24 06:44:12 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:44:12 --> Session routines successfully run
+DEBUG - 2011-01-24 06:44:12 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:44:12 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:44:12 --> Final output sent to browser
+DEBUG - 2011-01-24 06:44:12 --> Total execution time: 0.0330
+DEBUG - 2011-01-24 06:44:23 --> Config Class Initialized
+DEBUG - 2011-01-24 06:44:23 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:44:23 --> URI Class Initialized
+DEBUG - 2011-01-24 06:44:23 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:44:23 --> Router Class Initialized
+DEBUG - 2011-01-24 06:44:23 --> Output Class Initialized
+DEBUG - 2011-01-24 06:44:23 --> Input Class Initialized
+DEBUG - 2011-01-24 06:44:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:44:23 --> Language Class Initialized
+DEBUG - 2011-01-24 06:44:23 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:44:23 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:44:23 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:44:23 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:44:23 --> Session Class Initialized
+DEBUG - 2011-01-24 06:44:23 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:44:23 --> Session routines successfully run
+DEBUG - 2011-01-24 06:44:23 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:44:23 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:44:23 --> Final output sent to browser
+DEBUG - 2011-01-24 06:44:23 --> Total execution time: 0.0262
+DEBUG - 2011-01-24 06:44:35 --> Config Class Initialized
+DEBUG - 2011-01-24 06:44:35 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:44:35 --> URI Class Initialized
+DEBUG - 2011-01-24 06:44:35 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:44:35 --> Router Class Initialized
+DEBUG - 2011-01-24 06:44:35 --> Output Class Initialized
+DEBUG - 2011-01-24 06:44:35 --> Input Class Initialized
+DEBUG - 2011-01-24 06:44:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:44:35 --> Language Class Initialized
+DEBUG - 2011-01-24 06:44:35 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:44:35 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:44:35 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:44:35 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:44:35 --> Session Class Initialized
+DEBUG - 2011-01-24 06:44:35 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:44:35 --> Session routines successfully run
+DEBUG - 2011-01-24 06:44:35 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:44:35 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:44:35 --> Final output sent to browser
+DEBUG - 2011-01-24 06:44:35 --> Total execution time: 0.0302
+DEBUG - 2011-01-24 06:44:49 --> Config Class Initialized
+DEBUG - 2011-01-24 06:44:49 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:44:49 --> URI Class Initialized
+DEBUG - 2011-01-24 06:44:49 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:44:49 --> Router Class Initialized
+DEBUG - 2011-01-24 06:44:49 --> Output Class Initialized
+DEBUG - 2011-01-24 06:44:49 --> Input Class Initialized
+DEBUG - 2011-01-24 06:44:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:44:49 --> Language Class Initialized
+DEBUG - 2011-01-24 06:44:49 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:44:49 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:44:49 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:44:49 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:44:49 --> Session Class Initialized
+DEBUG - 2011-01-24 06:44:49 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:44:49 --> Session routines successfully run
+DEBUG - 2011-01-24 06:44:49 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:44:49 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:44:49 --> Final output sent to browser
+DEBUG - 2011-01-24 06:44:49 --> Total execution time: 0.0270
+DEBUG - 2011-01-24 06:44:59 --> Config Class Initialized
+DEBUG - 2011-01-24 06:44:59 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:44:59 --> URI Class Initialized
+DEBUG - 2011-01-24 06:44:59 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:44:59 --> Router Class Initialized
+DEBUG - 2011-01-24 06:44:59 --> Output Class Initialized
+DEBUG - 2011-01-24 06:44:59 --> Input Class Initialized
+DEBUG - 2011-01-24 06:44:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:44:59 --> Language Class Initialized
+DEBUG - 2011-01-24 06:44:59 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:44:59 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:44:59 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:44:59 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:44:59 --> Session Class Initialized
+DEBUG - 2011-01-24 06:44:59 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:44:59 --> Session routines successfully run
+DEBUG - 2011-01-24 06:44:59 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:44:59 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:44:59 --> Final output sent to browser
+DEBUG - 2011-01-24 06:44:59 --> Total execution time: 0.0273
+DEBUG - 2011-01-24 06:45:09 --> Config Class Initialized
+DEBUG - 2011-01-24 06:45:09 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:45:09 --> URI Class Initialized
+DEBUG - 2011-01-24 06:45:09 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:45:09 --> Router Class Initialized
+DEBUG - 2011-01-24 06:45:09 --> Output Class Initialized
+DEBUG - 2011-01-24 06:45:09 --> Input Class Initialized
+DEBUG - 2011-01-24 06:45:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:45:09 --> Language Class Initialized
+DEBUG - 2011-01-24 06:45:09 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:45:09 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:45:09 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:45:09 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:45:09 --> Session Class Initialized
+DEBUG - 2011-01-24 06:45:09 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:45:09 --> Session routines successfully run
+DEBUG - 2011-01-24 06:45:09 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:45:09 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:45:09 --> Final output sent to browser
+DEBUG - 2011-01-24 06:45:09 --> Total execution time: 0.0272
+DEBUG - 2011-01-24 06:45:19 --> Config Class Initialized
+DEBUG - 2011-01-24 06:45:19 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:45:19 --> URI Class Initialized
+DEBUG - 2011-01-24 06:45:19 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:45:19 --> Router Class Initialized
+DEBUG - 2011-01-24 06:45:19 --> Output Class Initialized
+DEBUG - 2011-01-24 06:45:19 --> Input Class Initialized
+DEBUG - 2011-01-24 06:45:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:45:19 --> Language Class Initialized
+DEBUG - 2011-01-24 06:45:19 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:45:19 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:45:19 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:45:19 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:45:19 --> Session Class Initialized
+DEBUG - 2011-01-24 06:45:19 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:45:19 --> Session routines successfully run
+DEBUG - 2011-01-24 06:45:19 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:45:19 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:45:19 --> Final output sent to browser
+DEBUG - 2011-01-24 06:45:19 --> Total execution time: 0.0270
+DEBUG - 2011-01-24 06:45:28 --> Config Class Initialized
+DEBUG - 2011-01-24 06:45:28 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:45:28 --> URI Class Initialized
+DEBUG - 2011-01-24 06:45:28 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:45:28 --> Router Class Initialized
+DEBUG - 2011-01-24 06:45:28 --> Output Class Initialized
+DEBUG - 2011-01-24 06:45:28 --> Input Class Initialized
+DEBUG - 2011-01-24 06:45:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:45:28 --> Language Class Initialized
+DEBUG - 2011-01-24 06:45:28 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:45:28 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:45:28 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:45:28 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:45:28 --> Session Class Initialized
+DEBUG - 2011-01-24 06:45:28 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:45:28 --> Session routines successfully run
+DEBUG - 2011-01-24 06:45:28 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:45:28 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:45:28 --> Final output sent to browser
+DEBUG - 2011-01-24 06:45:28 --> Total execution time: 0.0265
+DEBUG - 2011-01-24 06:45:36 --> Config Class Initialized
+DEBUG - 2011-01-24 06:45:36 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:45:36 --> URI Class Initialized
+DEBUG - 2011-01-24 06:45:36 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:45:36 --> Router Class Initialized
+DEBUG - 2011-01-24 06:45:36 --> Output Class Initialized
+DEBUG - 2011-01-24 06:45:36 --> Input Class Initialized
+DEBUG - 2011-01-24 06:45:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:45:36 --> Language Class Initialized
+DEBUG - 2011-01-24 06:45:36 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:45:36 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:45:36 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:45:36 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:45:36 --> Session Class Initialized
+DEBUG - 2011-01-24 06:45:36 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:45:36 --> Session routines successfully run
+DEBUG - 2011-01-24 06:45:36 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:45:36 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:45:36 --> Final output sent to browser
+DEBUG - 2011-01-24 06:45:36 --> Total execution time: 0.0287
+DEBUG - 2011-01-24 06:45:49 --> Config Class Initialized
+DEBUG - 2011-01-24 06:45:49 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:45:49 --> URI Class Initialized
+DEBUG - 2011-01-24 06:45:49 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:45:49 --> Router Class Initialized
+DEBUG - 2011-01-24 06:45:49 --> Output Class Initialized
+DEBUG - 2011-01-24 06:45:49 --> Input Class Initialized
+DEBUG - 2011-01-24 06:45:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:45:49 --> Language Class Initialized
+DEBUG - 2011-01-24 06:45:49 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:45:49 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:45:49 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:45:49 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:45:49 --> Session Class Initialized
+DEBUG - 2011-01-24 06:45:49 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:45:49 --> Session routines successfully run
+DEBUG - 2011-01-24 06:45:49 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:45:49 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:45:49 --> Final output sent to browser
+DEBUG - 2011-01-24 06:45:49 --> Total execution time: 0.0279
+DEBUG - 2011-01-24 06:46:01 --> Config Class Initialized
+DEBUG - 2011-01-24 06:46:01 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:46:01 --> URI Class Initialized
+DEBUG - 2011-01-24 06:46:01 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:46:01 --> Router Class Initialized
+DEBUG - 2011-01-24 06:46:01 --> Output Class Initialized
+DEBUG - 2011-01-24 06:46:01 --> Input Class Initialized
+DEBUG - 2011-01-24 06:46:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:46:01 --> Language Class Initialized
+DEBUG - 2011-01-24 06:46:01 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:46:01 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:46:01 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:46:01 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:46:01 --> Session Class Initialized
+DEBUG - 2011-01-24 06:46:01 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:46:01 --> Session routines successfully run
+DEBUG - 2011-01-24 06:46:01 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:46:01 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:46:01 --> Final output sent to browser
+DEBUG - 2011-01-24 06:46:01 --> Total execution time: 0.0281
+DEBUG - 2011-01-24 06:46:12 --> Config Class Initialized
+DEBUG - 2011-01-24 06:46:12 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:46:12 --> URI Class Initialized
+DEBUG - 2011-01-24 06:46:12 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:46:12 --> Router Class Initialized
+DEBUG - 2011-01-24 06:46:12 --> Output Class Initialized
+DEBUG - 2011-01-24 06:46:12 --> Input Class Initialized
+DEBUG - 2011-01-24 06:46:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:46:12 --> Language Class Initialized
+DEBUG - 2011-01-24 06:46:12 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:46:12 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:46:12 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:46:12 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:46:12 --> Session Class Initialized
+DEBUG - 2011-01-24 06:46:12 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:46:12 --> Session routines successfully run
+DEBUG - 2011-01-24 06:46:12 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:46:12 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:46:12 --> Final output sent to browser
+DEBUG - 2011-01-24 06:46:12 --> Total execution time: 0.0268
+DEBUG - 2011-01-24 06:48:40 --> Config Class Initialized
+DEBUG - 2011-01-24 06:48:40 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:48:40 --> URI Class Initialized
+DEBUG - 2011-01-24 06:48:40 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:48:40 --> Router Class Initialized
+DEBUG - 2011-01-24 06:48:40 --> Output Class Initialized
+DEBUG - 2011-01-24 06:48:40 --> Input Class Initialized
+DEBUG - 2011-01-24 06:48:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:48:40 --> Language Class Initialized
+DEBUG - 2011-01-24 06:48:40 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:48:40 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:48:40 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:48:40 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:48:40 --> Session Class Initialized
+DEBUG - 2011-01-24 06:48:40 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:48:40 --> Session routines successfully run
+DEBUG - 2011-01-24 06:48:40 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:48:40 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:48:40 --> Final output sent to browser
+DEBUG - 2011-01-24 06:48:40 --> Total execution time: 0.0885
+DEBUG - 2011-01-24 06:48:55 --> Config Class Initialized
+DEBUG - 2011-01-24 06:48:55 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:48:55 --> URI Class Initialized
+DEBUG - 2011-01-24 06:48:55 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:48:55 --> Router Class Initialized
+DEBUG - 2011-01-24 06:48:55 --> Output Class Initialized
+DEBUG - 2011-01-24 06:48:55 --> Input Class Initialized
+DEBUG - 2011-01-24 06:48:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:48:55 --> Language Class Initialized
+DEBUG - 2011-01-24 06:48:55 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:48:55 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:48:55 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:48:55 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:48:55 --> Session Class Initialized
+DEBUG - 2011-01-24 06:48:55 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:48:55 --> Session routines successfully run
+DEBUG - 2011-01-24 06:48:55 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:48:55 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:48:55 --> Final output sent to browser
+DEBUG - 2011-01-24 06:48:55 --> Total execution time: 0.0355
+DEBUG - 2011-01-24 06:49:45 --> Config Class Initialized
+DEBUG - 2011-01-24 06:49:45 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:49:45 --> URI Class Initialized
+DEBUG - 2011-01-24 06:49:45 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:49:45 --> Router Class Initialized
+DEBUG - 2011-01-24 06:49:45 --> Output Class Initialized
+DEBUG - 2011-01-24 06:49:45 --> Input Class Initialized
+DEBUG - 2011-01-24 06:49:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:49:45 --> Language Class Initialized
+DEBUG - 2011-01-24 06:49:45 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:49:45 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:49:45 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:49:45 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:49:45 --> Session Class Initialized
+DEBUG - 2011-01-24 06:49:45 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:49:45 --> Session routines successfully run
+DEBUG - 2011-01-24 06:49:45 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:49:45 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:49:45 --> Final output sent to browser
+DEBUG - 2011-01-24 06:49:45 --> Total execution time: 0.3631
+DEBUG - 2011-01-24 06:49:58 --> Config Class Initialized
+DEBUG - 2011-01-24 06:49:58 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:49:58 --> URI Class Initialized
+DEBUG - 2011-01-24 06:49:58 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:49:58 --> Router Class Initialized
+DEBUG - 2011-01-24 06:49:58 --> Output Class Initialized
+DEBUG - 2011-01-24 06:49:58 --> Input Class Initialized
+DEBUG - 2011-01-24 06:49:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:49:58 --> Language Class Initialized
+DEBUG - 2011-01-24 06:49:58 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:49:58 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:49:58 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:49:58 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:49:58 --> Session Class Initialized
+DEBUG - 2011-01-24 06:49:58 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:49:58 --> Session routines successfully run
+DEBUG - 2011-01-24 06:49:58 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:49:58 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:49:58 --> Final output sent to browser
+DEBUG - 2011-01-24 06:49:58 --> Total execution time: 0.0283
+DEBUG - 2011-01-24 06:50:20 --> Config Class Initialized
+DEBUG - 2011-01-24 06:50:20 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:50:20 --> URI Class Initialized
+DEBUG - 2011-01-24 06:50:20 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:50:20 --> Router Class Initialized
+DEBUG - 2011-01-24 06:50:20 --> Output Class Initialized
+DEBUG - 2011-01-24 06:50:20 --> Input Class Initialized
+DEBUG - 2011-01-24 06:50:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:50:20 --> Language Class Initialized
+DEBUG - 2011-01-24 06:50:20 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:50:20 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:50:20 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:50:20 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:50:20 --> Session Class Initialized
+DEBUG - 2011-01-24 06:50:20 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:50:20 --> Session routines successfully run
+DEBUG - 2011-01-24 06:50:20 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:50:20 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:50:20 --> Final output sent to browser
+DEBUG - 2011-01-24 06:50:20 --> Total execution time: 0.0274
+DEBUG - 2011-01-24 06:50:33 --> Config Class Initialized
+DEBUG - 2011-01-24 06:50:33 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:50:33 --> URI Class Initialized
+DEBUG - 2011-01-24 06:50:33 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:50:33 --> Router Class Initialized
+DEBUG - 2011-01-24 06:50:33 --> Output Class Initialized
+DEBUG - 2011-01-24 06:50:33 --> Input Class Initialized
+DEBUG - 2011-01-24 06:50:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:50:33 --> Language Class Initialized
+DEBUG - 2011-01-24 06:50:33 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:50:33 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:50:33 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:50:33 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:50:33 --> Session Class Initialized
+DEBUG - 2011-01-24 06:50:33 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:50:33 --> Session routines successfully run
+DEBUG - 2011-01-24 06:50:33 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:50:33 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:50:33 --> Final output sent to browser
+DEBUG - 2011-01-24 06:50:33 --> Total execution time: 0.0617
+DEBUG - 2011-01-24 06:52:58 --> Config Class Initialized
+DEBUG - 2011-01-24 06:52:58 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:52:58 --> URI Class Initialized
+DEBUG - 2011-01-24 06:52:58 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:52:58 --> Router Class Initialized
+DEBUG - 2011-01-24 06:52:58 --> Output Class Initialized
+DEBUG - 2011-01-24 06:52:58 --> Input Class Initialized
+DEBUG - 2011-01-24 06:52:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:52:58 --> Language Class Initialized
+DEBUG - 2011-01-24 06:52:58 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:52:58 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:52:58 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:52:58 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:52:58 --> Session Class Initialized
+DEBUG - 2011-01-24 06:52:58 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:52:58 --> Session routines successfully run
+DEBUG - 2011-01-24 06:52:58 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:52:58 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:52:58 --> Final output sent to browser
+DEBUG - 2011-01-24 06:52:58 --> Total execution time: 0.0290
+DEBUG - 2011-01-24 06:52:58 --> Config Class Initialized
+DEBUG - 2011-01-24 06:52:58 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:52:58 --> URI Class Initialized
+ERROR - 2011-01-24 06:52:58 --> 404 Page Not Found --> public
+DEBUG - 2011-01-24 06:53:03 --> Config Class Initialized
+DEBUG - 2011-01-24 06:53:03 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:53:03 --> URI Class Initialized
+ERROR - 2011-01-24 06:53:03 --> 404 Page Not Found --> public
+DEBUG - 2011-01-24 06:53:16 --> Config Class Initialized
+DEBUG - 2011-01-24 06:53:16 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:53:16 --> URI Class Initialized
+DEBUG - 2011-01-24 06:53:16 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:53:16 --> Router Class Initialized
+DEBUG - 2011-01-24 06:53:16 --> Output Class Initialized
+DEBUG - 2011-01-24 06:53:16 --> Input Class Initialized
+DEBUG - 2011-01-24 06:53:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:53:16 --> Language Class Initialized
+DEBUG - 2011-01-24 06:53:16 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:53:16 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:53:16 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:53:16 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:53:16 --> Session Class Initialized
+DEBUG - 2011-01-24 06:53:16 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:53:16 --> Session routines successfully run
+DEBUG - 2011-01-24 06:53:16 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:53:16 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:53:16 --> Final output sent to browser
+DEBUG - 2011-01-24 06:53:16 --> Total execution time: 0.0262
+DEBUG - 2011-01-24 06:53:16 --> Config Class Initialized
+DEBUG - 2011-01-24 06:53:16 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:53:16 --> URI Class Initialized
+ERROR - 2011-01-24 06:53:16 --> 404 Page Not Found --> public
+DEBUG - 2011-01-24 06:53:20 --> Config Class Initialized
+DEBUG - 2011-01-24 06:53:20 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:53:20 --> URI Class Initialized
+ERROR - 2011-01-24 06:53:20 --> 404 Page Not Found --> public
+DEBUG - 2011-01-24 06:53:46 --> Config Class Initialized
+DEBUG - 2011-01-24 06:53:46 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:53:46 --> URI Class Initialized
+DEBUG - 2011-01-24 06:53:46 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:53:46 --> Router Class Initialized
+DEBUG - 2011-01-24 06:53:46 --> Output Class Initialized
+DEBUG - 2011-01-24 06:53:46 --> Input Class Initialized
+DEBUG - 2011-01-24 06:53:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:53:46 --> Language Class Initialized
+DEBUG - 2011-01-24 06:53:46 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:53:46 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:53:46 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:53:46 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:53:46 --> Session Class Initialized
+DEBUG - 2011-01-24 06:53:46 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:53:46 --> Session routines successfully run
+DEBUG - 2011-01-24 06:53:46 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:53:46 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:53:46 --> Final output sent to browser
+DEBUG - 2011-01-24 06:53:46 --> Total execution time: 0.0268
+DEBUG - 2011-01-24 06:53:47 --> Config Class Initialized
+DEBUG - 2011-01-24 06:53:47 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:53:47 --> URI Class Initialized
+ERROR - 2011-01-24 06:53:47 --> 404 Page Not Found --> public
+DEBUG - 2011-01-24 06:53:50 --> Config Class Initialized
+DEBUG - 2011-01-24 06:53:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:53:50 --> URI Class Initialized
+ERROR - 2011-01-24 06:53:50 --> 404 Page Not Found --> public
+DEBUG - 2011-01-24 06:53:56 --> Config Class Initialized
+DEBUG - 2011-01-24 06:53:56 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:53:56 --> URI Class Initialized
+DEBUG - 2011-01-24 06:53:56 --> Router Class Initialized
+DEBUG - 2011-01-24 06:53:56 --> Output Class Initialized
+DEBUG - 2011-01-24 06:53:56 --> Input Class Initialized
+DEBUG - 2011-01-24 06:53:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:53:56 --> Language Class Initialized
+DEBUG - 2011-01-24 06:53:56 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:53:56 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:53:56 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:53:56 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:53:56 --> Session Class Initialized
+DEBUG - 2011-01-24 06:53:56 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:53:56 --> Session routines successfully run
+DEBUG - 2011-01-24 06:53:56 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:53:56 --> Final output sent to browser
+DEBUG - 2011-01-24 06:53:56 --> Total execution time: 0.0287
+DEBUG - 2011-01-24 06:53:56 --> Config Class Initialized
+DEBUG - 2011-01-24 06:53:56 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:53:56 --> URI Class Initialized
+DEBUG - 2011-01-24 06:53:56 --> Router Class Initialized
+DEBUG - 2011-01-24 06:53:56 --> Output Class Initialized
+DEBUG - 2011-01-24 06:53:56 --> Input Class Initialized
+DEBUG - 2011-01-24 06:53:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:53:56 --> Language Class Initialized
+DEBUG - 2011-01-24 06:53:56 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:53:56 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:53:56 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:53:56 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:53:56 --> Session Class Initialized
+DEBUG - 2011-01-24 06:53:56 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:53:56 --> Session routines successfully run
+DEBUG - 2011-01-24 06:53:56 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:53:56 --> Final output sent to browser
+DEBUG - 2011-01-24 06:53:56 --> Total execution time: 0.0480
+DEBUG - 2011-01-24 06:53:57 --> Config Class Initialized
+DEBUG - 2011-01-24 06:53:57 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:53:57 --> Config Class Initialized
+DEBUG - 2011-01-24 06:53:57 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:53:57 --> URI Class Initialized
+DEBUG - 2011-01-24 06:53:57 --> URI Class Initialized
+DEBUG - 2011-01-24 06:53:57 --> Router Class Initialized
+DEBUG - 2011-01-24 06:53:57 --> Router Class Initialized
+DEBUG - 2011-01-24 06:53:57 --> Output Class Initialized
+DEBUG - 2011-01-24 06:53:57 --> Output Class Initialized
+DEBUG - 2011-01-24 06:53:57 --> Input Class Initialized
+DEBUG - 2011-01-24 06:53:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:53:57 --> Input Class Initialized
+DEBUG - 2011-01-24 06:53:57 --> Language Class Initialized
+DEBUG - 2011-01-24 06:53:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:53:57 --> Language Class Initialized
+DEBUG - 2011-01-24 06:53:57 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:53:57 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:53:57 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:53:57 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:53:57 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:53:57 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:53:57 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:53:57 --> Session Class Initialized
+DEBUG - 2011-01-24 06:53:57 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:53:57 --> Session routines successfully run
+DEBUG - 2011-01-24 06:53:57 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:53:57 --> Final output sent to browser
+DEBUG - 2011-01-24 06:53:57 --> Total execution time: 0.0302
+DEBUG - 2011-01-24 06:53:57 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:53:57 --> Session Class Initialized
+DEBUG - 2011-01-24 06:53:57 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:53:57 --> Session routines successfully run
+DEBUG - 2011-01-24 06:53:57 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:53:57 --> Final output sent to browser
+DEBUG - 2011-01-24 06:53:57 --> Total execution time: 0.0354
+DEBUG - 2011-01-24 06:54:01 --> Config Class Initialized
+DEBUG - 2011-01-24 06:54:01 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:54:01 --> URI Class Initialized
+DEBUG - 2011-01-24 06:54:01 --> Router Class Initialized
+DEBUG - 2011-01-24 06:54:01 --> Output Class Initialized
+DEBUG - 2011-01-24 06:54:01 --> Input Class Initialized
+DEBUG - 2011-01-24 06:54:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:54:01 --> Language Class Initialized
+DEBUG - 2011-01-24 06:54:01 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:54:01 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:54:01 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:54:01 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:54:01 --> Session Class Initialized
+DEBUG - 2011-01-24 06:54:01 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:54:01 --> Session routines successfully run
+DEBUG - 2011-01-24 06:54:01 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:54:01 --> Final output sent to browser
+DEBUG - 2011-01-24 06:54:01 --> Total execution time: 0.0278
+DEBUG - 2011-01-24 06:54:03 --> Config Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> URI Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Router Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Output Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Input Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:54:03 --> Config Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Language Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> URI Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Router Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:54:03 --> Output Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Input Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:54:03 --> Language Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:54:03 --> Config Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> URI Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Router Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Output Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Input Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:54:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:54:03 --> Language Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:54:03 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:54:03 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:54:03 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Session Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:54:03 --> Session routines successfully run
+DEBUG - 2011-01-24 06:54:03 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Final output sent to browser
+DEBUG - 2011-01-24 06:54:03 --> Total execution time: 0.0596
+DEBUG - 2011-01-24 06:54:03 --> Session Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:54:03 --> Session routines successfully run
+DEBUG - 2011-01-24 06:54:03 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Final output sent to browser
+DEBUG - 2011-01-24 06:54:03 --> Total execution time: 0.0622
+DEBUG - 2011-01-24 06:54:03 --> Session Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:54:03 --> Session routines successfully run
+DEBUG - 2011-01-24 06:54:03 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:54:03 --> Final output sent to browser
+DEBUG - 2011-01-24 06:54:03 --> Total execution time: 0.0545
+DEBUG - 2011-01-24 06:54:07 --> Config Class Initialized
+DEBUG - 2011-01-24 06:54:07 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:54:07 --> URI Class Initialized
+DEBUG - 2011-01-24 06:54:07 --> Router Class Initialized
+DEBUG - 2011-01-24 06:54:07 --> Output Class Initialized
+DEBUG - 2011-01-24 06:54:07 --> Input Class Initialized
+DEBUG - 2011-01-24 06:54:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:54:07 --> Language Class Initialized
+DEBUG - 2011-01-24 06:54:07 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:54:08 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:54:08 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Session Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:54:08 --> Session routines successfully run
+DEBUG - 2011-01-24 06:54:08 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Final output sent to browser
+DEBUG - 2011-01-24 06:54:08 --> Total execution time: 0.0316
+DEBUG - 2011-01-24 06:54:08 --> Config Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> URI Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Router Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Output Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Config Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Input Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:54:08 --> URI Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Language Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Router Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Output Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Input Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:54:08 --> Language Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:54:08 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:54:08 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:54:08 --> Config Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> URI Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:54:08 --> Session Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:54:08 --> Session routines successfully run
+DEBUG - 2011-01-24 06:54:08 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Router Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Final output sent to browser
+DEBUG - 2011-01-24 06:54:08 --> Total execution time: 0.0370
+DEBUG - 2011-01-24 06:54:08 --> Session Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Output Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:54:08 --> Session routines successfully run
+DEBUG - 2011-01-24 06:54:08 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Input Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:54:08 --> Language Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Final output sent to browser
+DEBUG - 2011-01-24 06:54:08 --> Total execution time: 0.0392
+DEBUG - 2011-01-24 06:54:08 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:54:08 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:54:08 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Session Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:54:08 --> Session routines successfully run
+DEBUG - 2011-01-24 06:54:08 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:54:08 --> Final output sent to browser
+DEBUG - 2011-01-24 06:54:08 --> Total execution time: 0.0391
+DEBUG - 2011-01-24 06:54:10 --> Config Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> URI Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Router Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Output Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Input Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:54:10 --> Language Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:54:10 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:54:10 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Session Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:54:10 --> Session routines successfully run
+DEBUG - 2011-01-24 06:54:10 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Final output sent to browser
+DEBUG - 2011-01-24 06:54:10 --> Total execution time: 0.0290
+DEBUG - 2011-01-24 06:54:10 --> Config Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> URI Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Router Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Config Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Output Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Input Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:54:10 --> Language Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> URI Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Router Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Output Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:54:10 --> Config Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> URI Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Input Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:54:10 --> Router Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Language Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Output Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:54:10 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Input Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:54:10 --> Language Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:54:10 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:54:10 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:54:10 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:54:10 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Session Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:54:10 --> Session routines successfully run
+DEBUG - 2011-01-24 06:54:10 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Session Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:54:10 --> Session routines successfully run
+DEBUG - 2011-01-24 06:54:10 --> Session Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:54:10 --> Session routines successfully run
+DEBUG - 2011-01-24 06:54:10 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:54:10 --> Final output sent to browser
+DEBUG - 2011-01-24 06:54:10 --> Total execution time: 0.0517
+DEBUG - 2011-01-24 06:54:10 --> Final output sent to browser
+DEBUG - 2011-01-24 06:54:10 --> Total execution time: 0.0493
+DEBUG - 2011-01-24 06:54:10 --> Final output sent to browser
+DEBUG - 2011-01-24 06:54:10 --> Total execution time: 0.0423
+DEBUG - 2011-01-24 06:54:14 --> Config Class Initialized
+DEBUG - 2011-01-24 06:54:14 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:54:14 --> URI Class Initialized
+DEBUG - 2011-01-24 06:54:14 --> Router Class Initialized
+DEBUG - 2011-01-24 06:54:14 --> Output Class Initialized
+DEBUG - 2011-01-24 06:54:14 --> Input Class Initialized
+DEBUG - 2011-01-24 06:54:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:54:14 --> Language Class Initialized
+DEBUG - 2011-01-24 06:54:14 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:54:14 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:54:14 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:54:14 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:54:14 --> Session Class Initialized
+DEBUG - 2011-01-24 06:54:14 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:54:14 --> Session routines successfully run
+DEBUG - 2011-01-24 06:54:14 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:54:14 --> Final output sent to browser
+DEBUG - 2011-01-24 06:54:14 --> Total execution time: 0.0263
+DEBUG - 2011-01-24 06:54:15 --> Config Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> URI Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Router Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Output Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Input Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:54:15 --> Language Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:54:15 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:54:15 --> Config Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> URI Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Router Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Output Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Input Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:54:15 --> Language Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Config Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> URI Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Router Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Output Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Session Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:54:15 --> Session routines successfully run
+DEBUG - 2011-01-24 06:54:15 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Input Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:54:15 --> Language Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Final output sent to browser
+DEBUG - 2011-01-24 06:54:15 --> Total execution time: 0.0447
+DEBUG - 2011-01-24 06:54:15 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:54:15 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:54:15 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:54:15 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:54:15 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Session Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:54:15 --> Session routines successfully run
+DEBUG - 2011-01-24 06:54:15 --> Session Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:54:15 --> Session routines successfully run
+DEBUG - 2011-01-24 06:54:15 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:54:15 --> Final output sent to browser
+DEBUG - 2011-01-24 06:54:15 --> Total execution time: 0.0560
+DEBUG - 2011-01-24 06:54:15 --> Final output sent to browser
+DEBUG - 2011-01-24 06:54:15 --> Total execution time: 0.0478
+DEBUG - 2011-01-24 06:54:57 --> Config Class Initialized
+DEBUG - 2011-01-24 06:54:57 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:54:57 --> URI Class Initialized
+DEBUG - 2011-01-24 06:54:57 --> Router Class Initialized
+DEBUG - 2011-01-24 06:54:57 --> Output Class Initialized
+DEBUG - 2011-01-24 06:54:57 --> Input Class Initialized
+DEBUG - 2011-01-24 06:54:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:54:57 --> Language Class Initialized
+DEBUG - 2011-01-24 06:54:57 --> Config Class Initialized
+DEBUG - 2011-01-24 06:54:57 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:54:57 --> URI Class Initialized
+DEBUG - 2011-01-24 06:54:57 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:54:57 --> Router Class Initialized
+DEBUG - 2011-01-24 06:54:57 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:54:57 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:54:57 --> Output Class Initialized
+DEBUG - 2011-01-24 06:54:57 --> Input Class Initialized
+DEBUG - 2011-01-24 06:54:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:54:57 --> Language Class Initialized
+DEBUG - 2011-01-24 06:54:57 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:54:57 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:54:57 --> Session Class Initialized
+DEBUG - 2011-01-24 06:54:57 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:54:57 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:54:57 --> Session routines successfully run
+DEBUG - 2011-01-24 06:54:57 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:54:57 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:54:57 --> Final output sent to browser
+DEBUG - 2011-01-24 06:54:57 --> Total execution time: 0.0336
+DEBUG - 2011-01-24 06:54:57 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:54:57 --> Session Class Initialized
+DEBUG - 2011-01-24 06:54:57 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:54:57 --> Session routines successfully run
+DEBUG - 2011-01-24 06:54:57 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:54:57 --> Final output sent to browser
+DEBUG - 2011-01-24 06:54:57 --> Total execution time: 0.0430
+DEBUG - 2011-01-24 06:55:54 --> Config Class Initialized
+DEBUG - 2011-01-24 06:55:54 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:55:54 --> URI Class Initialized
+DEBUG - 2011-01-24 06:55:54 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 06:55:54 --> Router Class Initialized
+DEBUG - 2011-01-24 06:55:54 --> Output Class Initialized
+DEBUG - 2011-01-24 06:55:54 --> Input Class Initialized
+DEBUG - 2011-01-24 06:55:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:55:54 --> Language Class Initialized
+DEBUG - 2011-01-24 06:55:54 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:55:54 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:55:54 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:55:54 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:55:54 --> Session Class Initialized
+DEBUG - 2011-01-24 06:55:54 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:55:54 --> Session routines successfully run
+DEBUG - 2011-01-24 06:55:54 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:55:54 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 06:55:54 --> Final output sent to browser
+DEBUG - 2011-01-24 06:55:54 --> Total execution time: 0.0274
+DEBUG - 2011-01-24 06:55:55 --> Config Class Initialized
+DEBUG - 2011-01-24 06:55:55 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:55:55 --> URI Class Initialized
+ERROR - 2011-01-24 06:55:55 --> 404 Page Not Found --> public
+DEBUG - 2011-01-24 06:55:58 --> Config Class Initialized
+DEBUG - 2011-01-24 06:55:58 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:55:58 --> URI Class Initialized
+ERROR - 2011-01-24 06:55:58 --> 404 Page Not Found --> public
+DEBUG - 2011-01-24 06:56:04 --> Config Class Initialized
+DEBUG - 2011-01-24 06:56:04 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:56:04 --> URI Class Initialized
+DEBUG - 2011-01-24 06:56:04 --> Router Class Initialized
+DEBUG - 2011-01-24 06:56:04 --> Output Class Initialized
+DEBUG - 2011-01-24 06:56:04 --> Input Class Initialized
+DEBUG - 2011-01-24 06:56:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:56:04 --> Language Class Initialized
+DEBUG - 2011-01-24 06:56:04 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:56:04 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:56:04 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:56:04 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:56:04 --> Session Class Initialized
+DEBUG - 2011-01-24 06:56:04 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:56:04 --> Session routines successfully run
+DEBUG - 2011-01-24 06:56:04 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:56:04 --> Final output sent to browser
+DEBUG - 2011-01-24 06:56:04 --> Total execution time: 0.0284
+DEBUG - 2011-01-24 06:56:04 --> Config Class Initialized
+DEBUG - 2011-01-24 06:56:04 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:56:04 --> URI Class Initialized
+DEBUG - 2011-01-24 06:56:04 --> Router Class Initialized
+DEBUG - 2011-01-24 06:56:04 --> Output Class Initialized
+DEBUG - 2011-01-24 06:56:04 --> Input Class Initialized
+DEBUG - 2011-01-24 06:56:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:56:04 --> Language Class Initialized
+DEBUG - 2011-01-24 06:56:04 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:56:04 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:56:04 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:56:04 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:56:04 --> Session Class Initialized
+DEBUG - 2011-01-24 06:56:04 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:56:04 --> Session routines successfully run
+DEBUG - 2011-01-24 06:56:04 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:56:04 --> Final output sent to browser
+DEBUG - 2011-01-24 06:56:04 --> Total execution time: 0.0326
+DEBUG - 2011-01-24 06:56:05 --> Config Class Initialized
+DEBUG - 2011-01-24 06:56:05 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:56:05 --> URI Class Initialized
+DEBUG - 2011-01-24 06:56:05 --> Router Class Initialized
+DEBUG - 2011-01-24 06:56:05 --> Config Class Initialized
+DEBUG - 2011-01-24 06:56:05 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:56:05 --> Output Class Initialized
+DEBUG - 2011-01-24 06:56:05 --> URI Class Initialized
+DEBUG - 2011-01-24 06:56:05 --> Input Class Initialized
+DEBUG - 2011-01-24 06:56:05 --> Router Class Initialized
+DEBUG - 2011-01-24 06:56:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:56:05 --> Language Class Initialized
+DEBUG - 2011-01-24 06:56:05 --> Output Class Initialized
+DEBUG - 2011-01-24 06:56:05 --> Input Class Initialized
+DEBUG - 2011-01-24 06:56:05 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:56:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:56:05 --> Language Class Initialized
+DEBUG - 2011-01-24 06:56:05 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:56:05 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:56:05 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:56:05 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:56:05 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:56:05 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:56:05 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:56:05 --> Session Class Initialized
+DEBUG - 2011-01-24 06:56:05 --> Session Class Initialized
+DEBUG - 2011-01-24 06:56:05 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:56:05 --> Session routines successfully run
+DEBUG - 2011-01-24 06:56:05 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:56:05 --> Session routines successfully run
+DEBUG - 2011-01-24 06:56:05 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:56:05 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:56:05 --> Final output sent to browser
+DEBUG - 2011-01-24 06:56:05 --> Total execution time: 0.0346
+DEBUG - 2011-01-24 06:56:05 --> Final output sent to browser
+DEBUG - 2011-01-24 06:56:05 --> Total execution time: 0.0304
+DEBUG - 2011-01-24 06:56:09 --> Config Class Initialized
+DEBUG - 2011-01-24 06:56:09 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:56:09 --> URI Class Initialized
+DEBUG - 2011-01-24 06:56:09 --> Router Class Initialized
+DEBUG - 2011-01-24 06:56:09 --> Output Class Initialized
+DEBUG - 2011-01-24 06:56:09 --> Input Class Initialized
+DEBUG - 2011-01-24 06:56:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:56:09 --> Language Class Initialized
+DEBUG - 2011-01-24 06:56:09 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:56:09 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:56:09 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:56:09 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:56:09 --> Session Class Initialized
+DEBUG - 2011-01-24 06:56:09 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:56:09 --> Session routines successfully run
+DEBUG - 2011-01-24 06:56:09 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:56:09 --> Final output sent to browser
+DEBUG - 2011-01-24 06:56:09 --> Total execution time: 0.5415
+DEBUG - 2011-01-24 06:56:11 --> Config Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> URI Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Config Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Router Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> URI Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Output Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Router Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Output Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Input Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:56:11 --> Language Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Input Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:56:11 --> Language Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:56:11 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:56:11 --> Config Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:56:11 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:56:11 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> URI Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Router Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Output Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Input Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:56:11 --> Language Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Session Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:56:11 --> Session routines successfully run
+DEBUG - 2011-01-24 06:56:11 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Session Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:56:11 --> Session routines successfully run
+DEBUG - 2011-01-24 06:56:11 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:56:11 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:56:11 --> Final output sent to browser
+DEBUG - 2011-01-24 06:56:11 --> Total execution time: 0.0420
+DEBUG - 2011-01-24 06:56:11 --> Final output sent to browser
+DEBUG - 2011-01-24 06:56:11 --> Total execution time: 0.0485
+DEBUG - 2011-01-24 06:56:11 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Session Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:56:11 --> Session routines successfully run
+DEBUG - 2011-01-24 06:56:11 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:56:11 --> Final output sent to browser
+DEBUG - 2011-01-24 06:56:11 --> Total execution time: 0.0420
+DEBUG - 2011-01-24 06:56:25 --> Config Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> URI Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Router Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Output Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Input Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:56:25 --> Language Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:56:25 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:56:25 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Session Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:56:25 --> Session routines successfully run
+DEBUG - 2011-01-24 06:56:25 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Final output sent to browser
+DEBUG - 2011-01-24 06:56:25 --> Total execution time: 0.0293
+DEBUG - 2011-01-24 06:56:25 --> Config Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> URI Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Router Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Output Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Input Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:56:25 --> Language Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:56:25 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:56:25 --> Config Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> URI Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Router Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Output Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Input Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:56:25 --> Language Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Session Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:56:25 --> Session routines successfully run
+DEBUG - 2011-01-24 06:56:25 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:56:25 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:56:25 --> Config Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> URI Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Final output sent to browser
+DEBUG - 2011-01-24 06:56:25 --> Total execution time: 0.0320
+DEBUG - 2011-01-24 06:56:25 --> Router Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Output Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Input Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:56:25 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Language Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Session Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:56:25 --> Session routines successfully run
+DEBUG - 2011-01-24 06:56:25 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:56:25 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:56:25 --> Final output sent to browser
+DEBUG - 2011-01-24 06:56:25 --> Total execution time: 0.0477
+DEBUG - 2011-01-24 06:56:25 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Session Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:56:25 --> Session routines successfully run
+DEBUG - 2011-01-24 06:56:25 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:56:25 --> Final output sent to browser
+DEBUG - 2011-01-24 06:56:25 --> Total execution time: 0.0424
+DEBUG - 2011-01-24 06:57:05 --> Config Class Initialized
+DEBUG - 2011-01-24 06:57:05 --> Config Class Initialized
+DEBUG - 2011-01-24 06:57:05 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:57:05 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:57:05 --> URI Class Initialized
+DEBUG - 2011-01-24 06:57:05 --> URI Class Initialized
+DEBUG - 2011-01-24 06:57:05 --> Router Class Initialized
+DEBUG - 2011-01-24 06:57:05 --> Router Class Initialized
+DEBUG - 2011-01-24 06:57:05 --> Output Class Initialized
+DEBUG - 2011-01-24 06:57:05 --> Output Class Initialized
+DEBUG - 2011-01-24 06:57:05 --> Input Class Initialized
+DEBUG - 2011-01-24 06:57:05 --> Input Class Initialized
+DEBUG - 2011-01-24 06:57:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:57:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:57:05 --> Language Class Initialized
+DEBUG - 2011-01-24 06:57:05 --> Language Class Initialized
+DEBUG - 2011-01-24 06:57:05 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:57:05 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:57:05 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:57:05 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:57:05 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:57:05 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:57:05 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:57:05 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:57:05 --> Session Class Initialized
+DEBUG - 2011-01-24 06:57:05 --> Session Class Initialized
+DEBUG - 2011-01-24 06:57:05 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:57:05 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:57:05 --> Session routines successfully run
+DEBUG - 2011-01-24 06:57:05 --> Session routines successfully run
+DEBUG - 2011-01-24 06:57:05 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:57:05 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:57:05 --> Final output sent to browser
+DEBUG - 2011-01-24 06:57:05 --> Final output sent to browser
+DEBUG - 2011-01-24 06:57:05 --> Total execution time: 0.0532
+DEBUG - 2011-01-24 06:57:05 --> Total execution time: 0.0533
+DEBUG - 2011-01-24 06:58:05 --> Config Class Initialized
+DEBUG - 2011-01-24 06:58:05 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:58:05 --> Config Class Initialized
+DEBUG - 2011-01-24 06:58:05 --> Hooks Class Initialized
+DEBUG - 2011-01-24 06:58:05 --> URI Class Initialized
+DEBUG - 2011-01-24 06:58:05 --> URI Class Initialized
+DEBUG - 2011-01-24 06:58:05 --> Router Class Initialized
+DEBUG - 2011-01-24 06:58:05 --> Router Class Initialized
+DEBUG - 2011-01-24 06:58:05 --> Output Class Initialized
+DEBUG - 2011-01-24 06:58:05 --> Output Class Initialized
+DEBUG - 2011-01-24 06:58:05 --> Input Class Initialized
+DEBUG - 2011-01-24 06:58:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:58:05 --> Language Class Initialized
+DEBUG - 2011-01-24 06:58:05 --> Input Class Initialized
+DEBUG - 2011-01-24 06:58:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 06:58:05 --> Language Class Initialized
+DEBUG - 2011-01-24 06:58:05 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:58:05 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:58:05 --> Loader Class Initialized
+DEBUG - 2011-01-24 06:58:05 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:58:05 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 06:58:05 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 06:58:05 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:58:05 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 06:58:05 --> Session Class Initialized
+DEBUG - 2011-01-24 06:58:05 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:58:05 --> Session routines successfully run
+DEBUG - 2011-01-24 06:58:05 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:58:05 --> Final output sent to browser
+DEBUG - 2011-01-24 06:58:05 --> Total execution time: 0.0358
+DEBUG - 2011-01-24 06:58:05 --> Session Class Initialized
+DEBUG - 2011-01-24 06:58:05 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 06:58:05 --> Session routines successfully run
+DEBUG - 2011-01-24 06:58:05 --> Controller Class Initialized
+DEBUG - 2011-01-24 06:58:05 --> Final output sent to browser
+DEBUG - 2011-01-24 06:58:05 --> Total execution time: 0.0453
+DEBUG - 2011-01-24 11:57:37 --> Config Class Initialized
+DEBUG - 2011-01-24 11:57:37 --> Hooks Class Initialized
+DEBUG - 2011-01-24 11:57:37 --> URI Class Initialized
+DEBUG - 2011-01-24 11:57:37 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 11:57:37 --> Router Class Initialized
+DEBUG - 2011-01-24 11:57:37 --> Output Class Initialized
+DEBUG - 2011-01-24 11:57:37 --> Input Class Initialized
+DEBUG - 2011-01-24 11:57:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 11:57:37 --> Language Class Initialized
+DEBUG - 2011-01-24 11:57:37 --> Loader Class Initialized
+DEBUG - 2011-01-24 11:57:37 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 11:57:37 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 11:57:37 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 11:57:37 --> Session Class Initialized
+DEBUG - 2011-01-24 11:57:37 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 11:57:37 --> A session cookie was not found.
+DEBUG - 2011-01-24 11:57:37 --> Session routines successfully run
+DEBUG - 2011-01-24 11:57:37 --> Controller Class Initialized
+DEBUG - 2011-01-24 11:57:37 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 11:57:37 --> Final output sent to browser
+DEBUG - 2011-01-24 11:57:37 --> Total execution time: 0.2725
+DEBUG - 2011-01-24 11:57:37 --> Config Class Initialized
+DEBUG - 2011-01-24 11:57:37 --> Hooks Class Initialized
+DEBUG - 2011-01-24 11:57:37 --> URI Class Initialized
+ERROR - 2011-01-24 11:57:37 --> 404 Page Not Found --> public
+DEBUG - 2011-01-24 11:57:41 --> Config Class Initialized
+DEBUG - 2011-01-24 11:57:41 --> Hooks Class Initialized
+DEBUG - 2011-01-24 11:57:41 --> URI Class Initialized
+ERROR - 2011-01-24 11:57:41 --> 404 Page Not Found --> public
+DEBUG - 2011-01-24 11:57:58 --> Config Class Initialized
+DEBUG - 2011-01-24 11:57:58 --> Hooks Class Initialized
+DEBUG - 2011-01-24 11:57:58 --> URI Class Initialized
+DEBUG - 2011-01-24 11:57:58 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 11:57:58 --> Router Class Initialized
+DEBUG - 2011-01-24 11:57:58 --> Output Class Initialized
+DEBUG - 2011-01-24 11:57:58 --> Input Class Initialized
+DEBUG - 2011-01-24 11:57:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 11:57:58 --> Language Class Initialized
+DEBUG - 2011-01-24 11:57:58 --> Loader Class Initialized
+DEBUG - 2011-01-24 11:57:58 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 11:57:58 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 11:57:58 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 11:57:58 --> Session Class Initialized
+DEBUG - 2011-01-24 11:57:58 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 11:57:58 --> Session routines successfully run
+DEBUG - 2011-01-24 11:57:58 --> Controller Class Initialized
+DEBUG - 2011-01-24 11:57:58 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 11:57:58 --> Final output sent to browser
+DEBUG - 2011-01-24 11:57:58 --> Total execution time: 0.0502
+DEBUG - 2011-01-24 11:57:59 --> Config Class Initialized
+DEBUG - 2011-01-24 11:57:59 --> Hooks Class Initialized
+DEBUG - 2011-01-24 11:57:59 --> URI Class Initialized
+ERROR - 2011-01-24 11:57:59 --> 404 Page Not Found --> public
+DEBUG - 2011-01-24 11:58:02 --> Config Class Initialized
+DEBUG - 2011-01-24 11:58:02 --> Hooks Class Initialized
+DEBUG - 2011-01-24 11:58:02 --> URI Class Initialized
+ERROR - 2011-01-24 11:58:02 --> 404 Page Not Found --> public
+DEBUG - 2011-01-24 11:58:07 --> Config Class Initialized
+DEBUG - 2011-01-24 11:58:07 --> Hooks Class Initialized
+DEBUG - 2011-01-24 11:58:07 --> URI Class Initialized
+DEBUG - 2011-01-24 11:58:07 --> Router Class Initialized
+DEBUG - 2011-01-24 11:58:07 --> Output Class Initialized
+DEBUG - 2011-01-24 11:58:07 --> Input Class Initialized
+DEBUG - 2011-01-24 11:58:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 11:58:07 --> Language Class Initialized
+DEBUG - 2011-01-24 11:58:07 --> Loader Class Initialized
+DEBUG - 2011-01-24 11:58:07 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 11:58:07 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 11:58:07 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 11:58:07 --> Session Class Initialized
+DEBUG - 2011-01-24 11:58:07 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 11:58:07 --> Session routines successfully run
+DEBUG - 2011-01-24 11:58:07 --> Controller Class Initialized
+DEBUG - 2011-01-24 11:58:07 --> Final output sent to browser
+DEBUG - 2011-01-24 11:58:07 --> Total execution time: 0.1298
+DEBUG - 2011-01-24 11:58:08 --> Config Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Hooks Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> URI Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Router Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Output Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Input Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 11:58:08 --> Language Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Loader Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 11:58:08 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 11:58:08 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Session Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 11:58:08 --> Session routines successfully run
+DEBUG - 2011-01-24 11:58:08 --> Controller Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Final output sent to browser
+DEBUG - 2011-01-24 11:58:08 --> Total execution time: 0.0696
+DEBUG - 2011-01-24 11:58:08 --> Config Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Hooks Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> URI Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Router Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Output Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Config Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Hooks Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> URI Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Router Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Output Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Input Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 11:58:08 --> Language Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Loader Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 11:58:08 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 11:58:08 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Input Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 11:58:08 --> Language Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Loader Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 11:58:08 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 11:58:08 --> Session Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 11:58:08 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Session routines successfully run
+DEBUG - 2011-01-24 11:58:08 --> Controller Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Final output sent to browser
+DEBUG - 2011-01-24 11:58:08 --> Total execution time: 0.0741
+DEBUG - 2011-01-24 11:58:08 --> Session Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 11:58:08 --> Session routines successfully run
+DEBUG - 2011-01-24 11:58:08 --> Controller Class Initialized
+DEBUG - 2011-01-24 11:58:08 --> Final output sent to browser
+DEBUG - 2011-01-24 11:58:08 --> Total execution time: 0.0845
+DEBUG - 2011-01-24 11:59:08 --> Config Class Initialized
+DEBUG - 2011-01-24 11:59:08 --> Hooks Class Initialized
+DEBUG - 2011-01-24 11:59:08 --> URI Class Initialized
+DEBUG - 2011-01-24 11:59:08 --> Router Class Initialized
+DEBUG - 2011-01-24 11:59:08 --> Output Class Initialized
+DEBUG - 2011-01-24 11:59:08 --> Input Class Initialized
+DEBUG - 2011-01-24 11:59:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 11:59:08 --> Language Class Initialized
+DEBUG - 2011-01-24 11:59:08 --> Config Class Initialized
+DEBUG - 2011-01-24 11:59:08 --> Hooks Class Initialized
+DEBUG - 2011-01-24 11:59:08 --> URI Class Initialized
+DEBUG - 2011-01-24 11:59:08 --> Loader Class Initialized
+DEBUG - 2011-01-24 11:59:08 --> Router Class Initialized
+DEBUG - 2011-01-24 11:59:08 --> Output Class Initialized
+DEBUG - 2011-01-24 11:59:08 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 11:59:08 --> Input Class Initialized
+DEBUG - 2011-01-24 11:59:08 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 11:59:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 11:59:08 --> Language Class Initialized
+DEBUG - 2011-01-24 11:59:08 --> Loader Class Initialized
+DEBUG - 2011-01-24 11:59:08 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 11:59:08 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 11:59:08 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 11:59:08 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 11:59:08 --> Session Class Initialized
+DEBUG - 2011-01-24 11:59:08 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 11:59:08 --> Session routines successfully run
+DEBUG - 2011-01-24 11:59:08 --> Controller Class Initialized
+DEBUG - 2011-01-24 11:59:08 --> Final output sent to browser
+DEBUG - 2011-01-24 11:59:08 --> Session Class Initialized
+DEBUG - 2011-01-24 11:59:08 --> Total execution time: 0.0566
+DEBUG - 2011-01-24 11:59:08 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 11:59:08 --> Session routines successfully run
+DEBUG - 2011-01-24 11:59:08 --> Controller Class Initialized
+DEBUG - 2011-01-24 11:59:08 --> Final output sent to browser
+DEBUG - 2011-01-24 11:59:08 --> Total execution time: 0.0763
+DEBUG - 2011-01-24 12:00:08 --> Config Class Initialized
+DEBUG - 2011-01-24 12:00:08 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:00:08 --> URI Class Initialized
+DEBUG - 2011-01-24 12:00:08 --> Router Class Initialized
+DEBUG - 2011-01-24 12:00:08 --> Output Class Initialized
+DEBUG - 2011-01-24 12:00:08 --> Input Class Initialized
+DEBUG - 2011-01-24 12:00:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:00:08 --> Language Class Initialized
+DEBUG - 2011-01-24 12:00:08 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:00:08 --> Config Class Initialized
+DEBUG - 2011-01-24 12:00:08 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:00:08 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:00:08 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:00:08 --> URI Class Initialized
+DEBUG - 2011-01-24 12:00:08 --> Router Class Initialized
+DEBUG - 2011-01-24 12:00:08 --> Output Class Initialized
+DEBUG - 2011-01-24 12:00:08 --> Input Class Initialized
+DEBUG - 2011-01-24 12:00:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:00:08 --> Language Class Initialized
+DEBUG - 2011-01-24 12:00:08 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:00:08 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:00:08 --> Session Class Initialized
+DEBUG - 2011-01-24 12:00:08 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:00:08 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:00:08 --> Session routines successfully run
+DEBUG - 2011-01-24 12:00:08 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:00:08 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:00:08 --> Final output sent to browser
+DEBUG - 2011-01-24 12:00:08 --> Total execution time: 0.0338
+DEBUG - 2011-01-24 12:00:08 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:00:08 --> Session Class Initialized
+DEBUG - 2011-01-24 12:00:08 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:00:08 --> Session routines successfully run
+DEBUG - 2011-01-24 12:00:08 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:00:08 --> Final output sent to browser
+DEBUG - 2011-01-24 12:00:08 --> Total execution time: 0.0320
+DEBUG - 2011-01-24 12:00:10 --> Config Class Initialized
+DEBUG - 2011-01-24 12:00:10 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:00:10 --> URI Class Initialized
+DEBUG - 2011-01-24 12:00:10 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 12:00:10 --> Router Class Initialized
+DEBUG - 2011-01-24 12:00:10 --> Output Class Initialized
+DEBUG - 2011-01-24 12:00:10 --> Input Class Initialized
+DEBUG - 2011-01-24 12:00:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:00:10 --> Language Class Initialized
+DEBUG - 2011-01-24 12:00:10 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:00:10 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:00:10 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:00:10 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:00:10 --> Session Class Initialized
+DEBUG - 2011-01-24 12:00:10 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:00:10 --> Session routines successfully run
+DEBUG - 2011-01-24 12:00:10 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:00:10 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 12:00:10 --> Final output sent to browser
+DEBUG - 2011-01-24 12:00:10 --> Total execution time: 0.0284
+DEBUG - 2011-01-24 12:00:11 --> Config Class Initialized
+DEBUG - 2011-01-24 12:00:11 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:00:11 --> URI Class Initialized
+ERROR - 2011-01-24 12:00:11 --> 404 Page Not Found --> public
+DEBUG - 2011-01-24 12:00:14 --> Config Class Initialized
+DEBUG - 2011-01-24 12:00:14 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:00:14 --> URI Class Initialized
+ERROR - 2011-01-24 12:00:14 --> 404 Page Not Found --> public
+DEBUG - 2011-01-24 12:00:19 --> Config Class Initialized
+DEBUG - 2011-01-24 12:00:19 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:00:19 --> URI Class Initialized
+DEBUG - 2011-01-24 12:00:19 --> Router Class Initialized
+DEBUG - 2011-01-24 12:00:19 --> Output Class Initialized
+DEBUG - 2011-01-24 12:00:19 --> Input Class Initialized
+DEBUG - 2011-01-24 12:00:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:00:19 --> Language Class Initialized
+DEBUG - 2011-01-24 12:00:19 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:00:19 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:00:19 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:00:20 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Session Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:00:20 --> Session routines successfully run
+DEBUG - 2011-01-24 12:00:20 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Final output sent to browser
+DEBUG - 2011-01-24 12:00:20 --> Total execution time: 0.0617
+DEBUG - 2011-01-24 12:00:20 --> Config Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> URI Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Router Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Output Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Input Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:00:20 --> Language Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:00:20 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:00:20 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Session Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:00:20 --> Session routines successfully run
+DEBUG - 2011-01-24 12:00:20 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Final output sent to browser
+DEBUG - 2011-01-24 12:00:20 --> Total execution time: 0.0392
+DEBUG - 2011-01-24 12:00:20 --> Config Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> URI Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Router Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Output Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Input Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:00:20 --> Language Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:00:20 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:00:20 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Session Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:00:20 --> Session routines successfully run
+DEBUG - 2011-01-24 12:00:20 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Final output sent to browser
+DEBUG - 2011-01-24 12:00:20 --> Total execution time: 0.0360
+DEBUG - 2011-01-24 12:00:20 --> Config Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> URI Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Router Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Output Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Input Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:00:20 --> Language Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:00:20 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:00:20 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Session Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:00:20 --> Session routines successfully run
+DEBUG - 2011-01-24 12:00:20 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:00:20 --> Final output sent to browser
+DEBUG - 2011-01-24 12:00:20 --> Total execution time: 0.0315
+DEBUG - 2011-01-24 12:01:20 --> Config Class Initialized
+DEBUG - 2011-01-24 12:01:20 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:01:20 --> URI Class Initialized
+DEBUG - 2011-01-24 12:01:20 --> Router Class Initialized
+DEBUG - 2011-01-24 12:01:20 --> Output Class Initialized
+DEBUG - 2011-01-24 12:01:20 --> Input Class Initialized
+DEBUG - 2011-01-24 12:01:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:01:20 --> Language Class Initialized
+DEBUG - 2011-01-24 12:01:20 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:01:20 --> Config Class Initialized
+DEBUG - 2011-01-24 12:01:20 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:01:20 --> URI Class Initialized
+DEBUG - 2011-01-24 12:01:20 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:01:20 --> Router Class Initialized
+DEBUG - 2011-01-24 12:01:20 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:01:20 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:01:20 --> Output Class Initialized
+DEBUG - 2011-01-24 12:01:20 --> Input Class Initialized
+DEBUG - 2011-01-24 12:01:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:01:20 --> Language Class Initialized
+DEBUG - 2011-01-24 12:01:20 --> Session Class Initialized
+DEBUG - 2011-01-24 12:01:20 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:01:20 --> Session routines successfully run
+DEBUG - 2011-01-24 12:01:20 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:01:20 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:01:20 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:01:20 --> Final output sent to browser
+DEBUG - 2011-01-24 12:01:20 --> Total execution time: 0.0531
+DEBUG - 2011-01-24 12:01:20 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:01:20 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:01:20 --> Session Class Initialized
+DEBUG - 2011-01-24 12:01:20 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:01:20 --> Session routines successfully run
+DEBUG - 2011-01-24 12:01:20 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:01:20 --> Final output sent to browser
+DEBUG - 2011-01-24 12:01:20 --> Total execution time: 0.0505
+DEBUG - 2011-01-24 12:02:03 --> Config Class Initialized
+DEBUG - 2011-01-24 12:02:03 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:02:03 --> URI Class Initialized
+DEBUG - 2011-01-24 12:02:03 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 12:02:03 --> Router Class Initialized
+DEBUG - 2011-01-24 12:02:03 --> Output Class Initialized
+DEBUG - 2011-01-24 12:02:03 --> Input Class Initialized
+DEBUG - 2011-01-24 12:02:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:02:03 --> Language Class Initialized
+DEBUG - 2011-01-24 12:02:03 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:02:03 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:02:03 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:02:03 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:02:03 --> Session Class Initialized
+DEBUG - 2011-01-24 12:02:03 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:02:03 --> Session routines successfully run
+DEBUG - 2011-01-24 12:02:03 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:02:03 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 12:02:03 --> Final output sent to browser
+DEBUG - 2011-01-24 12:02:03 --> Total execution time: 0.0272
+DEBUG - 2011-01-24 12:02:04 --> Config Class Initialized
+DEBUG - 2011-01-24 12:02:04 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:02:04 --> URI Class Initialized
+ERROR - 2011-01-24 12:02:04 --> 404 Page Not Found --> public
+DEBUG - 2011-01-24 12:02:07 --> Config Class Initialized
+DEBUG - 2011-01-24 12:02:07 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:02:07 --> URI Class Initialized
+ERROR - 2011-01-24 12:02:07 --> 404 Page Not Found --> public
+DEBUG - 2011-01-24 12:04:40 --> Config Class Initialized
+DEBUG - 2011-01-24 12:04:40 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:04:40 --> URI Class Initialized
+DEBUG - 2011-01-24 12:04:40 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 12:04:40 --> Router Class Initialized
+DEBUG - 2011-01-24 12:04:40 --> Output Class Initialized
+DEBUG - 2011-01-24 12:04:40 --> Input Class Initialized
+DEBUG - 2011-01-24 12:04:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:04:40 --> Language Class Initialized
+DEBUG - 2011-01-24 12:04:40 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:04:40 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:04:40 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:04:40 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:04:40 --> Session Class Initialized
+DEBUG - 2011-01-24 12:04:40 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:04:40 --> Session routines successfully run
+DEBUG - 2011-01-24 12:04:40 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:04:40 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 12:04:40 --> Final output sent to browser
+DEBUG - 2011-01-24 12:04:40 --> Total execution time: 0.0286
+DEBUG - 2011-01-24 12:04:40 --> Config Class Initialized
+DEBUG - 2011-01-24 12:04:40 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:04:40 --> URI Class Initialized
+ERROR - 2011-01-24 12:04:40 --> 404 Page Not Found --> public
+DEBUG - 2011-01-24 12:04:44 --> Config Class Initialized
+DEBUG - 2011-01-24 12:04:44 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:04:44 --> URI Class Initialized
+ERROR - 2011-01-24 12:04:44 --> 404 Page Not Found --> public
+DEBUG - 2011-01-24 12:04:49 --> Config Class Initialized
+DEBUG - 2011-01-24 12:04:49 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:04:49 --> URI Class Initialized
+DEBUG - 2011-01-24 12:04:49 --> Router Class Initialized
+DEBUG - 2011-01-24 12:04:49 --> Output Class Initialized
+DEBUG - 2011-01-24 12:04:49 --> Input Class Initialized
+DEBUG - 2011-01-24 12:04:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:04:49 --> Language Class Initialized
+DEBUG - 2011-01-24 12:04:49 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:04:49 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:04:49 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:04:49 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:04:49 --> Session Class Initialized
+DEBUG - 2011-01-24 12:04:49 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:04:49 --> Session routines successfully run
+DEBUG - 2011-01-24 12:04:49 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:04:49 --> Final output sent to browser
+DEBUG - 2011-01-24 12:04:49 --> Total execution time: 0.0513
+DEBUG - 2011-01-24 12:04:49 --> Config Class Initialized
+DEBUG - 2011-01-24 12:04:49 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:04:49 --> URI Class Initialized
+DEBUG - 2011-01-24 12:04:49 --> Router Class Initialized
+DEBUG - 2011-01-24 12:04:49 --> Output Class Initialized
+DEBUG - 2011-01-24 12:04:49 --> Input Class Initialized
+DEBUG - 2011-01-24 12:04:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:04:49 --> Language Class Initialized
+DEBUG - 2011-01-24 12:04:49 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:04:49 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:04:49 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:04:49 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:04:49 --> Session Class Initialized
+DEBUG - 2011-01-24 12:04:49 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:04:49 --> Session routines successfully run
+DEBUG - 2011-01-24 12:04:49 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:04:49 --> Final output sent to browser
+DEBUG - 2011-01-24 12:04:49 --> Total execution time: 0.0727
+DEBUG - 2011-01-24 12:04:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:04:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:04:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:04:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:04:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:04:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:04:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:04:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:04:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:04:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:04:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:04:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:04:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:04:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:04:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:04:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:04:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:04:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:04:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:04:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:04:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:04:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:04:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:04:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:04:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:04:50 --> Total execution time: 0.0663
+DEBUG - 2011-01-24 12:04:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:04:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:04:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:04:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:04:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:04:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:04:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:04:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:04:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:04:50 --> Total execution time: 0.1068
+DEBUG - 2011-01-24 12:05:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:05:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:05:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:05:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:05:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:05:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:05:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:05:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:05:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:05:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:05:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:05:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:05:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:05:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:05:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:05:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:05:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:05:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:05:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:05:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:05:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:05:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:05:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:05:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:05:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:05:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:05:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:05:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:05:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:05:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:05:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:05:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:05:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:05:50 --> Total execution time: 0.0478
+DEBUG - 2011-01-24 12:05:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:05:50 --> Total execution time: 0.0348
+DEBUG - 2011-01-24 12:06:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:06:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:06:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:06:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:06:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:06:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:06:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:06:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:06:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:06:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:06:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:06:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:06:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:06:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:06:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:06:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:06:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:06:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:06:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:06:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:06:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:06:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:06:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:06:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:06:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:06:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:06:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:06:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:06:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:06:50 --> Total execution time: 0.3511
+DEBUG - 2011-01-24 12:06:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:06:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:06:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:06:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:06:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:06:50 --> Total execution time: 0.3743
+DEBUG - 2011-01-24 12:07:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:07:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:07:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:07:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:07:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:07:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:07:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:07:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:07:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:07:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:07:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:07:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:07:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:07:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:07:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:07:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:07:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:07:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:07:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:07:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:07:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:07:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:07:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:07:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:07:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:07:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:07:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:07:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:07:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:07:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:07:50 --> Total execution time: 0.0417
+DEBUG - 2011-01-24 12:07:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:07:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:07:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:07:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:07:50 --> Total execution time: 0.0631
+DEBUG - 2011-01-24 12:08:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:08:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:08:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:08:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:08:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:08:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:08:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:08:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:08:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:08:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:08:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:08:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:08:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:08:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:08:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:08:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:08:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:08:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:08:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:08:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:08:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:08:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:08:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:08:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:08:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:08:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:08:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:08:50 --> Total execution time: 0.0463
+DEBUG - 2011-01-24 12:08:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:08:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:08:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:08:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:08:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:08:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:08:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:08:50 --> Total execution time: 0.0583
+DEBUG - 2011-01-24 12:09:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:09:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:09:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:09:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:09:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:09:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:09:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:09:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:09:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:09:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:09:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:09:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:09:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:09:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:09:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:09:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:09:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:09:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:09:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:09:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:09:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:09:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:09:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:09:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:09:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:09:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:09:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:09:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:09:50 --> Total execution time: 0.3472
+DEBUG - 2011-01-24 12:09:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:09:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:09:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:09:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:09:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:09:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:09:50 --> Total execution time: 0.3544
+DEBUG - 2011-01-24 12:10:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:10:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:10:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:10:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:10:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:10:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:10:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:10:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:10:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:10:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:10:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:10:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:10:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:10:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:10:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:10:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:10:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:10:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:10:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:10:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:10:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:10:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:10:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:10:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:10:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:10:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:10:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:10:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:10:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:10:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:10:50 --> Total execution time: 0.0461
+DEBUG - 2011-01-24 12:10:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:10:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:10:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:10:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:10:50 --> Total execution time: 0.0327
+DEBUG - 2011-01-24 12:11:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:11:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:11:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:11:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:11:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:11:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:11:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:11:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:11:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:11:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:11:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:11:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:11:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:11:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:11:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:11:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:11:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:11:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:11:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:11:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:11:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:11:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:11:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:11:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:11:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:11:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:11:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:11:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:11:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:11:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:11:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:11:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:11:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:11:50 --> Total execution time: 0.0349
+DEBUG - 2011-01-24 12:11:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:11:50 --> Total execution time: 0.0674
+DEBUG - 2011-01-24 12:12:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:12:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:12:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:12:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:12:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:12:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:12:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:12:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:12:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:12:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:12:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:12:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:12:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:12:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:12:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:12:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:12:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:12:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:12:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:12:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:12:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:12:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:12:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:12:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:12:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:12:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:12:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:12:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:12:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:12:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:12:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:12:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:12:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:12:50 --> Total execution time: 0.0874
+DEBUG - 2011-01-24 12:12:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:12:50 --> Total execution time: 0.0576
+DEBUG - 2011-01-24 12:13:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:13:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:13:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:13:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:13:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:13:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:13:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:13:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:13:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:13:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:13:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:13:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:13:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:13:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:13:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:13:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:13:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:13:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:13:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:13:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:13:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:13:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:13:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:13:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:13:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:13:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:13:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:13:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:13:50 --> Total execution time: 0.3381
+DEBUG - 2011-01-24 12:13:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:13:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:13:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:13:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:13:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:13:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:13:50 --> Total execution time: 0.3367
+DEBUG - 2011-01-24 12:14:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:14:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:14:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:14:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:14:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:14:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:14:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:14:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:14:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:14:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:14:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:14:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:14:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:14:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:14:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:14:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:14:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:14:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:14:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:14:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:14:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:14:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:14:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:14:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:14:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:14:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:14:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:14:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:14:50 --> Total execution time: 0.0382
+DEBUG - 2011-01-24 12:14:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:14:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:14:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:14:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:14:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:14:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:14:50 --> Total execution time: 0.0336
+DEBUG - 2011-01-24 12:15:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:15:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:15:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:15:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:15:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:15:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:15:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:15:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:15:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:15:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:15:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:15:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:15:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:15:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:15:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:15:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:15:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:15:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:15:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:15:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:15:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:15:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:15:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:15:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:15:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:15:50 --> Total execution time: 0.0379
+DEBUG - 2011-01-24 12:15:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:15:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:15:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:15:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:15:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:15:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:15:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:15:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:15:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:15:50 --> Total execution time: 0.0331
+DEBUG - 2011-01-24 12:16:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:16:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:16:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:16:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:16:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:16:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:16:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:16:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:16:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:16:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:16:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:16:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:16:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:16:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:16:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:16:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:16:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:16:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:16:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:16:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:16:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:16:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:16:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:16:50 --> Total execution time: 0.0344
+DEBUG - 2011-01-24 12:16:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:16:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:16:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:16:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:16:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:16:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:16:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:16:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:16:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:16:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:16:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:16:50 --> Total execution time: 0.0297
+DEBUG - 2011-01-24 12:17:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:17:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:17:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:17:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:17:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:17:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:17:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:17:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:17:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:17:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:17:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:17:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:17:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:17:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:17:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:17:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:17:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:17:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:17:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:17:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:17:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:17:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:17:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:17:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:17:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:17:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:17:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:17:50 --> Total execution time: 0.0397
+DEBUG - 2011-01-24 12:17:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:17:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:17:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:17:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:17:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:17:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:17:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:17:50 --> Total execution time: 0.0330
+DEBUG - 2011-01-24 12:18:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:18:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:18:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:18:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:18:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:18:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:18:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:18:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:18:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:18:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:18:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:18:50 --> Config Class Initialized
+DEBUG - 2011-01-24 12:18:50 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:18:50 --> URI Class Initialized
+DEBUG - 2011-01-24 12:18:50 --> Router Class Initialized
+DEBUG - 2011-01-24 12:18:50 --> Output Class Initialized
+DEBUG - 2011-01-24 12:18:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:18:50 --> Input Class Initialized
+DEBUG - 2011-01-24 12:18:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:18:50 --> Language Class Initialized
+DEBUG - 2011-01-24 12:18:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:18:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:18:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:18:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:18:50 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:18:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:18:50 --> Total execution time: 0.0319
+DEBUG - 2011-01-24 12:18:50 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:18:50 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:18:50 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:18:50 --> Session Class Initialized
+DEBUG - 2011-01-24 12:18:50 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:18:50 --> Session routines successfully run
+DEBUG - 2011-01-24 12:18:50 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:18:50 --> Final output sent to browser
+DEBUG - 2011-01-24 12:18:50 --> Total execution time: 0.0315
+DEBUG - 2011-01-24 12:19:13 --> Config Class Initialized
+DEBUG - 2011-01-24 12:19:13 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:19:13 --> URI Class Initialized
+DEBUG - 2011-01-24 12:19:13 --> No URI present. Default controller set.
+DEBUG - 2011-01-24 12:19:13 --> Router Class Initialized
+DEBUG - 2011-01-24 12:19:13 --> Output Class Initialized
+DEBUG - 2011-01-24 12:19:13 --> Input Class Initialized
+DEBUG - 2011-01-24 12:19:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:19:13 --> Language Class Initialized
+DEBUG - 2011-01-24 12:19:13 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:19:13 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:19:13 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:19:13 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:19:13 --> Session Class Initialized
+DEBUG - 2011-01-24 12:19:13 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:19:13 --> Session routines successfully run
+DEBUG - 2011-01-24 12:19:13 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:19:13 --> File loaded: /Users/mac/Sites/clt/system/application/views/layout/main.php
+DEBUG - 2011-01-24 12:19:13 --> Final output sent to browser
+DEBUG - 2011-01-24 12:19:13 --> Total execution time: 0.0509
+DEBUG - 2011-01-24 12:19:22 --> Config Class Initialized
+DEBUG - 2011-01-24 12:19:22 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:19:22 --> URI Class Initialized
+DEBUG - 2011-01-24 12:19:22 --> Router Class Initialized
+DEBUG - 2011-01-24 12:19:22 --> Output Class Initialized
+DEBUG - 2011-01-24 12:19:22 --> Input Class Initialized
+DEBUG - 2011-01-24 12:19:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:19:22 --> Language Class Initialized
+DEBUG - 2011-01-24 12:19:22 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:19:22 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:19:22 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:19:22 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:19:22 --> Session Class Initialized
+DEBUG - 2011-01-24 12:19:22 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:19:22 --> Session routines successfully run
+DEBUG - 2011-01-24 12:19:22 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:19:22 --> Final output sent to browser
+DEBUG - 2011-01-24 12:19:22 --> Total execution time: 0.0348
+DEBUG - 2011-01-24 12:19:23 --> Config Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> URI Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Router Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Output Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Input Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:19:23 --> Language Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:19:23 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:19:23 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Session Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:19:23 --> Session routines successfully run
+DEBUG - 2011-01-24 12:19:23 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Final output sent to browser
+DEBUG - 2011-01-24 12:19:23 --> Total execution time: 0.0547
+DEBUG - 2011-01-24 12:19:23 --> Config Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> URI Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Router Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Output Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Input Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:19:23 --> Language Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:19:23 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:19:23 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Session Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:19:23 --> Session routines successfully run
+DEBUG - 2011-01-24 12:19:23 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Final output sent to browser
+DEBUG - 2011-01-24 12:19:23 --> Total execution time: 0.0325
+DEBUG - 2011-01-24 12:19:23 --> Config Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> URI Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Router Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Output Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Input Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:19:23 --> Language Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:19:23 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:19:23 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Session Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:19:23 --> Session routines successfully run
+DEBUG - 2011-01-24 12:19:23 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:19:23 --> Final output sent to browser
+DEBUG - 2011-01-24 12:19:23 --> Total execution time: 0.0501
+DEBUG - 2011-01-24 12:19:26 --> Config Class Initialized
+DEBUG - 2011-01-24 12:19:26 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:19:26 --> URI Class Initialized
+DEBUG - 2011-01-24 12:19:26 --> Router Class Initialized
+DEBUG - 2011-01-24 12:19:26 --> Output Class Initialized
+DEBUG - 2011-01-24 12:19:26 --> Input Class Initialized
+DEBUG - 2011-01-24 12:19:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:19:26 --> Language Class Initialized
+DEBUG - 2011-01-24 12:19:26 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:19:26 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:19:26 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:19:26 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:19:26 --> Session Class Initialized
+DEBUG - 2011-01-24 12:19:26 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:19:26 --> Session routines successfully run
+DEBUG - 2011-01-24 12:19:26 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:19:26 --> Final output sent to browser
+DEBUG - 2011-01-24 12:19:26 --> Total execution time: 0.0422
+DEBUG - 2011-01-24 12:19:27 --> Config Class Initialized
+DEBUG - 2011-01-24 12:19:27 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:19:27 --> URI Class Initialized
+DEBUG - 2011-01-24 12:19:27 --> Router Class Initialized
+DEBUG - 2011-01-24 12:19:27 --> Output Class Initialized
+DEBUG - 2011-01-24 12:19:27 --> Input Class Initialized
+DEBUG - 2011-01-24 12:19:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:19:27 --> Language Class Initialized
+DEBUG - 2011-01-24 12:19:27 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:19:27 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:19:27 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:19:28 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:19:28 --> Session Class Initialized
+DEBUG - 2011-01-24 12:19:28 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:19:28 --> Session routines successfully run
+DEBUG - 2011-01-24 12:19:28 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:19:28 --> Final output sent to browser
+DEBUG - 2011-01-24 12:19:28 --> Total execution time: 0.0875
+DEBUG - 2011-01-24 12:19:29 --> Config Class Initialized
+DEBUG - 2011-01-24 12:19:29 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:19:29 --> URI Class Initialized
+DEBUG - 2011-01-24 12:19:29 --> Router Class Initialized
+DEBUG - 2011-01-24 12:19:29 --> Output Class Initialized
+DEBUG - 2011-01-24 12:19:29 --> Input Class Initialized
+DEBUG - 2011-01-24 12:19:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:19:29 --> Language Class Initialized
+DEBUG - 2011-01-24 12:19:29 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:19:29 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:19:29 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:19:29 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:19:29 --> Session Class Initialized
+DEBUG - 2011-01-24 12:19:29 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:19:29 --> Session routines successfully run
+DEBUG - 2011-01-24 12:19:29 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:19:29 --> Final output sent to browser
+DEBUG - 2011-01-24 12:19:29 --> Total execution time: 0.0525
+DEBUG - 2011-01-24 12:19:30 --> Config Class Initialized
+DEBUG - 2011-01-24 12:19:30 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:19:30 --> URI Class Initialized
+DEBUG - 2011-01-24 12:19:30 --> Router Class Initialized
+DEBUG - 2011-01-24 12:19:30 --> Output Class Initialized
+DEBUG - 2011-01-24 12:19:30 --> Input Class Initialized
+DEBUG - 2011-01-24 12:19:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:19:30 --> Language Class Initialized
+DEBUG - 2011-01-24 12:19:30 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:19:30 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:19:30 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:19:30 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:19:30 --> Session Class Initialized
+DEBUG - 2011-01-24 12:19:30 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:19:30 --> Session routines successfully run
+DEBUG - 2011-01-24 12:19:30 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:19:30 --> Final output sent to browser
+DEBUG - 2011-01-24 12:19:30 --> Total execution time: 0.1204
+DEBUG - 2011-01-24 12:19:31 --> Config Class Initialized
+DEBUG - 2011-01-24 12:19:31 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:19:31 --> URI Class Initialized
+DEBUG - 2011-01-24 12:19:31 --> Router Class Initialized
+DEBUG - 2011-01-24 12:19:31 --> Output Class Initialized
+DEBUG - 2011-01-24 12:19:31 --> Input Class Initialized
+DEBUG - 2011-01-24 12:19:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:19:31 --> Language Class Initialized
+DEBUG - 2011-01-24 12:19:31 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:19:31 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:19:31 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:19:31 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:19:31 --> Session Class Initialized
+DEBUG - 2011-01-24 12:19:31 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:19:31 --> Session routines successfully run
+DEBUG - 2011-01-24 12:19:31 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:19:31 --> Final output sent to browser
+DEBUG - 2011-01-24 12:19:31 --> Total execution time: 0.0319
+DEBUG - 2011-01-24 12:19:32 --> Config Class Initialized
+DEBUG - 2011-01-24 12:19:32 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:19:32 --> URI Class Initialized
+DEBUG - 2011-01-24 12:19:32 --> Router Class Initialized
+DEBUG - 2011-01-24 12:19:32 --> Output Class Initialized
+DEBUG - 2011-01-24 12:19:32 --> Input Class Initialized
+DEBUG - 2011-01-24 12:19:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:19:32 --> Language Class Initialized
+DEBUG - 2011-01-24 12:19:32 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:19:32 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:19:32 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:19:32 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:19:32 --> Session Class Initialized
+DEBUG - 2011-01-24 12:19:32 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:19:32 --> Session routines successfully run
+DEBUG - 2011-01-24 12:19:32 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:19:32 --> Final output sent to browser
+DEBUG - 2011-01-24 12:19:32 --> Total execution time: 0.0293
+DEBUG - 2011-01-24 12:19:34 --> Config Class Initialized
+DEBUG - 2011-01-24 12:19:34 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:19:34 --> URI Class Initialized
+DEBUG - 2011-01-24 12:19:34 --> Router Class Initialized
+DEBUG - 2011-01-24 12:19:34 --> Output Class Initialized
+DEBUG - 2011-01-24 12:19:34 --> Input Class Initialized
+DEBUG - 2011-01-24 12:19:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:19:34 --> Language Class Initialized
+DEBUG - 2011-01-24 12:19:34 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:19:34 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:19:34 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:19:34 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:19:34 --> Session Class Initialized
+DEBUG - 2011-01-24 12:19:34 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:19:34 --> Session routines successfully run
+DEBUG - 2011-01-24 12:19:34 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:19:34 --> Final output sent to browser
+DEBUG - 2011-01-24 12:19:34 --> Total execution time: 0.0348
+DEBUG - 2011-01-24 12:20:23 --> Config Class Initialized
+DEBUG - 2011-01-24 12:20:23 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:20:23 --> URI Class Initialized
+DEBUG - 2011-01-24 12:20:23 --> Router Class Initialized
+DEBUG - 2011-01-24 12:20:23 --> Output Class Initialized
+DEBUG - 2011-01-24 12:20:23 --> Input Class Initialized
+DEBUG - 2011-01-24 12:20:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:20:23 --> Language Class Initialized
+DEBUG - 2011-01-24 12:20:23 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:20:23 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:20:23 --> Config Class Initialized
+DEBUG - 2011-01-24 12:20:23 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:20:23 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:20:23 --> URI Class Initialized
+DEBUG - 2011-01-24 12:20:23 --> Router Class Initialized
+DEBUG - 2011-01-24 12:20:23 --> Output Class Initialized
+DEBUG - 2011-01-24 12:20:23 --> Input Class Initialized
+DEBUG - 2011-01-24 12:20:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:20:23 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:20:23 --> Language Class Initialized
+DEBUG - 2011-01-24 12:20:23 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:20:23 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:20:23 --> Session Class Initialized
+DEBUG - 2011-01-24 12:20:23 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:20:23 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:20:23 --> Session routines successfully run
+DEBUG - 2011-01-24 12:20:23 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:20:23 --> Final output sent to browser
+DEBUG - 2011-01-24 12:20:23 --> Total execution time: 0.0597
+DEBUG - 2011-01-24 12:20:23 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:20:23 --> Session Class Initialized
+DEBUG - 2011-01-24 12:20:23 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:20:23 --> Session routines successfully run
+DEBUG - 2011-01-24 12:20:23 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:20:23 --> Final output sent to browser
+DEBUG - 2011-01-24 12:20:23 --> Total execution time: 0.0682
+DEBUG - 2011-01-24 12:21:23 --> Config Class Initialized
+DEBUG - 2011-01-24 12:21:23 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:21:23 --> URI Class Initialized
+DEBUG - 2011-01-24 12:21:23 --> Router Class Initialized
+DEBUG - 2011-01-24 12:21:23 --> Output Class Initialized
+DEBUG - 2011-01-24 12:21:23 --> Input Class Initialized
+DEBUG - 2011-01-24 12:21:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:21:23 --> Language Class Initialized
+DEBUG - 2011-01-24 12:21:23 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:21:23 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:21:23 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:21:23 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:21:23 --> Session Class Initialized
+DEBUG - 2011-01-24 12:21:23 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:21:23 --> Config Class Initialized
+DEBUG - 2011-01-24 12:21:23 --> Hooks Class Initialized
+DEBUG - 2011-01-24 12:21:23 --> Session routines successfully run
+DEBUG - 2011-01-24 12:21:23 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:21:23 --> URI Class Initialized
+DEBUG - 2011-01-24 12:21:23 --> Final output sent to browser
+DEBUG - 2011-01-24 12:21:23 --> Total execution time: 0.0356
+DEBUG - 2011-01-24 12:21:23 --> Router Class Initialized
+DEBUG - 2011-01-24 12:21:23 --> Output Class Initialized
+DEBUG - 2011-01-24 12:21:23 --> Input Class Initialized
+DEBUG - 2011-01-24 12:21:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2011-01-24 12:21:23 --> Language Class Initialized
+DEBUG - 2011-01-24 12:21:23 --> Loader Class Initialized
+DEBUG - 2011-01-24 12:21:23 --> Helper loaded: url_helper
+DEBUG - 2011-01-24 12:21:23 --> Helper loaded: file_helper
+DEBUG - 2011-01-24 12:21:23 --> Database Driver Class Initialized
+DEBUG - 2011-01-24 12:21:23 --> Session Class Initialized
+DEBUG - 2011-01-24 12:21:23 --> Helper loaded: string_helper
+DEBUG - 2011-01-24 12:21:23 --> Session routines successfully run
+DEBUG - 2011-01-24 12:21:23 --> Controller Class Initialized
+DEBUG - 2011-01-24 12:21:23 --> Final output sent to browser
+DEBUG - 2011-01-24 12:21:23 --> Total execution time: 0.0292

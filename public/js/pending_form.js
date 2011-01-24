@@ -139,7 +139,8 @@ var pending_form = new Ext.form.FormPanel({
 	}]
 });
 var pending_win = new Ext.Window({
-	renderTo:Ext.getBody(),
+	//renderTo:Ext.getBody(),
+	el:'pending_win_dv',
 	width:570,
 	title:'批號送出設定',
 	layout:'fit',

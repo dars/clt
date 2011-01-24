@@ -143,7 +143,8 @@ var his_form = new Ext.form.FormPanel({
 });
 
 var his_win = new Ext.Window({
-	renderTo:Ext.getBody(),
+	//renderTo:Ext.getBody(),
+	el:'his_win_dv',
 	width:570,
 	title:'破片設定',
 	layout:'fit',

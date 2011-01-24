@@ -25,45 +25,21 @@ Ext.onReady(function(){
 		id:'tp',
 		region:'center',
 		items:[
-			order,
-			pending,
-			batches,
-			bad,
-			his,
-			prod_grid,
-			cust_grid,
-			users/*,
-			property*/
+			order,pending,batches,bad,his,prod_grid,cust_grid,users
 		]
 	});
 	var vp = new Ext.Viewport({
 		layout:'border',
 		items:[{
 			region:'north',
-			html:"<img src='public/images/logo.png'>",
+			html:"<img src='"+base_url+"public/images/logo.png'>",
 			height:60
 		},tp]
 	});
-	/*
-	Ext.getBody().on('keypress',function(e){
-		console.log(e.getKey());
-		if(e.getKey() == 110){
-			if(keyn == 1){
-				add_order();
-			}else{
-				keyn = 1;
-				setTimeout(function(){
-					keyn=0;
-				},1500);
-			}
-		}
-	});
-	*/
 	
 	var new_order = new Ext.KeyMap(document,{
 		key:Ext.EventObject.SPACE,
 		fn:function(){
-			//console.log(123);
 			if(keyn == 1){
 				add_order();
 			}else{

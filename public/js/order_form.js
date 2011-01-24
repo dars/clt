@@ -231,13 +231,15 @@ var order_form = new Ext.form.FormPanel({
 					name:'spec3_l',
 					xtype:'textfield',
 					emptyText:'長',
-					width:68
+					width:68,
+					tabIndex:70
 				},{
 					id:'order_spec3_s',
 					name:'spec3_s',
 					xtype:'textfield',
 					emptyText:'短',
-					width:68
+					width:68,
+					tabIndex:75
 				}]
 			},{
 				xtype:'compositefield',
@@ -247,13 +249,15 @@ var order_form = new Ext.form.FormPanel({
 					name:'spec4_l',
 					xtype:'textfield',
 					emptyText:'長',
-					width:68
+					width:68,
+					tabIndex:80
 				},{
 					id:'order_spec4_s',
 					name:'spec4_s',
 					xtype:'textfield',
 					emptyText:'短',
-					width:68
+					width:68,
+					tabIndex:85
 				}]
 			},{
 				xtype:'compositefield',
@@ -263,7 +267,8 @@ var order_form = new Ext.form.FormPanel({
 					name:'spec5_num',
 					xtype:'textfield',
 					width:40,
-					emptyText:'分'
+					emptyText:'分',
+					tabIndex:90
 				},{
 					xtype:'displayfield',
 					value:'/',
@@ -273,19 +278,22 @@ var order_form = new Ext.form.FormPanel({
 					name:'spec5_l',
 					xtype:'textfield',
 					emptyText:'長',
-					width:40
+					width:40,
+					tabIndex:95
 				},{
 					id:'order_spec5_s',
 					name:'spec5_s',
 					xtype:'textfield',
 					emptyText:'短',
-					width:40
+					width:40,
+					tabIndex:100
 				}]
 			},{
 				xtype:'checkbox',
 				fieldLabel:'打洞',
 				name:'spec6',
-				inputValue:1
+				inputValue:1,
+				tabIndex:105
 			}]
 		},{
 			columnWidth:1,
@@ -294,13 +302,15 @@ var order_form = new Ext.form.FormPanel({
 				fieldLabel:'備註',
 				xtype:'textarea',
 				width:393,
-				name:'content'
+				name:'content',
+				tabIndex:110
 			},{
 				xtype:'fileuploadfield',
 				name:'img',
 				fieldLabel:'圖檔上傳',
 				buttonText:'瀏覽',
-				width:390
+				width:390,
+				tabIndex:115
 			},{
 				xtype:'displayfield',
 				name:'img_name',
@@ -349,11 +359,11 @@ unit_list_ds.on('load',function(){
 	if(old_unit){order_form.getForm().findField('unit_id').setValue(old_unit);}
 });
 var order_win = new Ext.Window({
-	renderTo:Ext.getBody(),
+	//renderTo:Ext.getBody(),
+	el:'order_win_dv',
 	width:570,
 	title:'訂單表單',
 	layout:'fit',
-	modal:true,
 	height:380,
 	closeAction:'hide',
 	items:[order_form]
