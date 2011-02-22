@@ -371,7 +371,7 @@ var ipad_spec5_render = function(v,r){
 	}
 };
 var ipad_spec6_render = function(v,r){
-	if(v === '1'){
+	if(r.get('spec6') === '1'){
 		return "打洞";
 	}else{
 		return '';

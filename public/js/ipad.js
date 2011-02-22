@@ -15,7 +15,7 @@ Ext.setup({
 			fullscreen:true,
 			ui:'light',
 			cardSwitchAnimation:{
-				type:'slide',
+				type:'cube',
 				cover:true
 			},
 			defaults:{
