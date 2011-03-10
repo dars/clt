@@ -22,15 +22,17 @@ class History extends Controller{
 			$where.= "f.name LIKE '%".$keyword."%')";
 			$this->db->where($where);
 		}else{
-			$this->db->where('a.status',1);
+			$where = '(a.status=1) and (';
+			$where.= "a.modified LIKE '".date('Y-m-d',mktime(0,0,0,date('m'),date('d'),date('Y')))."%' or ";
+			$where.= "a.modified LIKE '".date('Y-m-d',mktime(0,0,0,date('m'),date('d')-1,date('Y')))."%')";
+			$this->db->where($where);
 		}
 		$this->db->order_by('a.modified','DESC');
-		$this->db->limit($this->input->post('limit'),$this->input->post('start'));
 		$query = $this->db->get('batches as a');
 		//echo $this->db->last_query();
 		$res = new stdClass();
 		$res->root = $query->result();
-		$res->totalProperty = $this->db->count_all_results('batches');
+		$res->totalProperty = $query->num_rows();
 		echo json_encode($res);
 	}
 	function save(){

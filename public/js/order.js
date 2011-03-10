@@ -31,17 +31,8 @@ var order_store = new Ext.data.JsonStore({
 		{name:'created',type:'string'},
 		{name:'modified',type:'string'}
 	]
-	//remoteSort:true
 });
-order_store.on('load',function(){
-	/*
-	if(order_store.data.length>0){
-		last_order_id = order_store.getAt(0).data.id;
-	}else{
-		last_order_id = 0;
-	}
-	*/
-});
+
 
 var order_sm = new Ext.grid.CheckboxSelectionModel();
 var order_cm = new Ext.grid.ColumnModel([
@@ -171,15 +162,7 @@ var order = new Ext.grid.GridPanel({
 					}
 				});
 			}
-		},order_status_combo/*,'-',{
-			id:'order_filter',
-			text:'搜尋',
-			iconCls:'ss_sprite ss_zoom',
-			tooltip:'過濾目前清單',
-			handler:function(){
-				order_fwin.show();
-			}
-		}*/
+		},order_status_combo
 	])
 });
 order.on('render',function(){
@@ -189,7 +172,7 @@ order.on('rowdblclick',function(){
 	edit_order();
 });
 var add_order = function(){
-	order_form.getForm().reset();
+	setTimeout(function(){order_form.getForm().reset()},50);
 	order_form.buttons[0].setText('新增');
 	order_win.show();
 };

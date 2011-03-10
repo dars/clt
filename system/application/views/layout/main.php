@@ -15,23 +15,22 @@
 		<link rel="stylesheet" href="<?=site_url('public/css/lightbox.css')?>" />
 		<link rel="stylesheet" href="<?=site_url('public/css/icons/sprite.css')?>" />
 		<link rel="stylesheet" href="<?=site_url('public/css/admin.css')?>" />
-		
-		<script type="text/javascript" src="<?=site_url('public/js/head.min.js')?>"></script>
-		
+				
 		<script type="text/javascript" src="<?=site_url('public/js/ext/ext-base.js')?>"></script>
 		<script type="text/javascript" src="<?=site_url('public/js/ext/ext-all-debug.js')?>"></script>
 		<script type="text/javascript" src="<?=site_url('public/js/ext/ext-lang-zh_TW.js')?>"></script>
+		<script type="text/javascript">
+			var base_url="<?=site_url();?>";
+			var last_bad_id;
+			var last_order_id;
+			Ext.BLANK_IMAGE_URL = base_url+'public/resources/images/default/s.gif';
+		</script>
 		<script type="text/javascript" src="<?=site_url('public/js/Growl.js')?>"></script>
 		<script type="text/javascript" src="<?=site_url('public/js/ext/FileUploadField.js')?>"></script>
 		<script type="text/javascript" src="<?=site_url('public/js/ext/RowEditor.js')?>"></script>
 		<script type="text/javascript" src="<?=site_url('public/js/ext/lightbox.js')?>"></script>
 		<script type="text/javascript" src="<?=site_url('public/js/Growl.js')?>"></script>
-		<script type="text/javascript">
-			var base_url="<?=site_url();?>";
-			var last_bad_id;
-			var last_order_id;
-			Ext.BLANK_IMAGE_URL="<?=site_url('public/resources/images/default/s.gif')?>";
-		</script>
+
 		<script type="text/javascript" src="<?=site_url('public/js/render.js')?>"></script>
 		<script type="text/javascript" src="<?=site_url('public/js/login.js')?>"></script>
 		<script type="text/javascript" src="<?=site_url('public/js/prod_grid.js')?>"></script>

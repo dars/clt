@@ -29,7 +29,8 @@ var his_ds = new Ext.data.JsonStore({
 		{name:'spec5_s',type:'string'},
 		{name:'spec6',type:'string'},
 		{name:'content',type:'string'},
-		{name:'img',type:'string'}
+		{name:'img',type:'string'},
+		{name:'modified',type:'string'}
 	],
 	remoteSort:true
 });
@@ -37,6 +38,7 @@ var his_ds = new Ext.data.JsonStore({
 var his_cm = new Ext.grid.ColumnModel([
 	new Ext.grid.RowNumberer(),
 	{header:'id',dataIndex:'id',hidden:true},
+	{header:'日期',dataIndex:'modified',renderer:function(v){return v.substr(0,10);}},
 	{header:'批號',dataIndex:'batch_num',sortable:true},
 	{header:'產品名稱',dataIndex:'pname',width:65,sortable:true},
 	{header:'客戶名稱',dataIndex:'cname',width:65,sortable:true},
@@ -57,6 +59,21 @@ var his = new Ext.grid.GridPanel({
 	stripeRows:true,
 	enableHdMenu:false,
 	columnLines:true,
+	tbar:new Ext.Toolbar({
+		buttonAlign:'right',
+		items:[{xtype:'tbspacer'},{
+			xtype:'textfield',
+			name:'his_filter',
+			id:'his_filter'
+		},{
+			xtype:'button',
+			text:'搜尋',
+			handler:function(){
+				var keyword = Ext.get('his_filter').getValue();
+				his_ds.load({params:{keyword:keyword}});
+			}		
+		}]
+	}),
 	bbar:new Ext.PagingToolbar({
 		pageSize:15,
 		store:his_ds,
@@ -72,6 +89,9 @@ var his = new Ext.grid.GridPanel({
 					}
 				});
 			}
+		},{
+			xtype:'displayfield',
+			value:'預設呈現本日與前一天的歷史批號'
 		}]
 	})
 });

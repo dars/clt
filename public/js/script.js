@@ -78,6 +78,7 @@ Ext.onReady(function(){
 	Ext.ux.Lightbox.register('a[rel^=lightbox]');
 });
 function show_Growl(type,title,string){
+	/*
 	if(type == 1){
 		Ext.ux.Growl.notify({
 			title: title, 
@@ -95,6 +96,7 @@ function show_Growl(type,title,string){
 			offset: [-10, 10]
 		});
 	}
+	*/
 }
 var setTabs = function(obj){
 	if(obj.permission1 != 1){

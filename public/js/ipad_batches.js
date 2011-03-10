@@ -76,6 +76,84 @@ var card2 = new Ext.List({
 	loadingText:'讀取中...',
 	emptyText:'尚無需設定的批號記錄'
 });
+
+card2.on('itemTap',function(obj,index){
+	batches_form.loadRecord(obj.getStore().getAt(index));
+	batches_form.getComponent('block2').getComponent('num').setValue(obj.getStore().getAt(index).get('num2')-obj.getStore().getAt(index).get('batch_num'));
+	if(obj.getStore().getAt(index).get('img') !== ''){
+		batches_form.getComponent('block2').getComponent('img').value = obj.getStore().getAt(index).get('img');
+	}
+	batches_form.show();
+});
+var batches_form = new Ext.form.FormPanel({
+	scroll:'vertical',
+	standardSubmit:false,
+	autoRender:true,
+	floating:true,
+	modal:true,
+	centered:true,
+	height:650,
+	width:550,
+	items:[{
+		id:'block2',
+		xtype:'fieldset',
+		title:'確認訂單批號資訊',
+		instructions:'僅可確認相關資訊並不可修改',
+		defaults:{
+			disabledCls:'',
+			disabled:true
+		},
+		items:[{
+			xtype:'textfield',
+			name:'pname',
+			label:'產品名稱'
+		},{
+			xtype:'textfield',
+			name:'cname',
+			label:'客戶名稱'
+		},{
+			xtype:'displayfield',
+			name:'size',
+			label:'尺寸',
+			style:'height:70px;'
+		},{
+			xtype:'textfield',
+			label:'加工細項',
+			name:'spec'
+		},{
+			xtype:'spinnerfield',
+			label:'數量',
+			id:'num',
+			name:'num'
+		},{
+			label:'備註',
+			name:'content',
+			xtype:'textfield'
+		},{
+			xtype:'hiddenfield',
+			name:'id',
+			disabled:false
+		},{
+			xtype:'displayfield',
+			label:'圖片',
+			id:'img',
+			name:'img',
+			value:'',
+			autoCapitalize:false
+		}]
+	}],
+	dockedItems:[{
+		xtype:'toolbar',
+		dock:'bottom',
+		items:[{
+			text:'取消',
+			handler:function(){
+				batches_form.hide();
+			}
+		}]
+	}]
+});
+
 var card2_panel = new Ext.Panel({
 	modal:true,
 	layout:'fit',

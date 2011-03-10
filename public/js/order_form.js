@@ -359,7 +359,6 @@ unit_list_ds.on('load',function(){
 	if(old_unit){order_form.getForm().findField('unit_id').setValue(old_unit);}
 });
 var order_win = new Ext.Window({
-	//renderTo:Ext.getBody(),
 	el:'order_win_dv',
 	width:570,
 	title:'訂單表單',

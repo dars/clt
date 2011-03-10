@@ -1,7 +1,7 @@
 Ext.setup({
-	icon:'../public/images/icon.png',
-	tabletStartupScreen:'../public/images/tablet_startup.png',
-	phoneStartupScreen:'../public/images/phone_startup.png',
+	icon:base_url+'public/images/icon.png',
+	tabletStartupScreen:base_url+'public/images/tablet_startup.png',
+	phoneStartupScreen:base_url+'public/images/phone_startup.png',
 	glossOnIcon:true,
 	onReady:function(){
 		var tabpanel = new Ext.TabPanel({
@@ -15,7 +15,7 @@ Ext.setup({
 			fullscreen:true,
 			ui:'light',
 			cardSwitchAnimation:{
-				type:'cube',
+				type:'slide',
 				cover:true
 			},
 			defaults:{
