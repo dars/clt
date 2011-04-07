@@ -2,7 +2,7 @@
 class History extends Controller{
 	function __construct(){parent::Controller();}
 	function index(){
-		$this->db->select('a.*,f.name as cname,e.num as bnum,d.name as uname,b.img,b.content,b.x1,b.y1,b.x2,b.y2,b.spec1_l,b.spec1_s,b.spec2_num,b.spec2_l,b.spec2_s,b.spec3_l,b.spec3_s,b.spec4_l,b.spec4_s,b.spec5_num,b.spec5_l,b.spec5_s,b.spec6,c.name as pname');
+		$this->db->select('a.*,f.name as cname,e.num as bnum,d.name as uname,b.img,b.content,b.x1,b.y1,b.x2,b.y2,b.spec1_l,b.spec1_s,b.spec2_num,b.spec2_l,b.spec2_s,b.spec3_l,b.spec3_s,b.spec4_l,b.spec4_s,b.spec5_num,b.spec5_l,b.spec5_s,b.spec6,b.spec7,b.spec8,c.name as pname');
 		$this->db->join('orders as b','a.order_id = b.id','left');
 		$this->db->join('products as c','b.product_id = c.id','left');
 		$this->db->join('units as d','b.unit_id = d.id','left');
@@ -24,10 +24,9 @@ class History extends Controller{
 		}else{
 			$where = '(a.status=1) and (';
 			$where.= "a.modified LIKE '".date('Y-m-d',mktime(0,0,0,date('m'),date('d'),date('Y')))."%' or ";
-			$where.= "a.modified LIKE '".date('Y-m-d',mktime(0,0,0,date('m'),date('d')-1,date('Y')))."%')";
 			$this->db->where($where);
 		}
-		$this->db->order_by('a.modified','DESC');
+		$this->db->order_by('a.batch_num','DESC');
 		$query = $this->db->get('batches as a');
 		//echo $this->db->last_query();
 		$res = new stdClass();

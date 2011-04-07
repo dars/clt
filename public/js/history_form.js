@@ -99,6 +99,24 @@ var his_form = new Ext.form.FormPanel({
 				name:'spec5',
 				id:'his_spec5'
 			},{
+				xtype:'checkbox',
+				fieldLabel:'打洞',
+				name:'spec6',
+				id:'padding_spec6',
+				disabled:true
+			},{
+				xtype:'checkbox',
+				fieldLabel:'膠合',
+				name:'spec7',
+				id:'padding_spec7',
+				disabled:true
+			},{
+				xtype:'checkbox',
+				fieldLabel:'烤漆',
+				name:'spec8',
+				id:'padding_spec8',
+				disabled:true
+			},{
 				name:'id',
 				xtype:'hidden'
 			}]

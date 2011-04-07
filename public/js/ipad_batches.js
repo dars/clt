@@ -27,6 +27,8 @@ Ext.regModel('Batch',{
 		{name:'spec5_l',type:'string'},
 		{name:'spec5_s',type:'string'},
 		{name:'spec6',type:'string'},
+		{name:'spec7',type:'string'},
+		{name:'spec8',type:'string'},
 		{name:'content',type:'string'},
 		{name:'spec',type:'string',convert:ipad_spec_render},
 		{name:'img',type:'string',convert:ipad_img_render}
@@ -182,7 +184,7 @@ var card2_panel = new Ext.Panel({
 						url:base_url+'batches/destory',
 						params:'foo[]='+tmp_id,
 						success:function(res){
-							Ext.Msg.alert('資料已刪除');
+							//Ext.Msg.alert('資料已刪除');
 							batch_ds.load();
 							pending_ds.load();
 							history_ds.load();
@@ -199,7 +201,7 @@ var card2_panel = new Ext.Panel({
     					Ext.Ajax.request({
 							url:base_url+'batches/save',
 							success:function(res){
-								Ext.Msg.alert('資料已送出');
+								//Ext.Msg.alert('資料已送出');
 								batch_ds.load();
 								pending_ds.load();
 								history_ds.load();

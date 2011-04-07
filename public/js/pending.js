@@ -33,7 +33,9 @@ var pending_ds = new Ext.data.JsonStore({
 		{name:'created',type:'string'},
 		{name:'modified',type:'string'},
 		{name:'img',type:'string'},
-		{name:'spec6',type:'string'}
+		{name:'spec6',type:'string'},
+		{name:'spec7',type:'string'},
+		{name:'spec8',type:'string'}
 	]
 });
 pending_ds.on('load',function(){

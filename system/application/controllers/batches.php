@@ -2,7 +2,7 @@
 class Batches extends Controller{
 	function __construct(){parent::Controller();}
 	function index(){
-		$this->db->select('a.*,d.name as uname,e.name as cname,b.x1,b.y1,b.x2,b.y2,b.spec1_l,b.spec1_s,b.spec2_num,b.spec2_l,b.spec2_s,b.spec3_l,b.spec3_s,b.spec4_l,b.spec4_s,b.spec5_num,b.spec5_l,b.spec5_s,b.spec6,b.content,c.name as pname');
+		$this->db->select('a.*,d.name as uname,e.name as cname,b.x1,b.y1,b.x2,b.y2,b.spec1_l,b.spec1_s,b.spec2_num,b.spec2_l,b.spec2_s,b.spec3_l,b.spec3_s,b.spec4_l,b.spec4_s,b.spec5_num,b.spec5_l,b.spec5_s,b.spec6,b.spec7,b.spec8,b.content,c.name as pname');
 		$this->db->join('orders as b','a.order_id = b.id','left');
 		$this->db->join('products as c','b.product_id = c.id','left');
 		$this->db->join('customers as e','b.customer_id = e.id','left');

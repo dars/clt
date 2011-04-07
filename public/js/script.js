@@ -1,6 +1,7 @@
 var tp;
 var refresh_time;
-var keyn=0;
+var keyn = 0;
+var qskey = 0;
 Ext.onReady(function(){
 	Ext.QuickTips.init();
 	Ext.override(Ext.data.Store, {
@@ -15,7 +16,6 @@ Ext.onReady(function(){
 		}
 	});
 	login_win.show();
-	//order_fwin.show();
 	var keyNav = new Ext.KeyNav(Ext.get('password'),{
 		enter:function(){
 			validate_login();
@@ -38,7 +38,7 @@ Ext.onReady(function(){
 	});
 	
 	var new_order = new Ext.KeyMap(document,{
-		key:Ext.EventObject.SPACE,
+		key:Ext.EventObject.SHIFT,
 		fn:function(){
 			if(keyn == 1){
 				add_order();
@@ -50,7 +50,24 @@ Ext.onReady(function(){
 			}
 		}
 	});
+	var quick_save_order = new Ext.KeyMap(document,{
+		key:Ext.EventObject.ENTER,
+		fn:function(){
+			console.log('Fire');
+			if(qskey == 1){
+				console.log('SAVE');	
+				save_order();
+			}else{
+				qskey = 1;
+				setTimeout(function(){
+					console.log('CANCEL');
+					qskey=0;
+				},800);
+			}
+		}
+	});
 	
+	/*
 	new Ext.KeyNav(document, {
 		enter: function(e){
 			var target = e.getTarget();
@@ -74,7 +91,7 @@ Ext.onReady(function(){
 			}
 		}
 	});
-	
+	*/
 	Ext.ux.Lightbox.register('a[rel^=lightbox]');
 });
 function show_Growl(type,title,string){
@@ -154,7 +171,7 @@ var order_sensor = function(){
 		},interval:refresh_time
 	}
 	var orderRunner = new Ext.util.TaskRunner();
-	orderRunner.start(task);
+	//orderRunner.start(task);
 };
 var bad_sensor = function(){
 	var task = {
@@ -174,7 +191,7 @@ var bad_sensor = function(){
 		},interval:refresh_time
 	}
 	var badRunner = new Ext.util.TaskRunner();
-	badRunner.start(task);
+	//badRunner.start(task);
 };
 
 var sensor_alert = function(title,content){

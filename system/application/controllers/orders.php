@@ -65,6 +65,25 @@ class Orders extends Controller{
 		$this->load->model('product_model');
 		$this->load->model('customer_model');
 		$tmp = array();
+		$tmp['x1']='';
+		$tmp['x2']='';
+		$tmp['y1']='';
+		$tmp['y2']='';
+		$tmp['spec1_l']='';
+		$tmp['spec1_s']='';
+		$tmp['spec2_num']='';
+		$tmp['spec2_l']='';
+		$tmp['spec2_s']='';
+		$tmp['spec3_l']='';
+		$tmp['spec3_s']='';
+		$tmp['spec4_l']='';
+		$tmp['spec4_s']='';
+		$tmp['spec5_num']='';
+		$tmp['spec5_l']='';
+		$tmp['spec5_s']='';
+		$tmp['spec6']=0;
+		$tmp['spec7']=0;
+		$tmp['spec8']=0;
 		$tmp_time = date('Y-m-d H:i:s');
 		$tmp['product_id'] = $this->product_model->chk_prod($this->input->post('product_id'));
 		$tmp['customer_id'] = $this->customer_model->chk_cust($this->input->post('customer_id'));
@@ -121,6 +140,12 @@ class Orders extends Controller{
 		}
 		if($this->input->post('spec6') == 1){
 			$tmp['spec6'] = 1;
+		}
+		if($this->input->post('spec7') == 1){
+			$tmp['spec7'] = 1;
+		}
+		if($this->input->post('spec8') == 1){
+			$tmp['spec8'] = 1;
 		}
 		$tmp['created'] = $tmp_time;
 		$tmp['modified'] = $tmp_time;

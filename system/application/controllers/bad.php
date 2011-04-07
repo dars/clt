@@ -2,7 +2,7 @@
 class Bad extends Controller{
 	function __construct(){parent::Controller();}
 	function index(){
-		$this->db->select('a.*,e.modified as bdate,b.content,e.batch_num,d.name as uname,f.name as cname,e.order_id,b.x1,b.y1,b.x2,b.y2,b.spec1_l,b.spec1_s,b.spec2_num,b.spec2_l,b.spec2_s,b.spec3_l,b.spec3_s,b.spec4_l,b.spec4_s,b.spec5_num,b.spec5_l,b.spec5_s,b.spec6,c.name as pname');
+		$this->db->select('a.*,e.modified as bdate,b.content,e.batch_num,d.name as uname,f.name as cname,e.order_id,b.x1,b.y1,b.x2,b.y2,b.spec1_l,b.spec1_s,b.spec2_num,b.spec2_l,b.spec2_s,b.spec3_l,b.spec3_s,b.spec4_l,b.spec4_s,b.spec5_num,b.spec5_l,b.spec5_s,b.spec6,b.spec7,b.spec8,c.name as pname');
 		$this->db->join('batches as e','a.batch_id = e.id','left');
 		$this->db->join('orders as b','e.order_id = b.id','left');
 		$this->db->join('products as c','b.product_id = c.id','left');

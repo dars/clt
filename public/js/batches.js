@@ -26,6 +26,8 @@ var batches_ds = new Ext.data.JsonStore({
 		{name:'spec5_l',type:'string'},
 		{name:'spec5_s',type:'string'},
 		{name:'spec6',type:'string'},
+		{name:'spec7',type:'string'},
+		{name:'spec8',type:'string'},
 		{name:'content',type:'string'}
 	]
 });

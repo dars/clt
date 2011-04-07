@@ -30,6 +30,8 @@ var order_ds = new Ext.data.JsonStore({
 		{name:'spec5_l',type:'string'},
 		{name:'spec5_s',type:'string'},
 		{name:'spec6',type:'string'},
+		{name:'spec7',type:'string'},
+		{name:'spec8',type:'string'},
 		{name:'img',type:'string'}
 	]
 });
@@ -294,6 +296,18 @@ var order_form = new Ext.form.FormPanel({
 				name:'spec6',
 				inputValue:1,
 				tabIndex:105
+			},{
+				xtype:'checkbox',
+				fieldLabel:'膠合',
+				name:'spec7',
+				inputValue:1,
+				tabIndex:110
+			},{
+				xtype:'checkbox',
+				fieldLabel:'烤漆',
+				name:'spec8',
+				inputValue:1,
+				tabIndex:115
 			}]
 		},{
 			columnWidth:1,
@@ -325,20 +339,7 @@ var order_form = new Ext.form.FormPanel({
 	buttons:[{
 		text:'儲存',
 		handler:function(){
-			if(order_form.getForm().isValid()){
-				old_prod = order_form.getForm().findField('product_id').getValue();
-				old_cust = order_form.getForm().findField('customer_id').getValue();
-				old_unit = order_form.getForm().findField('unit_id').getValue();
-				order_form.getForm().submit({
-					url:base_url+'orders/save',
-					success:function(data,res){
-						show_Growl(1,'訊息','資料已儲存');
-						order_form.getForm().reset();
-						order_win.hide();
-						order_store.reload();
-					}
-				});
-			}
+			save_order();
 		}
 	},{
 		text:'取消',
@@ -358,12 +359,30 @@ cust_list_ds.on('load',function(){
 unit_list_ds.on('load',function(){
 	if(old_unit){order_form.getForm().findField('unit_id').setValue(old_unit);}
 });
+
+var save_order = function(){
+	if(order_form.getForm().isValid()){
+	    old_prod = order_form.getForm().findField('product_id').getValue();
+	    old_cust = order_form.getForm().findField('customer_id').getValue();
+	    old_unit = order_form.getForm().findField('unit_id').getValue();
+	    order_form.getForm().submit({
+	    	url:base_url+'orders/save',
+	    	success:function(data,res){
+	    		show_Growl(1,'訊息','資料已儲存');
+	    		order_form.getForm().reset();
+	    		order_win.hide();
+	    		order_store.reload();
+	    	}
+	    });
+	}
+}
+
 var order_win = new Ext.Window({
 	el:'order_win_dv',
 	width:570,
 	title:'訂單表單',
 	layout:'fit',
-	height:380,
+	height:430,
 	closeAction:'hide',
 	items:[order_form]
 });

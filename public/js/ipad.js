@@ -51,7 +51,7 @@ Ext.setup({
 				url:base_url+'orders/order_sensor',
 				success:function(res){
 					if(chk_order_id < res.responseText){
-						Ext.Msg.alert('提醒','有新未處理訂單,請更新確認');
+						//Ext.Msg.alert('提醒','有新未處理訂單,請更新確認');
 					}
 					task_b.delay(real_ms);
 				}
@@ -67,6 +67,6 @@ Ext.setup({
 				}
 			});
 		});
-		task_a.delay(500);
+		//task_a.delay(500);
 	}
 });

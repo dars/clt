@@ -103,6 +103,12 @@ var spec_render = function(v,p,r){
 	if(spec6_render(v,p,r)){
 		tmp.push(spec6_render(v,p,r));
 	}
+	if(spec7_render(v,p,r)){
+		tmp.push(spec7_render(v,p,r));
+	}
+	if(spec8_render(v,p,r)){
+		tmp.push(spec8_render(v,p,r));
+	}
 	
 	return tmp.join(',');
 };
@@ -215,6 +221,20 @@ var spec6_render = function(v,p,r){
 		return '';
 	}
 };
+var spec7_render = function(v,p,r){
+	if(r.data.spec7 === '1'){
+		return "<span class=\"spec_info\">膠合</span>";
+	}else{
+		return '';
+	}
+};
+var spec8_render = function(v,p,r){
+	if(r.data.spec8 === '1'){
+		return "<span class=\"spec_info\">烤漆</span>";
+	}else{
+		return '';
+	}
+};
 var bad_render = function(v){
 	return "<span class=\"bad_num\">"+v+"</span>";
 };
@@ -270,6 +290,12 @@ var ipad_spec_render = function(v,r){
 	}
 	if(ipad_spec6_render(v,r)){
 		tmp.push(ipad_spec6_render(v,r));
+	}
+	if(ipad_spec7_render(v,r)){
+		tmp.push(ipad_spec7_render(v,r));
+	}
+	if(ipad_spec8_render(v,r)){
+		tmp.push(ipad_spec8_render(v,r));
 	}
 	return tmp.join(',');
 };
@@ -373,6 +399,20 @@ var ipad_spec5_render = function(v,r){
 var ipad_spec6_render = function(v,r){
 	if(r.get('spec6') === '1'){
 		return "打洞";
+	}else{
+		return '';
+	}
+};
+var ipad_spec7_render = function(v,r){
+	if(r.get('spec7') === '1'){
+		return "膠合";
+	}else{
+		return '';
+	}
+};
+var ipad_spec8_render = function(v,r){
+	if(r.get('spec8') === '1'){
+		return "烤漆";
 	}else{
 		return '';
 	}

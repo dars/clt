@@ -28,6 +28,8 @@ Ext.regModel('History',{
 		{name:'spec5_l',type:'string'},
 		{name:'spec5_s',type:'string'},
 		{name:'spec6',type:'string'},
+		{name:'spec7',type:'string'},
+		{name:'spec8',type:'string'},
 		{name:'content',type:'string'},
 		{name:'modified',type:'string',convert:function(v){return v.substr(0,10)}},
 		{name:'spec',type:'string',convert:ipad_spec_render},
@@ -45,11 +47,8 @@ var history_ds = new Ext.data.JsonStore({
 		}
 	},
 	sorters:[{
-		property:'modified',
+		property:'batch_num',
 		direction:'DESC'
-	},{
-		property:'pname',
-		direction:'ASC'
 	}],
 	getGroupString : function(record) {
 		return record.get('modified');
@@ -187,7 +186,7 @@ var history_form = new Ext.form.FormPanel({
 						'foo[]':history_form.getComponent('block4').getComponent('id').value
 					},
 					success:function(res){
-						Ext.Msg.alert('訊息','資料已刪除');
+						//Ext.Msg.alert('訊息','資料已刪除');
 						history_ds.load();
 						history_form.hide();
 					}

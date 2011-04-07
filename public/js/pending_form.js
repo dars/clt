@@ -95,6 +95,24 @@ var pending_form = new Ext.form.FormPanel({
 				fieldLabel:'異形面取',
 				name:'spec5',
 				id:'padding_spec5'
+			},{
+				xtype:'checkbox',
+				fieldLabel:'打洞',
+				name:'spec6',
+				id:'padding_spec6',
+				disabled:true
+			},{
+				xtype:'checkbox',
+				fieldLabel:'膠合',
+				name:'spec7',
+				id:'padding_spec7',
+				disabled:true
+			},{
+				xtype:'checkbox',
+				fieldLabel:'烤漆',
+				name:'spec8',
+				id:'padding_spec8',
+				disabled:true
 			}]
 		},{
 			columnWidth:1,
@@ -117,20 +135,6 @@ var pending_form = new Ext.form.FormPanel({
 		}]
 	}],
 	buttons:[{
-		text:'儲存',
-		handler:function(){
-			pending_form.getForm().submit({
-				url:base_url+'pending/save',
-				success:function(data){
-					show_Growl(1,'訊息','資料已儲存');
-					pending_form.getForm().reset();
-					pending_win.hide();
-					//pending_ds.reload();
-					batches_ds.load();
-				}
-			});
-		}
-	},{
 		text:'取消',
 		handler:function(){
 			pending_form.getForm().reset();
@@ -145,7 +149,7 @@ var pending_win = new Ext.Window({
 	title:'批號送出設定',
 	layout:'fit',
 	modal:true,
-	height:350,
+	height:430,
 	closeAction:'hide',
 	items:[pending_form]
 });
